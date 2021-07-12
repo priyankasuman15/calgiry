@@ -1,0 +1,92 @@
+[Event "Schleinich mem"]
+[Site "Calgary"]
+[Date "2013.01.06"]
+[Round "4"]
+[White "Neven, Knut"]
+[Black "Beaudry, Lukas"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2229"]
+[BlackElo "2101"]
+[Annotator "Hansen,E"]
+[PlyCount "103"]
+[EventDate "2013.??.??"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {One of the most
+fashionable setups against the Najdorf} e6 {The Scheveningen, more flexible
+than the other main move 6...e5} 7. f3 (7. g4 e5 8. Nf5 g6 9. g5 (9. Bg2)) 7...
+Qc7 $5 {A pretty rare move, as 7...b5 is the main move here. One downside of
+...Qc7 is that Black no longer has the option of the famous ...Rxc3 exchange
+sacrifice common in Sicilian positions. Movsesian-Kasparov is a famous game
+showing this} 8. Qd2 (8. g4 {Generally this is not as threatening when Black
+hasn't played ...Nbd7 yet because g5 doesn't threaten to cramp Black as he can
+always retreat with ...Nd7. Might as well develop first}) 8... Nbd7 9. g4 {Now
+you see why g4 is more powerful after Black has played ...Nbd7} Ne5 {Trying to
+free space for the other knight} (9... h6 {Would be a better reply. It forces
+White to spend at least three tempi to make g5 work after this move, so why
+not?} 10. h4 b5 11. a3 Bb7 12. O-O-O d5 13. Rg1 dxe4 14. g5 hxg5 15. hxg5 Nd5
+16. Nxd5 Bxd5 17. fxe4 Bxe4 18. Bg2 $13) 10. g5 Nfd7 (10... Nh5 11. f4 Nc4 12.
+Bxc4 Qxc4 13. O-O-O (13. f5)) 11. f4 {Black is simply underdeveloped and worse}
+Nc4 12. Bxc4 Qxc4 13. O-O-O (13. f5 Ne5 14. O-O-O Qc7) 13... b5 14. b3 $1 (14.
+Kb1 Bb7 (14... Be7) 15. a3 (15. f5)) (14. a3 $6 b4 15. axb4 Qxb4 $13 {[%csl
+Yb2] Black gets some annoying queenside counterplay}) 14... Qc7 (14... Qb4 $2
+15. f5 (15. Nc6 Qa3+ 16. Kb1 Bb7 17. Ka1 $1 $18 Bxc6 18. Nb1) (15. Kb2)) 15. f5
+$1 {White plays actively which is the only way to play here when you are far
+ahead in development. If he doesn't grab the initiative then Black will slowly
+develop and utilize the bishop pair advantage. By undermining e6 White is
+trying to force Black to concede the key battleground that is the d5 square. A
+typical double-edged Sicilian} (15. Kb1 $6 Bb7 16. f5 Rc8 $1 $132 {with active
+counterplay}) 15... Nc5 (15... e5 16. Nd5 Qb7 17. Nf3 $18 {Black is paralyzed})
+16. fxe6 (16. g6 hxg6 17. fxe6 Bxe6 18. Nxe6 fxe6 19. Qg2 O-O-O 20. Kb1 Be7)
+16... fxe6 17. Nf5 {White realizes that unless he acts fast his initiative and
+ideas are running out. Black is threatening ...b4} (17. Kb2 b4 18. Nce2 (18.
+Nd5 exd5 19. exd5 g6 20. Rhe1)) 17... Nb7 $2 {You have to accept the sacrifice,
+otherwise White has everything he wants} (17... exf5 18. Nd5 (18. exf5 Bxf5 $5
+(18... Bb7) 19. Qd5 Nxb3+ 20. axb3 Qxc3 21. Qxa8+ Kd7 22. Qb7+ $11 Ke8 23. Qa8+
+Kd7 24. Qb7+ $11) 18... Qc6 19. Bxc5 (19. exf5 Bxf5 (19... Bb7 20. Rhe1 Qxd5 (
+20... O-O-O 21. Qa5 $1 $44 Ne4 22. Bf4 Re8 23. Qb4 $16) 21. Bxc5+ Kf7 22. Qe2
+$18) 20. Bxc5 Qxc5 21. Rhf1 (21. Rhe1+ Kd8 22. Qa5+ Kd7 23. Rd2 Re8 24. Nb6+
+Qxb6 $1 25. Qxb6 Rxe1+ 26. Kb2 Re5 $17)) 19... Qxc5 20. Rhe1) 18. Rhe1 {
+Consistent} Bd7 19. Bd4 {Improving the bishop and increasing the pressure.
+Black is running out of moves} O-O-O (19... b4 20. Nd5 exd5 21. exd5+ (21.
+Nxg7+ Bxg7 22. Bxg7 Rg8 23. exd5+ Kd8 24. Bf6+ Kc8 25. Qxb4 Bf5) 21... Kd8 22.
+Qf2 Nc5 (22... Kc8 23. Bb6 Qc3 24. Kb1 Qh3 (24... Kb8 25. Rd4) 25. Rd4 Nc5 26.
+Ne7+ Bxe7 27. Rxe7 Rb8 28. Rxb4) 23. Nxg7 Bxg7 24. Bxg7 Re8 25. Rxe8+ Bxe8 26.
+Qf8 Nd7 (26... Qe7 27. Bf6) 27. Bf6+ Nxf6 28. gxf6 Rc8 29. c4 bxc3 30. Re1 Qf7
+31. Qxd6+ Qd7 32. Qb6+ Qc7 33. f7) (19... Bc6 20. Nd5 $1 $16 Bxd5 21. exd5 e5
+22. Bxe5 $1 dxe5 23. d6 Qc5 24. b4 $18 Qc6 25. Rxe5+ Kd7 26. Ne7 Qf3 27. Re3
+Qf4 28. Qc3 Qc4 29. Qe5 $18 {Finally Black can't stop Rc3 or Qf5 simultaneously
+}) (19... e5 20. Nd5 Qc6 21. Kb1 Rc8 (21... exd4 22. Nxd4 Qc5 23. b4 Qc8 24. e5
+$18) 22. Nb4 Qc7 23. Nxa6 Qd8 24. Bc3 $18) 20. Ne3 $2 (20. Nxg7 Bxg7 (20... e5
+21. Nd5 Qa5 (21... Qc6 22. Bb6 $1 Bxg7 23. Ne7+) 22. Qxa5 Nxa5 23. Bb6) 21.
+Bxg7 Rhg8 22. Bf6 Rdf8 23. Re3) (20. Bxg7 Bxg7 21. Nxg7 $18) 20... Kb8 21. Ncd5
+$1 {How many moves has White left his knight en prise? Black is still in too
+much disarray} (21. Kb2) 21... exd5 22. Nxd5 Qa5 23. Bc3 $6 (23. Qe3 $1 {The
+only move to keep an advantage. The threat of Ba7 followed by Nb6 is quite
+powerful} Qa3+ (23... Qxa2 24. Ba7+ Kc8 25. Kd2 {[%csl Ra2][%cal Rd1a1] is
+unstoppable} Qa5+ 26. b4 Qa4 27. Ra1) (23... Nc5 24. b4 $16) (23... Rc8 24.
+Ba7+ Ka8 25. Nb6+ Kxa7 26. Nc4+ Kb8 27. Nxa5 Nxa5 28. Kb2 $16) 24. Kb1 Rc8 25.
+Ba7+ Ka8 26. Rf1 Be6 27. Rxf8 Rhxf8 28. Nb6+ Kxa7 29. Nxc8+ Kb8 30. Qa7+ Kxc8
+31. Qa8+ Kc7 32. Qxf8) (23. Qxa5 Nxa5 24. Bb6 Nc6 25. Bxd8 Nxd8) 23... Qxa2 24.
+Nb4 Qa3+ 25. Bb2 (25. Kb1 Rc8 (25... d5)) 25... Qa5 {Black's queen escapes and
+White no longer enjoys the same compensation} 26. Bc3 Qb6 27. Nd5 Qc6 (27...
+Qc5 28. Kb2) 28. Nb4 Qb6 29. Nd5 Qc6 30. Nb4 Qb6 31. Kb2 {White goes for the
+kill despite being objectively worse} Be6 $4 (31... a5) (31... Nc5 32. Bd4 Bc8
+$1 $17 {Black can now recapture on c5 with the queen. White simply does not
+have enough compensation for the piece} 33. e5 (33. Qc3 Re8 (33... Be7 $2 34.
+Nd5 Qb7 35. Nxe7 Qxe7 36. Bxg7 $13) 34. Nd5 Qb7 $17) 33... d5) 32. Bd4 $18 Nc5
+33. Bxc5 dxc5 (33... Qxc5 34. Nxa6+) 34. Qxd8+ (34. Nc6+ Qxc6 35. Qxd8+ Bc8 36.
+Rf1) 34... Qxd8 35. Nc6+ $1 (35. Rxd8+ Kc7 36. Ra8 (36. Re8 Kd7 $1 $14) 36...
+cxb4 37. Rf1 Bc8 38. Rf7+ Kd8 39. e5) 35... Kc7 36. Nxd8 Bg4 37. Rd5 (37. Nf7)
+37... Be7 38. Nf7 Rf8 39. g6 hxg6 40. Ne5 Be6 (40... Bf6 41. Kb1 Be6 42. Rxc5+
+Kd6 43. Nxg6) 41. Nxg6 Bxd5 42. Nxf8 Bf7 43. e5 Kc6 (43... Bxf8 44. Rf1 Bxb3
+45. cxb3 Be7 46. Rf7 Kd7 47. Rxg7) 44. Rg1 Bh5 45. Ng6 Bd8 46. Nf4 Be8 47. Rxg7
+Bc7 48. Rg5 Kd7 49. h4 {White has converted with flawless precision} Bd8 50.
+Rg7+ Kc6 51. Rg8 Kd7 52. e6+ $138 {A pretty wild game! White had a commanding
+lead after the opening only to give most of it back in one move. The advantage
+shifted, but Black's last mistake was too much to salvage. An instructive way
+on how to keep the pressure up against a Sicilian Scheveningen structure!} 1-0
+

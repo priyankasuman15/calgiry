@@ -1,0 +1,137 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const methods = out.global.methods;
+  const ratings = out.global.ratings;
+  const addresses = out.global.context.addresses;
+
+}
+
+
+
+
+<h1>Ratings</h1>
+
+
+<div id="introduction" class="section">
+  <div class="pinned">
+    <h2>Introduction</h2>
+  </div>
+
+  <p>The following ranking lists are auto-generated from the most recent national and international player rating data available. If you think your name should appear on a ranking list but does not, please make sure to update your Calgary Chess Club membership account with the correct birthdate and CFC membership number. If your CFC membership has expired, your name is automatically removed from all ranking lists.</p>
+</div>
+
+
+<div id="adult" class="section">
+  <div class="grid grid--1of2">
+    <div class="grid__cell" id="topab">
+      <h4>Calgary Chess Club<br>Top Players</h4>
+      <div class="grid-table">
+        <span>##</span><span>Name (age)</span><span class="fide-logo"></span>
+        <for|key, rating| in=ratings.topAB>
+          <span>${key+1}.</span>
+          <span>${rating.personal.name.last}, ${rating.personal.name.first} <if(rating.personal.dob)>(${methods.getYearDifferenceFromIsoDate(rating.personal.dob)})</if></span>
+          <span><strong>${rating.data.cfc.elo.classical}</strong><if(rating.data.fide.elo.classical)> (${rating.data.fide.elo.classical})</if></span>
+        </for>
+      </div>
+    </div>
+
+    <div class="grid__cell" id="topabf">
+      <h4>Calgary Chess Club<br>Top Players Female</h4>
+      <div class="grid-table">
+        <span>##</span><span>Name (age)</span><span class="fide-logo"></span>
+        <for|key, rating| in=ratings.topABf>
+          <span>${key+1}.</span>
+          <span>${rating.personal.name.last}, ${rating.personal.name.first} <if(rating.personal.dob)>(${methods.getYearDifferenceFromIsoDate(rating.personal.dob)})</if></span>
+          <span><strong>${rating.data.cfc.elo.classical}</strong><if(rating.data.fide.elo.classical)> (${rating.data.fide.elo.classical})</if></span>
+        </for>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="junior" class="section">
+  <div class="grid grid--1of2">
+    <div class="grid__cell" id="junior20">
+      <h4>Calgary Chess Club<br>Top Juniors U20</h4>
+      <div class="grid-table">
+        <span>##</span><span>Name (age)</span><span class="fide-logo"></span>
+        <for|key, rating| in=ratings.topJR20>
+          <span>${key+1}.</span>
+          <span>${rating.personal.name.last}, ${rating.personal.name.first} <if(rating.personal.dob)>(${methods.getYearDifferenceFromIsoDate(rating.personal.dob)})</if></span>
+          <span><strong>${rating.data.cfc.elo.classical}</strong><if(rating.data.fide.elo.classical)> (${rating.data.fide.elo.classical})</if></span>
+        </for>
+      </div>
+    </div>
+
+    <div class="grid__cell" id="junior14">
+      <h4>Calgary Chess Club<br>Top Juniors U14</h4>
+      <div class="grid-table">
+        <span>##</span><span>Name (age)</span><span class="fide-logo"></span>
+        <for|key, rating| in=ratings.topJR14>
+          <span>${key+1}.</span>
+          <span>${rating.personal.name.last}, ${rating.personal.name.first} <if(rating.personal.dob)>(${methods.getYearDifferenceFromIsoDate(rating.personal.dob)})</if></span>
+          <span><strong>${rating.data.cfc.elo.classical}</strong><if(rating.data.fide.elo.classical)> (${rating.data.fide.elo.classical})</if></span>
+        </for>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="senior" class="section">
+  <div class="grid grid--1of2">
+    <div class="grid__cell" id="senior50">
+      <h4>Calgary Chess Club<br>Top Seniors 50+</h4>
+      <div class="grid-table">
+        <span>##</span><span>Name (age)</span><span class="fide-logo"></span>
+        <for|key, rating| in=ratings.topSR50>
+          <span>${key+1}.</span>
+          <span>${rating.personal.name.last}, ${rating.personal.name.first} <if(rating.personal.dob)>(${methods.getYearDifferenceFromIsoDate(rating.personal.dob)})</if></span>
+          <span><strong>${rating.data.cfc.elo.classical}</strong><if(rating.data.fide.elo.classical)> (${rating.data.fide.elo.classical})</if></span>
+        </for>
+      </div>
+    </div>
+
+    <div class="grid__cell" id="senior65">
+      <h4>Calgary Chess Club<br>Top Seniors 65+</h4>
+      <div class="grid-table">
+        <span>##</span><span>Name (age)</span><span class="fide-logo"></span>
+        <for|key, rating| in=ratings.topSR65>
+          <span>${key+1}.</span>
+          <span>${rating.personal.name.last}, ${rating.personal.name.first} <if(rating.personal.dob)>(${methods.getYearDifferenceFromIsoDate(rating.personal.dob)})</if></span>
+          <span><strong>${rating.data.cfc.elo.classical}</strong><if(rating.data.fide.elo.classical)> (${rating.data.fide.elo.classical})</if></span>
+        </for>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="faq" class="section">
+  <div class="pinned">
+    <h2>Frequently Asked Questions</h2>
+  </div>
+
+  <p></p>
+
+  <dl class="glossary">
+    <dt><dfn>Top Ratings</dfn></dt>
+    <dd>
+      <ul>
+        <li>All rating lists are auto-generated from the most recent national and international player rating data available. <a href="http://chess.ca">The Chess Federation of Canada</a> batch updates their player data every Wednesday for example, so ratings and expiry dates will update on our site on the same day.</li>
+        <li>If you think your name should appear on a ranking list but does not, please make sure to update your Calgary Chess Club membership account with the correct birthdate and CFC membership number.</li>
+        <li>If your CFC membership has expired, your name is automatically removed from all ranking lists. Spot any other inconsistencies or errors? Please let us know at <a href=`mailto:${addresses.info}`>${addresses.info}</a>!</li>
+        <li>Players who are club members but live in communities outside of Calgary may not appear on our rating lists. For more information please contact <a href=`mailto:${addresses.info}`>${addresses.info}</a>!</li>
+      </ul>
+    </dd>
+  </dl>
+</div>
+
+
+  </@body>
+</layout>

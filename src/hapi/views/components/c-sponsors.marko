@@ -1,0 +1,62 @@
+$ {
+
+  'use strict';
+
+
+  const needle = out.global.page;
+  const sponsors = require('../../data/sponsors');
+  const attributes = input;
+
+
+  function getSponsors() {
+
+    let active = [];
+
+    for (let i = 0; i < sponsors.length; i++) {
+      if (sponsors[i].active === 'y') {
+        sponsors[i].weight = Math.floor(Math.random() * 100);
+        active.push(sponsors[i]);
+      }
+    }
+
+    const key = 'weight';
+    return active.sort((a, b) => (a[key] > b[key]) ? 1 : -1);
+  }
+
+  const output = getSponsors();
+
+}
+
+
+
+
+<for|sponsor, index| of=output>
+  <!-- <if(sponsor.active === 'y')> -->
+
+    <div class="sponsor">
+      <span>
+        <h3>$!{sponsor.sponsor}</h3>
+        <p>
+          <if(sponsor.tagline)>
+            $!{sponsor.tagline}<br>
+          </if>
+          <if(sponsor.address)>
+            $!{sponsor.address}<br>
+          </if>
+          <if(sponsor.name)>
+            ${sponsor.name}<br>
+          </if>
+          <if(sponsor.phone)>
+            ${sponsor.phone}
+          </if>
+        </p>
+      </span>
+      <span>
+        <a href=`${sponsor.href}`>
+          <img src=`img/content/sponsors/${sponsor.img}` height="60" width="60" alt=`${sponsor.alt}`/>
+        </a>
+      </span>
+    </div>
+
+  <!-- </if> -->
+</for>

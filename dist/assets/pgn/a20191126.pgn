@@ -1,0 +1,162 @@
+
+[Event "Grand Tour Leg #3"]
+[Site "Calgary"]
+[Date "2019.12.10"]
+[Round "3"]
+[White "Ali, Abdul Husain"]
+[Black "Sibulo, Nerio"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "1752"]
+[BlackElo "1625"]
+[PlyCount "43"]
+[EventDate "2019.11.26"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.12.16"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. Be3 Nf6 6. Nc3 Nc6 7. Bc4 Nxd4 8.
+Bxd4 O-O 9. Bb3 a5 10. e5 Nh5 11. Qd2 d6 12. exd6 Qxd6 13. O-O-O e5 14. Be3
+Qxd2+ 15. Rxd2 Nf4 16. Bc5 Nxg2 17. Bxf8 Bxf8 18. Rd8 Kg7 19. Rhd1 Be7 20. Re8
+Bg5+ 21. Kb1 b6 22. Bd5 1-0
+
+[Event "Grand Tour Leg #3"]
+[Site "Calgary"]
+[Date "2019.12.10"]
+[Round "3"]
+[White "Blanchard, Michael"]
+[Black "Evans, Phil"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "2048"]
+[BlackElo "1387"]
+[PlyCount "55"]
+[EventDate "2019.11.26"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.12.16"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 a6 6. Bxc6 Bxc6 7. dxe5 dxe5 8.
+Qxd8+ Rxd8 9. Nxe5 Bb4 10. Nxc6 Bxc3+ 11. bxc3 bxc6 12. O-O Ne7 13. Rb1 O-O 14.
+Rb7 Rd7 15. Bf4 Ng6 16. Rxc7 Nxf4 17. Rxd7 Ne2+ 18. Kh1 Nxc3 19. f3 Nxa2 20.
+Ra1 Nb4 21. c3 Nc2 22. Rxa6 Rb8 23. h3 h6 24. Raa7 Ne1 25. Rxf7 Rb1 26. Rxg7+
+Kh8 27. Rgb7 Nxf3+ 28. Rxb1 1-0
+
+[Event "Grand Tour Leg #3"]
+[Site "Calgary"]
+[Date "2019.12.10"]
+[Round "3"]
+[White "Haessel, Dale"]
+[Black "Eslahpazir, Roham"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2243"]
+[BlackElo "1717"]
+[PlyCount "79"]
+[EventDate "2019.11.26"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. Nc3 Nc6 5. e5 Nd5 6. Bxc4 Be6 7. Bb3 Qd7 8.
+Nge2 Nxc3 9. bxc3 Na5 10. Bxe6 Qxe6 11. Qa4+ Nc6 12. O-O Qd7 13. Rb1 Rb8 14. d5
+Nxe5 15. Qxa7 Qc8 16. Bf4 Nd3 17. Bg3 e6 18. dxe6 fxe6 19. Nd4 Nc5 20. Nb5 Na6
+21. Qe3 Be7 22. Rfe1 O-O 23. Qxe6+ Qxe6 24. Rxe6 Bc5 25. Rbe1 c6 26. Nd6 Nc7
+27. R6e2 Na6 28. Ne4 Rbe8 29. Nf6+ Rxf6 30. Rxe8+ Kf7 31. Rd8 b5 32. Rd7+ Kg6
+33. h4 h5 34. Re4 Kh6 35. Re8 Bb6 36. Rh8+ Kg6 37. Rg8 Rf7 38. Rxf7 Kxf7 39.
+Rc8 c5 40. Rc6 1-0
+
+[Event "Grand Tour Leg #3"]
+[Site "Calgary"]
+[Date "2019.12.10"]
+[Round "3"]
+[White "Miller, Brian"]
+[Black "Anderson, Michael K"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1835"]
+[BlackElo "467"]
+[PlyCount "61"]
+[EventDate "2019.11.26"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 Nc6 4. Nb5 Qd7 5. Nxc7+ Kd8 6. Nxa8 e6 7. Nc7 Bd6 8.
+Nxe6+ fxe6 9. Bxd6 Qxd6 10. c3 e5 11. e3 e4 12. Ne2 Ng4 13. h3 Nh2 14. Ng3 Nxf1
+15. Rxf1 Ne7 16. Qb3 Rf8 17. O-O-O b6 18. Qa4 a5 19. Qb5 Bb7 20. Ne2 Nc8 21. f4
+exf3 22. Rxf3 Na7 23. Rxf8+ Qxf8 24. Qxb6+ Kc8 25. Qxa7 Qe7 26. Qc5+ Kd7 27.
+Qxe7+ Kxe7 28. Rf1 Ba6 29. Kd2 Bc4 30. b3 Bxe2 31. Kxe2 1-0
+
+[Event "Grand Tour Leg #3"]
+[Site "Calgary"]
+[Date "2019.12.10"]
+[Round "3"]
+[White "Wu, Jonathan"]
+[Black "Wensley, Tristan"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1580"]
+[PlyCount "45"]
+[EventDate "2019.11.26"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.12.16"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. Bd3 Bg6 5. Nf3 e6 6. c3 Bd6 7. Bg3 c6 8. Ne5
+Ne4 9. Nxg6 Qf6 10. Bxe4 Bxg3 11. hxg3 fxg6 12. Bf3 Nd7 13. Nd2 O-O-O 14. Qc2
+b5 15. a4 a6 16. axb5 axb5 17. b3 Nb6 18. c4 bxc4 19. bxc4 Kb7 20. c5 Nd7 21.
+Qb3+ Kc7 22. Ra7+ Kc8 23. Qb7# 1-0
+
+[Event "Grand Tour Leg #3"]
+[Site "Calgary"]
+[Date "2019.12.18"]
+[Round "5"]
+[White "Wu, Jonathan"]
+[Black "Evans, Phil"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1580"]
+[BlackElo "1387"]
+[PlyCount "63"]
+[EventDate "2019.11.26"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.12.19"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 g6 4. Nd2 Bg7 5. Be2 O-O 6. h4 Nc6 7. h5 Bf5 8. g4
+Bd7 9. g5 Ne4 10. Nxe4 dxe4 11. h6 Bh8 12. c3 a6 13. Qc2 Bf5 14. Rd1 Qc8 15.
+Bc4 e6 16. b4 b5 17. Bb3 a5 18. a3 a4 19. Ba2 Qb7 20. c4 Ne7 21. cxb5 Qxb5 22.
+Qxc7 Nd5 23. Bxd5 exd5 24. Qc5 Qb7 25. b5 Rfc8 26. Qb4 Rc4 27. Qb2 Rac8 28. Ne2
+Bg4 29. Rd2 Bxe2 30. Kxe2 Qd7 31. Rh4 Rb8 32. Bxb8 1-0

@@ -1,0 +1,15 @@
+
+/* PROGRESS.CSS */
+
+
+.progress {
+  background: linear-gradient(to right, var(--scroll-color) calc(100% * var(--scroll-position)), transparent 0);
+  background-repeat: no-repeat;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  z-index: 1000;
+}

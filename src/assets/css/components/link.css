@@ -1,0 +1,29 @@
+
+/* LINK.CSS */
+
+
+a {
+  outline: none;
+  text-decoration: none;
+  border-bottom: 1px solid var(--secondary-color);
+
+  &:link {
+    color: var(--text-color);
+  }
+
+  &:visited {
+    color: var(--text-color);
+  }
+
+  &:focus {
+    color: var(--text-color);
+  }
+
+  &:hover {
+    color: var(--text-color);
+  }
+
+  &:active {
+    color: var(--text-color);
+  }
+}

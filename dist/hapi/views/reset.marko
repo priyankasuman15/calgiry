@@ -1,0 +1,62 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const error = out.global.error;
+  const addresses = out.global.context.addresses;
+
+  const schemas = require('../configs/schemas');
+
+  const schema_email = schemas.getSchema('email');
+
+  const method = out.global.method || 'get';
+  const email = out.global.email || '';
+  const ip = out.global.ip || '';
+
+}
+
+
+
+
+<if(error)>
+  <div class="message message__error">
+    ${error.output.payload.statusCode} ${error.output.payload.error}<br>
+    ${error.output.payload.message}
+  </div>
+</if>
+
+
+<h1>Calgary Chess Club</h1>
+
+<h4>Membership Password Reset</h4>
+
+
+<if(method === 'get')>
+  <p>If you know the password for your account but would like to change it, you can do so by logging into your account followed by visiting <a href="/change">Change Password</a>.</p>
+  <p>If you forgot your password, this is the right place. To begin the secure password reset process, please enter the eMail address you used to register your membership account. A notification will be sent to that address with instructions for completing the process. Check your spam folder if nothing arrives in the next couple of minutes, just in case! If you need assistance, please contact <a href=`mailto:${addresses.admin}`>${addresses.admin}</a></p>
+
+  <form method="post" action="/reset">
+
+    <div>
+      <input type="email" id="email" name="email" required pattern=`${schema_email.pattern}` value=`${email}` placeholder=" ">
+      <label for="email">eMail</label>
+      <div class="requirements">
+        ${schema_email.error}
+      </div>
+    </div>
+
+    <button type="submit" id="submit" class="button button__action button__wide button__xl button__centered">Reset</button>
+
+  </form>
+</if>
+
+
+<else>
+  <p>We have sent a notification to ${email} with further instructions to complete the requested password reset! This message should arrive promptly, but can occasionally take a little longer like any other eMail transfer. You may also want to check your spam folder, just in case!</p>
+</else>
+
+
+  </@body>
+</layout>

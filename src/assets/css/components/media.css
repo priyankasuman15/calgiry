@@ -1,0 +1,81 @@
+
+/* MEDIA.CSS */
+
+
+.media {
+  position: relative;
+  margin: 120px 0;
+  padding-bottom: 80px;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  overflow: hidden;
+  background-image: url('../svg/royal/royal_01.svg');
+  background-size: 80px auto;
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+
+  &__compact {
+    margin: 40px 0;
+    padding-bottom: 0;
+    background-image: none;
+  }
+
+  &__media {
+    padding: 0 1rem 1rem 1rem;
+  }
+
+  &__title {
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 1;
+    margin: 4px 0 4px 0;
+  }
+
+  &__byline {
+    margin: 0 0 32px 0;
+    font-size: 1.2rem;
+    line-height: 1;
+    font-style: italic;
+  }
+
+  &__content {
+    margin: 8px 0;
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: hidden;
+    clear: both;
+    line-height: 2;
+    padding: 20px 0 0 0;
+  }
+
+  &__breakout {
+    margin-left: -92px;
+  }
+
+  &__body {
+    flex: 1;
+    /* margin: 0 0 0.5rem 0; */
+  }
+
+  &__body, &__body:last-child {
+    padding-bottom: 0;
+  }
+
+  &--center {
+    align-items: center;
+  }
+
+  &--reverse {
+    flex-direction: row-reverse;
+  }
+
+  /* & + & {
+    border-top: 1px solid var(--black-20);
+  } */
+}

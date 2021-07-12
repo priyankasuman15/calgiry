@@ -1,0 +1,92 @@
+
+/* FLATPICKR.CSS */
+
+
+.flatpickr-calendar {
+  /* margin: 0 auto; */
+}
+
+.flatpickr-output {
+  width: 300px;
+}
+
+.flatpickr-day.disabled,
+.flatpickr-day.disabled:hover {
+  cursor: not-allowed;
+  color: rgba(57, 57, 57, 1);
+}
+
+.flatpickr-day.nextMonthDay,
+.flatpickr-day.prevMonthDay,
+.flatpickr-day.nextMonthDay:hover,
+.flatpickr-day.prevMonthDay:hover {
+  color: rgba(57, 57, 57, 0.3);
+}
+
+.flatpickr-day.disabled.today {
+  outline: 0;
+  border-color: rgba(230, 230, 230, 1);
+  color: rgba(57, 57, 57, 1);
+}
+
+.flatpickr-day.disabled.cool {
+  cursor: help;
+  color: rgba(255, 255, 255, 1);
+  /* background-color: rgba(255, 208, 0, 1); */
+  background-color: rgba(230, 230, 230, 1);
+}
+
+/* .flatpickr-day.disabled.cool.today { */
+.flatpickr-day.today {
+  border-radius: 25%;
+  /* background: rgba(230, 230, 230, 1); */
+  /* color: rgba(0, 0, 0, 1); */
+  /* border-color: rgba(0, 0, 0, 1); */
+}
+
+
+
+
+:root {
+  --circle: 37px;
+  --item: 4px;
+  --bg-flatpickr-practice: rgba(0, 0, 0, .5);
+  --bg-flatpickr-game: rgba(238, 39, 36, 1)
+}
+
+
+.flatpickr-day.disabled.cool div.events {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: var(--circle);
+  width: var(--circle);
+  background-color: transparent;
+}
+
+.flatpickr-day.disabled.cool div.events span.event {
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  margin: calc(var(--item) / 2 * -1);
+  padding: 0;
+  top: 50%;
+  left: 50%;
+  height: var(--item);
+  width: var(--item);
+  /* border: 0px solid transparent; */
+  /* border-radius: 50%; */
+}
+
+.flatpickr-day.disabled.cool div.events span.league {
+  background-color: var(--bg-flatpickr-game);
+}
+
+.flatpickr-day.disabled.cool div.events span.practice {
+  background-color: var(--bg-flatpickr-practice);
+}
+
+/* http://jsfiddle.net/sajjansarkar/zgcgq8cg/ */
+/* https://css-tricks.com/snippets/sass/placing-items-circle/ */

@@ -1,0 +1,33 @@
+
+/* MESSAGE.CSS */
+
+
+.message {
+  display: block;
+  width: 40%;
+  margin: 4rem auto 2rem auto;
+  padding: 2rem;
+  /* color: var(--white-100); */
+  text-align: center;
+
+  &__info {
+    color: #00529B;
+    background-color: #BDE5F8;
+  }
+
+  &__success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+  }
+
+  &__warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+  }
+
+  &__error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+  }
+
+}

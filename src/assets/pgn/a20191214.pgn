@@ -1,0 +1,150 @@
+
+[Event "WBX"]
+[Site "Edmonton"]
+[Date "2019.12.14"]
+[Round "1"]
+[White "Srinivasan, Hemant"]
+[Black "Briones, Dante"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2071"]
+[BlackElo "1931"]
+[Annotator "Srinivasan,H"]
+[PlyCount "84"]
+[EventDate "2019.12.14"]
+[EventType "team-match"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.12.19"]
+
+1. d4 e6 2. c4 c5 3. d5 e5 4. e4 d6 5. Nf3 Nf6 6. Nc3 Be7 7. Be2 O-O 8. O-O Na6
+9. a3 Ne8 10. Rb1 g6 11. Ne1 f5 12. Nd3 f4 13. Bg4 Nf6 14. Bxc8 Qxc8 15. f3 Kh8
+16. Rf2 h5 17. g3 g5 18. Rg2 Rg8 19. b3 Qd7 20. b4 Rgc8 21. b5 Nb8 22. Ne2 Rg8
+23. Bb2 Kh7 24. gxf4 gxf4 25. Rxg8 Nxg8 26. Qf1 Bf8 27. Qg2 Qf7 28. Kh1 Nd7 29.
+Rg1 Bh6 {I was pretty happy with my position, but also allowed myself to get
+into a bit of trouble on the clock. To force my advantage, I decided now to
+sacrifice a piece. A few moves later I think White has good compensation, but
+I was still low on time} 30. Nexf4 exf4 31. e5 Qf5 32. e6 Ndf6 33. Nf2 Ne7 34.
+Ne4 Ne8 35. Qc2 b6 36. Qc3 Ng6 37. Qc2 Ne7 38. Qc3 Ng6 39. Qc2 Ne7 40. Qc3 Ng6
+41. Qc2 Ne7 42. Qc3 Ng6 {Low on time, I could think of nothing better than to
+repeat the position and settle for a draw} 1/2-1/2
+
+[Event "WBX"]
+[Site "Edmonton"]
+[Date "2019.12.14"]
+[Round "2"]
+[White "Nadi, Amr"]
+[Black "Srinivasan, Hemant"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1459"]
+[BlackElo "2071"]
+[Annotator "Srinivasan,H"]
+[PlyCount "64"]
+[EventDate "2019.12.14"]
+[EventType "team-match"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.12.19"]
+
+1. e4 c6 2. d4 d5 3. Bd3 dxe4 {Black's move is an unusual choice} 4. Bxe4 Nf6
+5. Bf3 Bf5 6. c4 e6 7. Nc3 Bd6 8. Nge2 O-O 9. O-O Qc7 10. g3 Rd8 11. Bg5 Nbd7
+12. Rc1 h6 13. Bd2 e5 14. Qb3 exd4 15. Nxd4 Nc5 16. Qd1 Bh3 17. Bg2 Bxg2 18.
+Kxg2 {White has completely missed the tactics surrounding the unprotected
+piece he has on d4, which leads to immediate punishment by} Bxg3 19. hxg3 Rxd4
+20. Qc2 Rxc4 21. b3 Rg4 22. Rfe1 Rd8 23. Be3 Nd3 24. Red1 Nxc1 25. Rxd8+ Qxd8
+26. Qxc1 Nd5 27. Kf3 h5 28. Ne4 Nxe3 29. Qxe3 Qd5 30. a3 Qf5+ 31. Kg2 Qxe4+ 32.
+Qxe4 Rxe4 0-1
+
+[Event "WBX"]
+[Site "Edmonton"]
+[Date "2019.12.14"]
+[Round "3"]
+[White "Srinivasan, Hemant"]
+[Black "Koperski, Dustin"]
+[Result "1-0"]
+[ECO "A59"]
+[WhiteElo "2071"]
+[BlackElo "1915"]
+[Annotator "Srinivasan,H"]
+[PlyCount "53"]
+[EventDate "2019.12.14"]
+[EventType "team-match"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.12.19"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Qc2 {In spite of not
+remembering the theory, White has managed to reach a decent position a pawn up.
+I don't think Black has sufficient compenssation for the pawn} Ng4 13. b3 Nge5
+14. Nd2 Qa5 15. Bb2 Rfb8 16. a4 c4 17. Nb5 cxb3 18. Nxb3 Qb6 19. Bd4 Qb7 20.
+Qc7 Nd3 21. Rhb1 N3c5 22. Nxc5 Nxc5 23. Qc6 {I wasn't sure once again how to
+press what I thought was a better position, and had only tried to avoid really
+drawish continuations} Ra6 $2 {But this blunder loses on the spot to} 24. Nxd6
+Rxc6 25. Nxb7 Bxd4 26. dxc6 Bxa1 27. Nxc5 1-0
+
+[Event "WBX"]
+[Site "Edmonton"]
+[Date "2019.12.15"]
+[Round "4"]
+[White "Young, Joseph"]
+[Black "Srinivasan, Hemant"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1851"]
+[BlackElo "2071"]
+[Annotator "Srinivasan,H"]
+[PlyCount "80"]
+[EventDate "2019.12.14"]
+[EventType "team-match"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.12.19"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. a3 Bd6 5. Bxd6 Qxd6 6. e3 O-O 7. Nf3 b6 8. Bd3
+Bb7 9. Nb5 Qe7 10. Ne5 c5 11. O-O Nfd7 12. f4 f5 13. Rf3 Nc6 14. Nxc6 Bxc6 15.
+Nc3 Nf6 16. Rh3 Rfb8 17. Qe1 c4 18. Be2 b5 19. Na2 a5 20. c3 Ne4 21. Bf3 Nf6
+22. Rc1 {Nothing much has happened in the opening, and I felt that neither
+side would be able to make big progress with their flank activities} b4 23.
+cxb4 Ba4 24. Bd1 Bb3 25. Nc3 axb4 26. axb4 Bxd1 27. Nxd1 Rxb4 {My temporary
+pawn sacrifice has been recovered, and Black's pieces now do look more active
+than the opponent's} 28. Qh4 Rba4 29. Rf3 Ra1 30. Rxa1 Rxa1 31. Rf1 Qb7 32. h3
+Qb3 33. Qe1 Ne4 34. g4 Qc2 35. gxf5 exf5 36. h4 Qc1 37. Kg2 Qc2+ 38. Kg1 Rc1
+39. h5 h6 40. Kh1 $2 Rxd1 $1 {That ends up in a nice fork on f2} 0-1
+
+[Event "WBX"]
+[Site "Edmonton"]
+[Date "2019.12.15"]
+[Round "5"]
+[White "Srinivasan, Hemant"]
+[Black "Razzaq, Ali"]
+[Result "1-0"]
+[ECO "A42"]
+[WhiteElo "2071"]
+[BlackElo "1867"]
+[Annotator "Srinivasan,H"]
+[PlyCount "123"]
+[EventDate "2019.12.14"]
+[EventType "team-match"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.12.19"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 h6 6. Bd3 Ne7 7. Be3 Nd7 8. O-O b6
+9. Rc1 Bb7 {I think Black's setup is called the Hippopotamus!} 10. Re1 g5 11.
+d5 e5 12. Nd2 Ng6 13. Nf1 Nf4 14. Ng3 a6 15. Nf5 Bf8 16. g3 Nxd3 17. Qxd3 g4
+18. Qd2 Qf6 19. b4 Qg6 20. Na4 Nf6 21. Nh4 Qh7 22. Nc3 Be7 23. Qc2 Bc8 24. Nf5
+Qg6 25. c5 bxc5 26. bxc5 Bxf5 27. exf5 Qh5 28. Ne4 Nxe4 29. Qxe4 O-O 30. Rc4
+Rfb8 31. Rb1 Rb5 32. a4 Rbb8 33. c6 Kg7 34. Rb7 Bd8 35. Rcb4 Rc8 36. a5 Kf6 {
+Even though White's pieces look better, I guess my positional play was not
+very good. I did not like being forced into an ending by exchanging queens
+after} 37. Qxg4 Qxg4 38. Rxg4 Kxf5 39. f3 Bg5 40. Kf2 Rcb8 41. Bxg5 hxg5 42.
+Rxc7 Rb2+ 43. Ke3 Rab8 44. Rxf7+ Kg6 45. Rb7 {Refusing the exchange of rooks,
+even if it means returning one of the extra pawns, would have drawn the game
+on the spot} R8xb7 46. cxb7 Rxb7 47. h4 Rb3+ 48. Ke2 Rb5 49. Rxg5+ Kf6 50. Rg8
+Rxd5 51. h5 e4 52. h6 exf3+ 53. Kxf3 Rh5 54. g4 {It turns out that my
+connected passed pawns are much stronger than my opponent's isolated pawns}
+Rh3+ 55. Kf4 Kf7 56. Rg7+ Kf8 57. g5 Rh4+ 58. Kf5 d5 59. Kg6 d4 60. h7 d3 61.
+Rg8+ Ke7 62. h8=Q 1-0
+

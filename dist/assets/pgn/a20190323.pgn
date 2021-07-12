@@ -1,0 +1,59 @@
+[Event "ch Seniors"]
+[Site "Calgary"]
+[Date "2019.03.24"]
+[Round "4"]
+[White "Findlay, Ian"]
+[Black "Haessel, Dale R"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2374"]
+[BlackElo "2279"]
+[Annotator "Findlay,I"]
+[PlyCount "59"]
+[EventDate "2019.03.23"]
+[EventType "swiss"]
+[EventCountry "CAN"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+{This was the fourth round of the tournament. Most likley the winner would
+take the tournament. Last year Dale and I drew and ended up with 4.5/5, with
+Dale winning on tiebreak. I did not want that to happen again} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 $5 {Dale knows the Berlin
+endgames inside out. The previous night in my hotel room, I got a FaceBook
+post from the Calgary Chess Club with the next round's pairings. Since I could
+not sleep, I decided to prepare a less played line} Nxb5 7. a4 Nbd4 {The line
+was first showed to me by Brian Hartman, who had studied it with the "Hamilton
+Crew" back in the early 80s} ({Many years ago Black played} 7... d6 {when
+White can sacrifice a pawn with} 8. e6 ({or just the capture} 8. axb5 {
+followed by} Nxe5 9. Re1 $14)) 8. Nxd4 Nxd4 9. Qxd4 d5 10. exd6 {The modern
+treatment. Hartman used to leave the pawn on e5 and tried to play f4 and f5,
+but this plan can be easily stopped} Qxd6 11. Qe3+ Be6 ({Fressinet has also
+played} 11... Be7 {but in his latest video on chess24.com he recommends the
+text}) 12. Nc3 Qc6 $5 {Dale's choice took me out of preparation, but has been
+played 7 times before according to the online Chessbase database} ({In my
+preparation only} 12... a6 {[%csl Yb5] as played by Fressinet and Kramnik to
+protect b5 against the incursion of White's knight was discussed in
+Fressinet's video}) 13. Nb5 Bd6 ({White is slightly better after} 13... Bc5 14.
+Qg3 O-O-O 15. Bf4 Bc4 16. Rfe1 Bxb5 17. axb5 Qxb5 18. Bxc7 Rd2 19. Rf1 $14) 14.
+Nxd6+ ({I wanted more than the small endgame edge after} 14. Nd4 Qd7 15. Nxe6)
+14... Qxd6 15. b3 c5 $6 16. Bb2 ({White can take advantage of the new target
+with} 16. Ba3 b6 17. Rad1 Qe7 18. Bb2 O-O 19. f4 $16) 16... O-O $6 ({The
+computer finds the unnatural looking} 16... f6 {where White keeps a slight pull
+}) 17. Rad1 Qe7 18. f4 f5 19. Rd5 Rac8 20. Re5 Rc6 21. Re1 (21. c4 {prevents ..
+.c4 and a possible ...Bd5 in some lines and therefore might be more prudent,
+but the engine evaluates both options as very nearly equivalent}) 21... Rf6 {
+[%cal Gb7b6,Gh7h6] Black is all tied up, but may be able to solidify with ...
+b6 and ...h6 etc, so I thought I should strike now with} 22. g4 Rg6 23. g5 h6
+24. h4 hxg5 25. fxg5 $6 {[%cal Yh4h5,Yf5f4] White keeps the threat of h5, but
+Black can prevent that and now my own king is slightly more exposed with the ..
+.f4 threat looming in some variations} Qd8 26. Bc1 $6 {White is fixated on the
+h5 advance, but Black can regroup. Also I enjoyed a significant time advantage
+because of my opening preparation, which soon would leave Dale in time pressure
+} (26. Qc3 {threatens to take twice on e6 but allows a queen exchange after}
+Qd4+) 26... Bd7 27. Qd3 Qc8 $4 $138 (27... Rcd6 $142 28. Qc4+ Kh7 29. Qf7 {
+with an advantage for White, but a game that is far from over}) 28. Re7 $2 (28.
+Rd5 {is immediately fatal}) 28... Rge6 $2 29. R1xe6 Rxe6 $2 30. Rxd7 1-0
+

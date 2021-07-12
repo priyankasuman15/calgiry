@@ -1,0 +1,114 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const global = out.global;
+
+  // need this for require(.marko)
+  // markojs can only resolve imports at compile time vs render time
+  // https://github.com/marko-js/marko/issues/768
+  // https://github.com/marko-js/marko/issues/96
+  // require('marko/node-require').install(options);
+  require('marko/node-require');
+
+  let content = require('../data/content');
+  content.sort(sortByDatePropInDescOrder);
+
+  // store request.query value(s)
+  const query = {
+    a: global.query.a,
+    t: global.query.t
+  }
+
+
+  let tags = [];
+  // compile list of tags for all articles
+  for (let i = 0; i < content.length; i++) {
+    tags = tags.concat(content[i].tags);
+  }
+  tags = Array.from(new Set(tags.sort()));
+
+
+  const paths = [];
+  let search = false;
+  // compile array of articles matching query string
+  for (let i = 0; i < content.length; i++) {
+    if (content[i].archive === query.a) {
+      paths.push(content[i]);
+    }
+    if (content[i].tags.includes(query.t)) {
+      paths.push(content[i]);
+      search = true;
+    }
+  }
+
+
+  const articles = [];
+  // require and store in array articles from paths array
+  for (let i = 0; i < paths.length; i++) {
+    articles.push(require(`./content/${paths[i].archive}.marko`));
+  }
+
+
+
+
+  // sort content array in descending order by date property
+  function sortByDatePropInDescOrder(a, b) {
+    if ( a.date > b.date ){
+      return -1;
+    }
+    if ( a.date < b.date ){
+      return 1;
+    }
+    return 0;
+  }
+
+}
+
+
+
+
+<h1>Archives</h1>
+
+  <div id="search" class="section">
+    <div class="pinned">
+      <h2>Keyword Search</h2>
+    </div>
+    <div>
+      <p>Try another search! Our content is indexed by the following <strong>keywords</strong>...</p>
+      <for|tag, i| of=tags>
+        <span class="icon svg-icon svg-baseline">
+          <svg xmlns="http://www.w3.org/2000/svg" class="i-search" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </span>
+        / <a href=`/archives?t=${tag}`>${tag}</a><br>
+      </for>
+    </div>
+  </div>
+
+<if(search)>
+  <div id="results" class="section">
+    <div class="pinned">
+      <h2>Search Results / <span class="posted">${global.query.t}</span></h2>
+    </div>
+  </div>
+</if>
+
+<if(!search)>
+  <div id="results" class="section">
+    <div class="pinned">
+      <h2>Search Results / <span class="posted">...</span></h2>
+    </div>
+  </div>
+</if>
+
+<for|article, i| of=articles>
+  <div id=`article-${i}` class="section">
+    <${article}/>
+  </div>
+</for>
+
+
+  </@body>
+</layout>

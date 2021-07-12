@@ -1,0 +1,52 @@
+[Event "Aeroflot op A"]
+[Site "Moscow"]
+[Date "2007.02.15"]
+[Round "2"]
+[White "Naiditsch, Arkadij"]
+[Black "Belov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2663"]
+[BlackElo "2600"]
+[Annotator "Perron,S"]
+[PlyCount "82"]
+[EventDate "2007.02.14"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[SourceTitle "CBM 117"]
+[Source "ChessBase"]
+[SourceDate "2007.03.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2007.03.30"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5.
+Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5 g6 9. g5 gxf5 10. exf5 d5 ({I do not want to
+get bogged down in opening theory, but as Hellsten points out, "This is
+Black's only promising choice", giving as proof} 10... Nfd7 11. Qh5 {[%cal
+Ge1c1,Gf1c4,Gg5g6] when O-O-O, Bc4 and g6 are all on deck. Amazing stuff. I
+love games like this even though I do not play either side of this line. I am
+not especially good at material imbalances or, you know, attacking in general,
+so games like this are always instructional}) 11. gxf6 d4 12. Bc4 Qc7 (12...
+dxe3 $2 13. Bxf7+ $1) 13. Qd3 dxe3 14. f4 {This is nuts right? White's
+treatment should go into a database labelled "insanely brave play"} Bb4 15.
+O-O-O Bxc3 16. bxc3 Nc6 17. Rhg1 Rf8 ({After} 17... e2 18. Qxe2 Bxf5 19. Qh5
+Be4 20. fxe5 Na5 21. Be6 $1 {we have another one of those "kissing" moves that
+utlizes a pin. I know I would find a move like this very difficult to find in
+OTB play. It is only by analyzing games like this that you become familiar
+with the attacking themes and ideas and, hopefully, over time resources like
+this become second nature. Now} Rf8 (21... Bg6 22. Rxg6 fxg6 23. f7+ Ke7 24.
+Qg5+ Kxe6 (24... Kf8 25. Qf6) 25. Qf6#) 22. Bd7+ Qxd7 23. Rxd7 Kxd7 24. Qg4+ {
+was 1-0 Van Den Doel-Van Wely, 1999. Poor Loek, who inevitably shows up losing
+in an instructive way every time I see a game of his. Maybe one day I will
+follow up with a Loek's Greatest Hits collection}) 18. Qxe3 Bxf5 19. Qc5 {
+If I am being completely honest, this is another move I would probably miss,
+but since the opening is not part of my repetoire I am not going to beat
+myself up. The rest, while interesting and complex, diverges from my main
+point of tactical blindspots, so I will just give the remainder without comment
+} Rd8 20. Bd5 Rxd5 21. Rxd5 Be6 22. Rd6 exf4 23. Rg7 Bd7 24. Rd1 Be6 25. Re1
+Qc8 26. Qd6 Qd7 27. Qxf4 Qd8 28. Reg1 Qb8 29. Qh6 Qd6 30. R1g2 Qa3+ 31. Kd1
+Qxc3 32. R7g3 Qa1+ 33. Kd2 Qd4+ 34. Kc1 Qa1+ 35. Kd2 Qd4+ 36. Kc1 Qc5 37. Rd2
+Qe5 38. c3 Qc5 39. Qf4 Qe5 40. Qf2 Qa5 41. Qf4 Qe5 1/2-1/2
+

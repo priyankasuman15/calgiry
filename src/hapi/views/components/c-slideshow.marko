@@ -1,0 +1,68 @@
+$ {
+
+  'use strict';
+
+
+  const needle = out.global.page;
+  // const slideshows = require('../../data/slideshows');
+  const attributes = input;
+
+
+  // function getSlideshow() {
+  //
+  //   let slideshow;
+  //
+  //   for (let i = 0; i < slideshows.length; i++) {
+  //     if (slideshows[i].slideshow === attributes.name) {
+  //       slideshow = slideshows[i];
+  //     }
+  //   }
+  //
+  //   return slideshow;
+  // }
+
+  // const slideshow = getSlideshow();
+
+}
+
+
+<!-- SLIDESHOW -->
+<if(attributes.aspect === 'portrait')>
+  <div id=`ss${attributes.name}_${attributes.multi}` class=`slideshow ${attributes.aspect} ${attributes.float}`>
+    <ul id=`ss_slides${attributes.name}_${attributes.multi}` class="slides portrait">
+      <!-- <for|image, i| of=slideshow.img> -->
+      <for|image, i| of=attributes.images>
+        <li id=`ss${attributes.name}_${attributes.multi}_${i + 1}`><img src=`../img/content/slideshows/${attributes.name}/${image}` alt=`${image}`/></li>
+      </for>
+    </ul>
+
+    <ul id=`ss_thumbs${attributes.name}_${attributes.multi}` class="thumbs portrait">
+      <!-- <for|image, i| of=slideshow.img> -->
+      <for|image, i| of=attributes.images>
+        <li><a href=`#ss${attributes.name}_${attributes.multi}_${i + 1}`><img src=`../img/content/slideshows/${attributes.name}/${image}` alt=`${image}`/></a></li>
+      </for>
+    </ul>
+  </div>
+</if>
+<!-- ./ SLIDESHOW -->
+
+
+<!-- SLIDESHOW -->
+<if(attributes.aspect === 'landscape')>
+  <div id=`ss${attributes.name}_${attributes.multi}` class="slideshow landscape">
+    <ul id=`ss_slides${attributes.name}_${attributes.multi}` class="slides landscape">
+      <!-- <for|image, i| of=slideshow.img> -->
+      <for|image, i| of=attributes.images>
+        <li id=`ss${attributes.name}_${attributes.multi}_${i + 1}`><img src=`../img/content/slideshows/${attributes.name}/${image}` alt=`${image}`/></li>
+      </for>
+    </ul>
+
+    <ul id=`ss_thumbs${attributes.name}` class="thumbs landscape">
+      <!-- <for|image, i| of=slideshow.img> -->
+      <for|image, i| of=attributes.images>
+        <li><a href=`#ss${attributes.name}_${attributes.multi}_${i + 1}`><img src=`../img/content/slideshows/${attributes.name}/${image}` alt=`${image}`/></a></li>
+      </for>
+    </ul>
+  </div>
+</if>
+<!-- ./ SLIDESHOW -->

@@ -1,0 +1,231 @@
+[Event "Illinois Open"]
+[Site "Chicago"]
+[Date "2019.08.31"]
+[Round "2"]
+[White "Velazquez, Kevin"]
+[Black "Findlay, Ian T"]
+[Result "0-1"]
+[ECO "B76"]
+[WhiteElo "2029"]
+[BlackElo "2316"]
+[Annotator "Findlay,I"]
+[PlyCount "76"]
+[EventDate "2019.08.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. Kb1 Nxd4 11. e5 Nf5 12. exf6 exf6 13. Bc5 d4 14. Bxf8 Qxf8
+15. Nb5 Ne3 16. Re1 f5 17. Nxd4 ({The main line is considered to be} 17. f4 Qc5
+18. c3 Nxf1 19. Re8+ Bf8 20. Qxd4 Qxb5 21. Qd8 Nd2+ 22. Kc2 {when Black should
+be fine after, for example} Qa4+ 23. Kc1 Qxe8 24. Qxe8 Ne4 25. Rd1 Nf6 26. Qe5
+Nh5 27. Rd8 Ng7 28. h4 Ne6 29. Re8 Ng7 30. Rd8 Ne6 $11) 17... f4 18. Rxe3 fxe3
+19. Qxe3 Qb4 $6 ({Better is} 19... Bd7 $142 20. Bd3 Re8 21. Qf4 Be5 22. Qe4 Qd6
+23. c3 b6 $44 {when the bishop pair and development lead give Black
+compensation}) 20. Nb3 Be6 21. Bd3 a5 22. Qe4 $2 {This pushes Black's queen to
+a better square from where it can invade f2 for example} ({Better is} 22. c3)
+22... Qb6 23. Qa4 Qf2 24. f4 $6 ({White gives up too much. Better here is} 24.
+g3) 24... Bd5 $1 {From here the bishop maintains domination of the opponent's
+rook, while introducing the possibility of harrassing the queen with ...Bc6} ({
+Less precise is} 24... Qxg2 25. Re1) 25. Rf1 Qxg2 26. f5 Qxh2 27. f6 Bf8 28.
+Qb5 Bg2 29. Rd1 a4 30. Nc5 $2 ({After} 30. Nc1 {White is much worse, but the
+text loses material}) 30... Qh5 $1 {A simple but decisive fork} 31. Rg1 Bc6 32.
+Qc4 Qxc5 33. Qg4 a3 34. bxa3 Qb6+ 35. Ka1 Bc5 36. Rb1 Bd4+ 37. c3 Bxc3+ 38. Rb2
+Qxb2# 0-1
+
+[Event "Illinois Open"]
+[Site "Chicago"]
+[Date "2019.09.01"]
+[Round "3"]
+[White "Findlay, Ian T"]
+[Black "Brock, Bill"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2316"]
+[BlackElo "2016"]
+[Annotator "Findlay,I"]
+[PlyCount "91"]
+[EventDate "2019.08.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 Ba7 8. Na3 ({
+More popular is} 8. Re1 {but my choice tries to get the opponent out of book})
+8... Qe7 9. Nc2 Be6 10. Bxe6 Qxe6 11. Be3 Bxe3 12. Nxe3 $14 {Incredibly, I
+could find no games in the database with this position! White should be a tiny
+bit better} Ne7 13. Ng5 Qd7 14. Qb3 {Probably not the best square for the
+queen, but it looked aggressive} O-O 15. a5 {This advance is not an engine
+choice, but a very human move preparing a queenside bind and thus a long range
+endgame advantage} h6 16. Nf3 Rab8 17. Rfe1 Ng6 18. Nf5 Qe6 19. Qxe6 $5 {
+I could see that the resulting endgame would be double edged with play on
+opposite wings. But the nice thing about queenless positions is that I am much
+less likely to be mated accidentally!} ({Here} 19. Qc2 {might be slightly
+better. I was worried about a possible kingside attack; something the engines
+never concern themselves with}) 19... fxe6 20. Ng3 Nf4 21. d4 exd4 22. Nxd4 e5
+23. Ndf5 g6 24. Ne3 ({Of course not} 24. Nxh6+ $2 Kh7 {when the knight is
+trapped}) 24... Rf7 25. f3 Rbf8 26. Red1 Nd7 27. Nd5 Nc5 28. Nxf4 Rxf4 29. Nf1
+Ne6 30. Ne3 Kg7 31. b4 R4f7 32. Nd5 Nf4 33. Rab1 c6 $4 {The game was
+progressing logically, but this just drops a crucial pawn and leaves my
+opponent hopelessly lost} 34. Nxf4 exf4 35. Rxd6 Rc7 36. Kf2 Re8 37. g3 fxg3+
+38. hxg3 Re5 39. Rbd1 Kf7 40. Rd7+ Re7 41. Rxc7 Rxc7 42. Rd6 h5 43. Ke3 Kg7 44.
+f4 Rf7 45. Kf3 Rc7 46. g4 1-0
+
+[Event "Illinois Open"]
+[Site "Chicago"]
+[Date "2019.09.01"]
+[Round "4"]
+[White "Rosen, Eric"]
+[Black "Findlay, Ian T"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2421"]
+[BlackElo "2316"]
+[Annotator "Findlay,I"]
+[PlyCount "97"]
+[EventDate "2019.08.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 d5 4. Nd2 Bd6 5. Bg3 O-O 6. Ngf3 c5 7. c3 Nc6 8. Bb5
+$1 {By delaying Bd3 White has played Bb5 a tempo to control the e5 square} Bxg3
+$6 {This exchange plays into White's plans, who should now get a nice advantage
+} (8... Qe7 $142) 9. hxg3 Qb6 10. a4 a6 $6 {Probably it is better not forcing
+this exchange, as White's kingside attack comes quickly} 11. Bxc6 bxc6 12. Qc2
+Rb8 13. Rb1 a5 14. Ne5 g6 15. g4 Nd7 16. Nxd7 $2 ({After} 16. Ndf3 {White is
+much better}) 16... Bxd7 17. Nf3 f6 $1 18. e4 (18. g5 {White missed that after}
+e5 $1 {[%cal Yd7f5] the bishop comes to f5 and Black wins. White offered a
+draw here, in spite of outrating his opponent by a hundred points, so my
+decision to decline wasn't a difficult one ... he must have considered his
+position very nearly lost}) 18... cxd4 19. cxd4 Qb4+ 20. Kf1 e5 21. dxe5 dxe4
+22. Nd2 e3 23. fxe3 fxe5+ 24. Kg1 Qxg4 25. Qc5 Qb4 26. Qc4+ Rf7 27. Rf1 Qxc4
+28. Nxc4 Rxf1+ 29. Kxf1 Be6 30. Nxe5 Rxb2 31. Rh4 Bd5 32. g3 Rb4 $2 ({I
+thought the minor piece ending should be easily winning, but much better is to
+keep the rooks on with} 32... Rc2) 33. Rxb4 axb4 34. Ke1 Kf8 35. e4 Bxe4 36.
+Nd7+ Ke7 37. Nc5 Bf5 38. a5 Bc8 $6 ({Better is} 38... b3 39. Nxb3 Kd6 {with
+some winning chances}) 39. a6 Bxa6 40. Nxa6 b3 41. Kd2 Kd6 42. Kc3 Kd5 43. Kxb3
+$11 {Sadly the position is now drawn. White's precise play demonstrates that
+the knight can handle my kingside pawns, while his king collects my c/pawn} Ke4
+44. Nc5+ $1 Kf3 45. Nd7 Kxg3 46. Nf8 h5 47. Nxg6 Kg4 48. Kc4 Kg5 49. Ne5
+1/2-1/2
+
+[Event "Illinois Open"]
+[Site "Chicago"]
+[Date "2019.09.02"]
+[Round "5"]
+[White "Findlay, Ian T"]
+[Black "Colas, Joshua"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[WhiteElo "2316"]
+[BlackElo "2407"]
+[Annotator "Findlay,I"]
+[PlyCount "110"]
+[EventDate "2019.08.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 h5 $5 {The text is very ambitious and always has the threat of
+putting his bishop and queen on the b8-h2 diagonal and mating the opponent!} ({
+Or} 9... g6 10. h4 {with a kingside initiative}) ({After} 9... h6 10. O-O {
+White can try to exploit his superior pawn structure}) 10. O-O h4 11. h3 Nd7
+12. Bd2 $6 ({The bishop is better placed after} 12. Be3 {but I was worried
+about ...g5 and the battery of a Black bishop and queen along the h2-b8
+diagonal. But my bishop can always calmly retreat to d2 followed by playing f4.
+A case of the threat being stronger than its execution}) 12... Nf8 13. Rfe1 Ne6
+14. Kf1 $5 {White wants to cycle the knight to f3 via g1, but this hands the
+initiative to my opponent. Black's threats are more of an illusion since, as
+mentioned before, White can parry aggression along the h2-b8 diagonal with a
+timely f4} (14. Rad1 $142) (14. c4 $142) 14... Bd7 15. Ng1 Qc7 16. Nf3 g5 17.
+c4 a5 18. Bc3 $6 ({Worth considering is} 18. a3 {to force} a4 {when the pawns
+are fixed, but a later ...Bb4 prevented for good}) 18... Nf4 19. Bf5 Bb4 20.
+Rxe8+ Rxe8 21. Re1 Rxe1+ 22. Bxe1 Bxe1 23. Nxe1 Bxf5 24. Qxf5 Qe7 {The threat
+of 25...Qe2 forces White into passive defence} 25. Qc2 Qe6 26. b3 Kg7 27. Nf3
+Kh6 28. Nh2 f5 29. Nf3 f6 30. d5 $1 $132 {White finally gets some counterplay
+and a draw is now the likely outcome} cxd5 31. Nd4 Qe5 32. Nxf5+ Kh7 $2 ({
+Black can already force a draw with} 32... Kh5 33. Ng7+ $11) 33. Ne3+ $2 ({
+White keeps an edge after} 33. Nxh4+ Kg7 34. Nf3 $14) 33... Kg7 34. cxd5 Qa1+
+35. Qd1 Qxd1+ 36. Nxd1 Nxd5 37. g3 f5 38. Nb2 Nc3 39. a4 hxg3 40. fxg3 Ne4 41.
+Nc4 Nxg3+ 42. Kg2 Ne4 43. Nxa5 Nc5 44. b4 Nxa4 45. Nxb7 Kf6 46. Kf3 Ke5 47. Nd8
+Nc3 48. Nf7+ Kf6 49. Nd6 Ke6 50. Nc4 Nb5 51. Ke3 Nc3 52. Kf3 Kd5 53. Ne3+ Ke5
+54. Nc4+ Kd5 55. Ne3+ Ke5 1/2-1/2
+
+[Event "Illinois Open"]
+[Site "Chicago"]
+[Date "2019.09.02"]
+[Round "6"]
+[White "Padhya, Saumil"]
+[Black "Findlay, Ian T"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2347"]
+[BlackElo "2316"]
+[Annotator "Findlay,I"]
+[PlyCount "88"]
+[EventDate "2019.08.31"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Bc4 {I was glad to see this move, since it avoids all the book
+draws. This was the last round and I needed a win for 500 dollars in prize money vs a
+draw for only 95 dollars} e6 3. Nc3 Nc6 4. f4 Nge7 $1 {Black's strategy is to play ...
+d5 with tempo and avoid White playing e5 with tempo. This move accomplishes
+both!} 5. Nf3 d5 6. Bb5 dxe4 $5 {Maybe technically this release of tension is
+not the strongest, but it avoids White achieving a pawn wedge later with the
+advance e5} 7. Nxe4 a6 8. Bxc6+ Nxc6 9. d3 Be7 10. Be3 b6 11. O-O Bb7 12. c3
+O-O 13. Qc2 Qd5 {Centralizing the queen on a safe square. White has to worry
+about the a2 pawn, but the reaction a3 and b4 is a good plan} 14. a3 Rad8 {
+Black's move is a bit oblivious to White's counterplay. The engine likes my
+move however} ({In hindsight I would like to play} 14... a5 {here}) 15. Rad1 f5
+16. Ng3 e5 $2 {It is necessary to prepare this move with ...g6. Now Black
+loses his advantage} 17. Nxe5 Nxe5 18. fxe5 Qxe5 19. Rde1 Qd5 20. d4 $1 {
+I had missed that White now attacks the f5 pawn. After defending it, my
+opponent gets a protected passed pawn and cuts my position in half} g6 21. c4
+Qd6 $6 22. d5 Qd7 ({Another miss. After} 22... f4 {White can just take with}
+23. Bxf4 {and my B/e7 hangs!}) 23. Bh6 Rfe8 24. Ne2 $4 ({Absolutely crushing is
+} 24. Nh5) ({or} 24. Nxf5) 24... Bd6 $6 ({Black is nearly equal after} 24...
+Bh4 25. g3 Bf6 26. Nf4 Bd4+) 25. Nf4 Rxe1 26. Rxe1 Bxf4 27. Bxf4 Re8 28. Be5 $6
+{Fortunately my opponent was low on time} ({I thought that opposite colored
+bishops after} 28. Rxe8+ Qxe8 29. Qc3 {give Black good drawing chances, but
+the weak dark squares around my king promise White long term pressure}) 28...
+f4 29. Qd2 Qf5 30. Bc3 Kf7 31. Rxe8 Kxe8 32. Qe2+ Kd7 33. h3 f3 $6 {Taking
+advantage of my opponent's time pressure} 34. Qxf3 $4 $11 ({Black's last is
+really a bluff, since} 34. gxf3 Qxh3 35. Qe5 {is crushing}) 34... Qxf3 35. gxf3
+b5 $1 36. b3 bxc4 37. bxc4 a5 $1 38. Bxa5 Ba6 39. Bb6 Bxc4 40. Bxc5 Bxd5 41.
+Kf2 Kc6 42. Bf8 Kb5 43. Ke3 Be6 44. h4 h5 1/2-1/2
+

@@ -1,0 +1,93 @@
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.19"]
+[Round "1"]
+[White "Zhao, Ian"]
+[Black "Ng, Gary"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2281"]
+[BlackElo "2388"]
+[Annotator "Zhao,I"]
+[PlyCount "120"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {This move has been
+quit popular recently against the Najdorf.} g6 7. g4 h5 {A strange move that
+has only been played a handful of times.} ({The main move is} 7... Bg7 8. Bg2
+O-O 9. Be3 Nc6 10. Qd2 Bd7 11. O-O-O {1/2-1/2 (33) Radjabov,T (2738)-Smirin,I
+(2655) Baku 2015}) 8. g5 Nfd7 9. Be3 Bg7 10. Qd2 ({Another option is} 10. f4 b5
+11. Bg2) ({A possible different plan is castle kingside.} 10. Bg2 Nc6 11. O-O
+O-O 12. f4 Nxd4 13. Bxd4 e5 14. fxe5 Nxe5 15. Nd5 Qxg5 16. Be3 Qd8 17. Bb6 Qg5
+18. Be3 {1/2-1/2 (20) Kjartansson,G (2456)-Vishnu,P (2543) Douglas 2017}) 10...
+b5 11. f4 Bb7 12. O-O-O (12. f5 {is interesting, trying to play aggresive
+before Black castles.} Ne5 13. O-O-O Nbd7 14. Kb1) 12... O-O {In this opposite
+side castling position, White should have an edge because of his space
+advantage on the kingside.} 13. Bg2 {A little bit slow, better was} (13. f5 Qa5
+14. Kb1 Nc6 15. a3) 13... Nb6 14. b3 {to prevent Nc4} b4 $6 {This allows me to
+get some play. Black should have seeked to finish his development.} (14... Nc6
+15. e5 Rc8 16. Kb1 $14) 15. Nd5 Nxd5 16. exd5 a5 (16... Qa5 {Trying to win a
+pawn doesn't really work here.} 17. Kb1 Bxd5 $2 18. Nf5 $1 Bxg2 19. Nxe7+ Kh8
+20. Qxg2 $18) 17. f5 {White's attack is more deadly than Black's, so I had no
+reasons to be worried.} a4 18. fxg6 axb3 19. gxf7+ Rxf7 20. cxb3 {After both
+sides have advanced a pawn and opened up the position, White has a clear
+advantage. The b7 bishop has little freedom, and the b8 knight hasn't moved
+from its starting square yet.} Qa5 {Black temporarily wins a pawn, but White
+will get compensation in the meantime.} 21. Kb1 Bxd5 22. Rhf1 {Trying to open
+up the kingside and trade off some of Black's defenders.} Rxf1 23. Rxf1 Bxg2
+24. Qxg2 Qa6 {The threat is Qd3.} 25. Rd1 Nd7 $6 {This move doesn't accomplish
+much and makes White' task a bit easier. An especially obvious disadvantage is
+that it releases control of the key c6 square.} (25... Kh8 {If now} 26. Nf5 {
+then} Qc6 {and Black has solved of lot of his problems.} 27. Qxc6 Nxc6 $14) 26.
+Nc6 (26. Nf5 {is another option. It is similar to Nc6, but there are some
+differences.} Re8 {White can't play Qd5 without having to trade queens on
+account of e6.} 27. g6 {threatening Nxd6 followed by Qd5+.} e6 28. Nxd6 {
+White will be looking to win.}) 26... Re8 27. Qd5+ Kh8 28. Qf3 $1 $18 {White
+is close to winning by this point. I have the threat of Qxh5+ and well placed
+pieces, while Black has many hanging pieces.} Ra8 $6 {A last resort that
+actually worked, to an extent.} ({The objective best move was} 28... Kg8 29. g6
+Nf6 30. Nxb4 Qa5 31. Nd5 $16) 29. Qxh5+ $2 ({The easiest and most
+straightforward way to win is to neutralize Black's attack on the a-file with}
+29. a4 $1 bxa3 30. Ka2 $18 {White's threats are still there, and Black should
+be close to resignation.}) 29... Kg8 {Now Black is still losing, but has a
+better chance.} 30. Nxe7+ Kf8 31. Ng6+ Kg8 {Because I was in time trouble, I
+decided to repeat moves a few times.} 32. Ne7+ Kf8 33. Ng6+ Kg8 (33... Ke8 {
+gives White another chance to find} 34. a4 $1 {where White is winning
+immediately:} bxa3 35. Ka2 $18) 34. Rd2 Qf1+ 35. Qd1 {This was the position I
+saw when I played Qxh5. White is winning, but he must be very careful.} Qf5+ $6
+(35... Qxh3 {is probably Black's best move.} 36. Rxd6 Qf5+ 37. Qd3 Qxd3+ 38.
+Rxd3 {Black likely won't hold.}) 36. Qc2 Qf1+ 37. Rd1 {This position is a
+better version of the one that occurred a few moves ago.} Qxh3 $2 {White is
+completely winning now.} (37... Qf7 {Black must keep his queen coordinated
+with the other Black pieces. However, White can still get a huge advantage.}
+38. Rxd6 Re8 39. Qd3 $18) 38. Qc4+ $18 Kh7 39. Qe4 d5 {On the crucial 40th
+move, I failed to find the correct move.} 40. Nf4+ $2 (40. Rxd5 {Black is
+helpless, material loss and eventual checkmate is unavoidable.}) ({Even} 40.
+Qxd5 {wins quite easily.} Kxg6 41. Qc6+ Nf6 42. Qxa8 $18) 40... dxe4 $16 {
+The endgame is now only better for White. With best play, however, it is still
+winning.} 41. Nxh3 Nf8 $6 (41... Ne5 {is more active and offers Black better
+chances.}) 42. Nf4 Be5 43. Nd5 Rb8 44. Rc1 Rb5 45. Ne7 (45. Rc5 {is likely
+better than Ne7.} Rxc5 46. Bxc5 Ne6 47. Bxb4 Nxg5 {I am unclear if White can
+win this position, but it looks promising.}) 45... Ng6 46. Rc5 Rxc5 47. Bxc5
+Nxe7 48. Bxe7 Kg6 49. Kc2 Bf4 50. Bxb4 Kxg5 51. a4 Kf5 52. a5 (52. Bc5 {
+seems interesting. However, Black can stop the pawns fairly easily.} Bc7 53. b4
+Ke6 54. a5 Bxa5 55. bxa5 Kd7 $11) 52... Be3 53. Bd6 $2 $11 {This move gives
+Black a tempo with the king.} (53. Bf8 {According to the computer, this is the
+best move to win the game. I don't fully understand it; I guess it is the only
+move that keeps the bishop active but does not give Black the extra tempo. The
+computer gives the following line:} Kg4 54. b4 Kf3 55. b5 Bg1 56. b6 e3 57. Bb4
+e2 58. Kd3 Bf2 59. Kc4 Kg2 60. Kb5 Kf1 61. b7 Ba7 62. Kc6 Kg2 63. a6 Bb8 64.
+Kb6 $18) 53... Ke6 {Once the king moves to the queenside, White can't make any
+progress.} 54. Bb8 Kd7 55. Kc3 Kc8 56. Bg3 Kb7 57. Kc4 Bd2 58. Kb5 e3 59. a6+
+Ka8 60. Bf4 Bc1 {The threat is e2, which can only be stopped by Bg3, but then
+Black plays Bd2 again and the position repeats.} (60... Bc1 61. Bg3 Bd2 62. Bf4
+Bc1 $11) 1/2-1/2
+

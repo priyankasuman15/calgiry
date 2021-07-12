@@ -1,0 +1,70 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const error = out.global.error;
+  const addresses = out.global.context.addresses;
+
+  const schemas = require('../configs/schemas');
+
+  const schema_email = schemas.getSchema('email');
+  const schema_password = schemas.getSchema('password');
+  const schema_token = schemas.getSchema('token');
+
+  const method = out.global.method || 'get';
+  const token = out.global.token || '';
+  const ip = out.global.ip || '';
+
+}
+
+
+
+
+<if(error)>
+  <div class="message message__error">
+    ${error.output.payload.statusCode} ${error.output.payload.error}<br>
+    ${error.output.payload.message}
+  </div>
+</if>
+
+
+<h1>Calgary Chess Club</h1>
+
+<h4>Membership Password Reset</h4>
+
+
+<if(method === 'get')>
+  <p>To complete the password reset process, enter the new password you would like to use in the form below. After submitting the form you will be redirected to <a href="/login">Login</a> in order to login for the first time using your new password and the same eMail address as before.</p>
+  <p>If you need assistance, please contact <a href=`mailto:${addresses.admin}`>${addresses.admin}</a></p>
+
+  <form method="post" action="/reset-api">
+
+    <div>
+      <input type="password" id="password" name="password" required pattern=`${schema_password.pattern}` placeholder=" ">
+      <label for="password">PassWord</label>
+      <div class="requirements">
+        ${schema_password.error}
+      </div>
+    </div>
+
+    <div>
+      <input id="token" name="token" type="hidden" value=`${token}`>
+    </div>
+
+    <button type="submit" id="submit" class="button button__action button__wide button__xl button__centered">Reset</button>
+
+  </form>
+</if>
+
+
+<else>
+  <p>${method}</p>
+  <p>${token}</p>
+  <p>${ip}</p>
+</else>
+
+
+  </@body>
+</layout>

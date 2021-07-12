@@ -1,0 +1,170 @@
+
+/* SLIDESHOW.CSS */
+/* https://www.chenhuijing.com/blog/building-a-css-only-image-gallery */
+
+
+@supports (object-fit: cover) {
+
+  :root {
+    --slideshowRatioLong: 3;
+    --slideshowRatioShort: 2;
+    --slideshowItemsL: 6;
+    --slideshowItemsP: 5;
+    --slideshowWidthL: 480px;
+    --slideshowHeightL: calc(var(--slideshowWidthL) * var(--slideshowRatioShort) / var(--slideshowRatioLong));
+    --slideshowHeightLAdjust: calc(var(--slideshowHeightL) - var(--slideshowHeightL) / var(--slideshowItemsL));
+    --slideshowWidthP: 320px;
+    --slideshowWidthPAdjust: calc(var(--slideshowWidthP) - (var(--slideshowWidthP) / var(--slideshowItemsP)));
+    --slideshowHeightP: calc(var(--slideshowWidthP) * var(--slideshowRatioLong) / var(--slideshowRatioShort));
+  }
+
+  .slideshow {
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+  }
+
+  .slideshow.left {
+    float: left;
+    margin-left: 0;
+  }
+
+  .slideshow.right {
+    float: right;
+    margin-right: 0;
+  }
+
+  .slideshow,
+  .slideshow *,
+  .slideshow *::before,
+  .slideshow *::after {
+    box-sizing: border-box;
+    /* margin: 0; */
+    padding: 0;
+    border: 0;
+  }
+
+  .slideshow.landscape {
+    width: var(--slideshowWidthL);
+    height: var(--slideshowHeightL);
+    flex-wrap: wrap;
+  }
+
+  .slideshow.portrait {
+    width: var(--slideshowWidthP);
+    height: var(--slideshowHeightP);
+  }
+
+  .slideshow li {
+    list-style: none;
+  }
+
+
+  .slides {
+    overflow: hidden;
+  }
+
+  .slides.landscape,
+  .slides.landscape li,
+  .slides.landscape img {
+    width: var(--slideshowWidthL);
+    height: var(--slideshowHeightLAdjust);
+  }
+
+  .slides.portrait,
+  .slides.portrait li,
+  .slides.portrait img {
+    width: var(--slideshowWidthPAdjust);
+    height: var(--slideshowHeightP);
+  }
+
+  .slides li {
+    position: absolute;
+    z-index: 1;
+  }
+
+  .slides img {
+    object-fit: cover;
+    object-position: 50% 50%;
+  }
+
+  /* .slides li:target,
+  .slides li.slideshowIn {
+    z-index: 3;
+    animation: slideshowIn 1s 1;
+  }
+
+  .slides li:not(:target),
+  .slides li.slideshowOut {
+    animation: slideshowOut 1s 1;
+  } */
+
+
+  .thumbs {
+    display: flex;
+    line-height: 0;
+    z-index: 10;
+  }
+
+  .thumbs.landscape {
+    flex-direction: row;
+  }
+
+  .thumbs.portrait {
+    flex-direction: column;
+  }
+
+  .thumbs li {
+    flex: auto;
+  }
+
+  .thumbs a {
+  }
+
+  .thumbs a:hover img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    -webkit-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+  }
+
+  .thumbs img {
+    object-fit: cover;
+    object-position: 50% 50%;
+  }
+
+  .thumbs.landscape img {
+    width: calc(var(--slideshowWidthL) / var(--slideshowItemsL));
+    height: calc(var(--slideshowHeightL) / var(--slideshowItemsL));
+  }
+
+  .thumbs.portrait img {
+    width: calc(var(--slideshowWidthP) / var(--slideshowItemsP));
+    height: calc(var(--slideshowHeightP) / var(--slideshowItemsP));
+  }
+
+
+
+
+  @-webkit-keyframes slideshowIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  @keyframes slideshowIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  @-webkit-keyframes slideshowOut {
+    0% { z-index: 2; }
+    100% { z-index: 2; }
+  }
+
+  @keyframes slideshowOut {
+    0% { z-index: 2; }
+    100% { z-index: 2; }
+  }
+
+}

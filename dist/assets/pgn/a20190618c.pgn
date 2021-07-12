@@ -1,0 +1,70 @@
+[Event "International GM"]
+[Site "Edmonton"]
+[Date "2019.06.21"]
+[Round "6.2"]
+[White "Findlay, Ian"]
+[Black "Balakrishnan, Praveen"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2206"]
+[BlackElo "2428"]
+[Annotator "Findlay,I"]
+[PlyCount "98"]
+[EventDate "2019.06.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CAN"]
+[EventCategory "5"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O ({I am more familar with} 11... Bg5
+{which was played against me in the 70s by IM Lawrence Day and IM Bryon
+Nickoloff, and 20 years later by GM Dmitri Tyomkin who used to visit his
+mother in Toronto. More recently Jim Daniluk of Calgary has played this
+against me many times since I came out of retirement in 2015}) 12. Nc2 Rb8 {
+This move order has been played by Carlsen a few times in 2019, hence I
+suspect it may become popular} 13. h4 g6 14. h5 $6 {My first time playing 13.
+h4 in a tournament game meant I was not familiar with the nuances} ({Better to
+play} 14. g3 {and wait for} Bg7 {before advancing again with} 15. h5 Ne7 16.
+Nce3 Nxd5 17. Nxd5 Be6 18. Bh3 Bxd5 19. Qxd5 b4 20. c4 {as played in
+So-Carlsen Norway, 2019 where White was slightly better}) 14... Bg5 {Allowed
+by my premature last move} 15. g3 a5 16. a3 Be6 17. Bg2 Ne7 18. Nce3 Kg7 19.
+Qd3 Nxd5 20. Nxd5 f5 $5 {Incredibly all my moves were designed to stop the
+advance ...f5 since White would be able to open the h/file for the rook and
+the h1-a8 diagonal for the bishop in addition to, possibly, the g/file. But my
+opponent plays it anyway! Arguably the pawn push is his strategic plan and,
+after the game, Praveen said he did not see anything better} 21. Rd1 {[%csl
+Yd6] White activates his last piece before opening the position. The latent
+threat against the pawn/d6 stops a lot of Black tactics. During the game I
+felt Black had over extended, but I failed to notice his 28th move} Qd7 22.
+hxg6 hxg6 23. exf5 $6 ({The engines like} 23. f4 {believing Black has to
+settle for} Bxd5 ({of course I was much more afraid of} 23... Bh6 24. Qe3 $1 {
+[%cal Yh1h6] but then the engine finds} Rh8 25. exf5 gxf5 26. Qf2 Rbd8 27. Rd3
+{claiming an advantage for White, but in a position where any human player
+will wonder where White's king is to find safe shelter. All in all, only a
+computer could dream of opening the position with the king still in the center,
+only to displace the opponent's dark squared bishop!}) 24. fxg5 Bxe4 25. Bxe4
+fxe4 26. Qxd6 {with a better ending for White}) 23... Bxf5 24. Be4 Qa7 25. O-O
+$2 {Castling prematurely on move 25!} ({I had to eliminate the bishop with} 25.
+Bxf5) 25... Bh3 ({Much more awkward for White, here or again in another couple
+of moves, is} 25... Bg4 26. Rde1 Bh3 27. Bg2 {when Black, who is already
+better, can play} Rh8 {without worry about his d/pawn after the retreat} 28.
+Ne3) 26. Bg2 Bf5 27. Be4 Be6 28. Ne3 Rxf2 $5 {This came like a bolt from the
+blue. I managed to keep my poker face and hoped that it did not force
+immediate resignation} 29. Kxf2 Bc4 30. Qd2 Rf8+ 31. Kg2 Bxf1+ 32. Rxf1 Rxf1
+33. Kxf1 Qxe3 ({Luckily after} 33... Bxe3 34. Qxd6 {[%csl Yg6] White has
+counterplay against pawn/g6}) 34. Qxe3 Bxe3 35. Ke2 $1 {Most precise. White's
+central blockade would make for an easy draw} Bc1 36. b4 Bxa3 37. bxa5 Bc5 38.
+a6 Kf6 39. Bd3 Kg5 40. Kf3 d5 41. Bxb5 e4+ 42. Kg2 Kf5 43. Bc6 Ke5 44. Kf1 d4
+45. cxd4+ Kxd4 46. Ke2 g5 47. g4 Ke5 48. Bd7 Kf4 49. Bf5 Ba7 {Finally Black
+gave in and offered a draw. A memorable fight, and lucky for me the combo 28...
+Rxf2 did not win on the spot. The engine agrees the sacrifice was Black's best
+try, and it is a good example for Bareev's chapter on "Play Without Castling"
+in his excellent book "Say No To Chess Principles"} 1/2-1/2
+

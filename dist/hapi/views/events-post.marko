@@ -1,0 +1,86 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const addresses = out.global.context.addresses;
+  const user = out.global.user;
+  const payload = out.global.payload;
+  const error = out.global.error;
+  const isRegistered = out.global.isRegistered;
+
+
+  const events = require('../data/events');
+  // const events = require('../../assets/json/events.json');
+  let event;
+  let expiry_cfc = 'message__success';
+  let expiry_ccc = 'message__success';
+
+  if (user) {
+    for (let i = 0; i < events.length; i++) {
+      if (payload.id === events[i].id) {
+        event = events[i];
+      }
+    }
+    if (user.data.cfc.expiry < event.end || user.data.cfc.expiry === '') {
+      expiry_cfc = 'message__error';
+    }
+    if (user.data.ccc.expiry < event.end || user.data.ccc.expiry === '') {
+      expiry_ccc = 'message__error';
+    }
+  }
+
+}
+
+
+
+
+<if(error)>
+  <div class="message message__error">
+    ${error.output.payload.statusCode} ${error.output.payload.error}<br>
+    ${error.output.payload.message}
+  </div>
+</if>
+
+
+<h1>Event Registration</h1>
+
+<if(user)>
+  <if(isRegistered)>
+    <h4>Confirmation</h4>
+    <p>Thank you for registering in the ${event.name}! Your name has been added to the event start list, and a separate eMail confirmation sent to ${user.personal.contact.email}. However, your registration is not complete until all fees, event registration and expired memberships, are paid in full at least 24 hours before the start of the event. Payments made on-site, even if you have pre-registered online, incur the standard late fee of $${event.registration.on_site}.</p>
+    <p>Please review <a href="/membership">Memberships</a> and <a href="/events">Frequently Asked Questions</a> for details, and contact <a href=`mailto:${event.organizer[0].email}`>${event.organizer[0].name.first} ${event.organizer[0].name.last}</a> about making your fee payment(s)!</p>
+
+    <p>Note any items shown below in red, which means renewal fees are due for your expired CFC and/or CCC memberships. The expiry date of those memberships must include the end date of the event you are registering for.</p>
+
+    <h4>Player Details</h4>
+    ${user.personal.name.last}, ${user.personal.name.first}<br>
+    ${user.personal.contact.email}
+    <br><br>
+    <span class=`${expiry_cfc}`>CFC<br>ID: ${user.data.cfc.id}<br>EXPIRY: ${user.data.cfc.expiry}</span>
+    <br><br>
+    <span class=`${expiry_ccc}`>CCC<br>ID: ${user.data.ccc.id}<br>EXPIRY: ${user.data.ccc.expiry}</span>
+  </if>
+
+  <else>
+    <h4>Duplicate Registration</h4>
+    <p>Our records show that you have already registered for the ${event.name}. If you believe this is an error, please contact <a href=`mailto:${event.organizer[0].email}`>${event.organizer[0].name.first} ${event.organizer[0].name.last}</a>!</p>
+  </else>
+</if>
+
+
+<else>
+  <p>You must be logged into your Calgary Chess Club membership account to register for events. Please do so now, using the link below, and try again. For general information on Calgary Chess Club memberships, please visit <a href="/membership">Membership</a>.</p>
+  <a href="/login"><button class="button button__action button__wide button__xl button__centered">Login</button></a>
+
+  <p>If your membership is already on file with us but you have not yet activated your online account, please use the link below with your current eMail address to get password access.</p>
+  <a href="/reset"><button class="button button__action button__wide button__xl button__centered">Reset Password</button></a>
+
+  <p>If you are new and do not have an existing membership account with us, please first create one using the link below.</p>
+  <a href="/register"><button class="button button__action button__wide button__xl button__centered">Register</button></a>
+</else>
+
+
+  </@body>
+</layout>

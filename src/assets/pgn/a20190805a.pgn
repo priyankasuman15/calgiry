@@ -1,0 +1,58 @@
+[Event "International IM"]
+[Site "Calgary"]
+[Date "2019.08.05"]
+[Round "10"]
+[White "Banerjee, Bitan"]
+[Black "Bryant, John Daniel"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[WhiteElo "2496"]
+[BlackElo "2417"]
+[Annotator "Neven,K"]
+[PlyCount "57"]
+[EventDate "2019.07.31"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "CAN"]
+[EventCategory "6"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.08.12"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Nf3 O-O 10. O-O a6 11. Bd3 b5 12. Kh1 Ra7 13. Qe1 Nb6 14. f5 N8d7 15.
+Qg3 Ne5 16. Bg5 Qd7 17. f6 Nxd3 18. fxg7 Re8 19. h3 b4 20. Bf6 bxc3 21. Ng5
+cxb2 22. Rab1 Qb5 23. Nxh7 Nd7 {Sitting just a few short feet away from the
+two players, while monitoring the live internet transmission of the final
+round on the attached notebook computer, the engine evaluations for the
+current position suddenly jumped dramatically! Not wanting to spoil the fun I
+declined at first viewing any of the suggested lines, hoping to discover the
+winning shot myself. But nope, nothing came to mind. Absolutely nothing. In
+fact, the harder I tried the more confusing the complications became.} {
+Finally Bitan went with} 24. Bc3 {which is a clear error. Both players, not
+just your hapless annotator, missed the winning shot!} ({Incredibly, the
+improbable and counter intuitive capture} 24. Bxb2 $3 $18 {wins on the spot!} {
+After} Nxb2 (24... N3e5 25. Bxe5 Qxb1 26. Rxb1 dxe5 27. Rf1 {is another quite
+insane line given by the engines} ({or} 27. Ng5)) 25. Qf4 {the machine
+evaluations climb to above +5.00 for White, but with a difficulty level that
+likely none but the very top GMs in the world would be able to calculate with
+a reasonable level of confidence over the board when we start from the
+position after 23...Nd7. Take a look, as utter chaos reigns in lines such as}
+Kxh7 ({perhaps the most likely sequence, had Bitan found 24.Bxb2 would be}
+25... Ne5 26. Qh6 f5 27. exf5 (27. Nf6+ Kf7 28. Qh8 $18) 27... Bxf5 28. Rxf5 (
+28. Nf6+ Kf7 29. Nxe8 Qxe8 30. Rxb2 $18) 28... gxf5 29. Nf6+ Kf7 30. Nxe8 Qxe8
+31. Rf1 $18 {and Black's defense collapses}) ({don't even ask, according to
+the oracle} 25... Nf6 26. Nxf6+ Kxg7 {is no worse for Black than other options
+on move 25, although} 27. Nxe8+ (27. Qxd6 {is supposedly best}) 27... Qxe8 28.
+Qf6+ Kg8 29. Rxb2 $18 {is no longer difficult and therefore the most likely
+non-silicon way to finish}) 26. Qxf7 Rg8 27. Rf4 Qe2 28. Rh4+ Qh5 29. Rxh5+
+gxh5 30. Rxb2 {with no escape for Black}) 24... N3e5 25. Qh4 Kxg7 26. Ng5 Nf8
+27. Bxb2 Qe2 28. Qf4 Kg8 29. Qf6 {And in this position, even though he is much
+better by now, IM Bryant, needing only a draw to clinch first place, accepts
+his opponent's offer to split the point. Indeed, why risk a random accident
+with the tournament's outcome on the line} ({The steely nerved engines give}
+29. Qf6 Nfd7 {as easily winning for Black}) 1/2-1/2
+

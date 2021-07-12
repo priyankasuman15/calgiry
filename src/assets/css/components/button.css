@@ -1,0 +1,125 @@
+
+/* BUTTON.CSS */
+
+
+.button {
+  background: var(--secondary-color);
+  border-radius: 2px;
+  border: 1px solid transparent;
+  color: inherit;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.4rem;
+  font-weight: 300;
+  padding: 0.8rem 1rem;
+  text-decoration: none;
+  transition: background-color 0.2s;
+  white-space: nowrap;
+
+  &:focus {
+    outline: thin dotted #666;
+    text-decoration: none;
+  }
+
+  &:active, &:focus, &:hover {
+    border: 1px solid transparent;
+    background: var(--primary-color);
+    text-decoration: none;
+  }
+
+  &__centered {
+    display: block;
+    margin: 16px auto;
+  }
+
+  &__wide {
+    padding-right: 1.6rem;
+    padding-left: 1.6rem;
+  }
+
+  &__sm {
+    width: var(--fixed-25);
+  }
+
+  &__md {
+    width: var(--fixed-50);
+  }
+
+  &__lg {
+    width: var(--fixed-75);
+  }
+
+  &__xl {
+    width: var(--fixed-100);
+  }
+
+  &__action {
+    background-color: hsl(150, 45%, 50%);
+    color: #ffffff;
+  }
+
+  &__action:active, &__action:focus, &__action:hover {
+    background-color: hsl(150, 45%, 40%);
+  }
+
+  &__primary {
+    background-color: hsl(20, 100%, 50%);
+  }
+
+  &__primary:active, &__primary:focus, &__primary:hover {
+    background-color: hsl(20, 100%, 45%);
+  }
+
+  &__secondary {
+    background-color: var(--secondary-color);
+  }
+
+  &__outline {
+    background-color: var(--outline-color);
+    border: 1px solid var(--border-color);
+  }
+
+  &__black-100 {
+    background-color: var(--black-100);
+  }
+
+  &__black-90 {
+    background-color: var(--black-90);
+  }
+
+  &__black-80 {
+    background-color: var(--black-80);
+  }
+
+  &__black-70 {
+    background-color: var(--black-70);
+  }
+
+  &__black-60 {
+    background-color: var(--black-60);
+  }
+
+  &__black-50 {
+    background-color: var(--black-50);
+  }
+
+  &__black-40 {
+    background-color: var(--black-40);
+  }
+
+  &__black-30 {
+    background-color: var(--black-30);
+  }
+
+  &__black-20 {
+    background-color: var(--black-20);
+  }
+
+  &__black-10 {
+    background-color: var(--black-10);
+  }
+
+  &__black-0 {
+    background-color: var(--black-0);
+  }
+}

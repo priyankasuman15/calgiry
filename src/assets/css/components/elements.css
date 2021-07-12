@@ -1,0 +1,79 @@
+
+/* ELEMENTS.CSS */
+
+
+address {
+  margin: 2rem 0 2rem 4rem;
+  padding-left: 1rem;
+  font-size: 1.2rem;
+  line-height: 1.2;
+  border-left: 1px solid var(--border-color);
+}
+
+address span.icon {
+  margin: 0.5rem 0 0.5rem -3rem;
+  padding-right: 2rem;
+}
+
+
+blockquote {
+  position: relative;
+  margin: 1rem 4rem 1rem 4rem;
+  text-align: justify;
+}
+
+/*blockquote::before {
+  content: "\201C";
+  font-size: 10rem;
+  font-weight: bold;
+  color: var(--secondary-color);
+  position: absolute;
+  top: -1rem;
+  left: -5rem;
+}*/
+
+/*blockquote::after{
+  content: "\201D";
+  font-size: 10rem;
+  font-weight: bold;
+  color: var(--secondary-color);
+  position: absolute;
+  bottom: -6rem;
+  right: -5rem;
+}*/
+
+
+.posted {
+  font-weight: 700;
+  color: var(--text-color);
+  background-color: var(--secondary-color);
+  padding: 0 4px 0 4px;
+}
+
+.byline {
+  padding-left: 20px;
+}
+
+
+
+
+.pullquote {
+  width: 40%;
+  padding: 16px;
+  border: 1px solid var(--border-color);
+  border-radius: 0 4px 4px 0;
+  background-color: var(--black-0);
+  box-shadow: 2px 2px 4px var(--black-10);
+
+  &__right {
+    float: right;
+    margin: 20px 0 20px 40px;
+    border-left: 1rem solid var(--secondary-color);
+  }
+
+  &__left {
+    float: left;
+    margin: 20px 40px 20px 0;
+    border-right: 1rem solid var(--secondary-color);
+  }
+}

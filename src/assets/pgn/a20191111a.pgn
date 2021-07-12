@@ -1,0 +1,728 @@
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.09"]
+[Round "1"]
+[White "Banerjee, Bitan"]
+[Black "Cannon, Richard"]
+[Result "1-0"]
+[ECO "A53"]
+[WhiteElo "2484"]
+[BlackElo "2017"]
+[PlyCount "47"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nge2 Be7 6. h3 c6 7. Be3 a6 8. d5 c5
+9. Ng3 Nf8 10. Nf5 Bxf5 11. exf5 h5 12. g3 Qd7 13. Bd3 Bd8 14. f4 Qe7 15. fxe5
+Qxe5 16. Kd2 Qxg3 17. Qf1 N6h7 18. Rg1 Qh4 19. Bf4 Kd7 20. Ne4 Nf6 21. Ng5 Rg8
+22. Kc2 Bc7 23. Bd2 Re8 24. Nf3 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.09"]
+[Round "1"]
+[White "Ginsburg, Mark"]
+[Black "Pivovarov, Juraj"]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2395"]
+[BlackElo "1991"]
+[PlyCount "69"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 f5 3. c4 c6 4. g3 Nf6 5. Bg2 e6 6. O-O Bd6 7. b3 O-O 8. Bb2
+Nbd7 9. Nbd2 Ne4 10. Ne5 Ndf6 11. f3 Ng5 12. e3 Nf7 13. Qe2 Qc7 14. Nxf7 Rxf7
+15. e4 Bb4 16. e5 Nd7 17. f4 Bxd2 18. Qxd2 b6 19. Rfc1 Qd8 20. cxd5 cxd5 21.
+Ba3 Bb7 22. Bd6 Nb8 23. Rc3 Nc6 24. b4 Rc8 25. Rac1 Rd7 26. Bf1 a5 27. Bb5 axb4
+28. R3c2 Rxd6 29. exd6 Qxd6 30. Bxc6 Rxc6 31. Rxc6 Bxc6 32. Rb1 Bb5 33. Qxb4
+Qxb4 34. Rxb4 Bc4 35. a4 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.09"]
+[Round "1"]
+[White "Wang, Paul"]
+[Black "Zhao, Ian"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "1993"]
+[BlackElo "2402"]
+[PlyCount "60"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. h3 h6 7. Bb3 a6 8. O-O Ba7
+9. Re1 g5 10. d4 g4 11. hxg4 Bxg4 12. Be3 Qe7 13. d5 Bxe3 14. Rxe3 Na5 15. Nbd2
+Nxb3 16. Qxb3 O-O-O 17. c4 Rdg8 18. Rc1 Nd7 19. Qc3 Kb8 20. b4 f5 21. c5 Nf6
+22. b5 fxe4 23. bxa6 Bxf3 24. Nxf3 exf3 25. Qb3 Rxg2+ 26. Kf1 c6 27. Rxf3 Rhg8
+28. cxd6 Qh7 29. dxc6 Rg1+ 30. Ke2 Qe4+ 1/2-1/2
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.09"]
+[Round "2"]
+[White "Patterson, Roger"]
+[Black "Ginsburg, Mark"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "2113"]
+[BlackElo "2395"]
+[PlyCount "56"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 O-O 5. e4 c5 6. Nge2 Nc6 7. O-O d6 8. d3
+a6 9. a3 Nd4 10. Nxd4 cxd4 11. Ne2 e5 12. Bd2 b5 13. cxb5 axb5 14. Rc1 Be6 15.
+h3 d5 16. f4 dxe4 17. fxe5 Nd5 18. Nf4 e3 19. Bb4 Re8 20. Nxd5 Bxd5 21. Bxd5
+Qxd5 22. Rc5 Qb7 23. Qg4 Bxe5 24. Rxe5 Rxe5 25. Qxd4 Qd5 26. Qf4 Rae8 27. g4 e2
+28. Re1 Qxd3 0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "3"]
+[White "Banerjee, Bitan"]
+[Black "Arruebarrena, Rafael"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2484"]
+[BlackElo "2329"]
+[PlyCount "83"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
+a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Qd7 12. Ne4 Nd5 13. Qc2 Kh8 14. Rd1 Rfd8 15.
+Bb2 Bf8 16. d4 Nxd4 17. Nxd4 exd4 18. Rxd4 Qe8 19. Rbd1 c6 20. h4 Rd7 21. Bf3
+Rad8 22. h5 h6 23. Nc5 Bxc5 24. Qxc5 a6 25. a4 Qe7 26. Qxe7 Nxe7 27. e4 Kg8 28.
+Be2 Kf7 29. g4 Rxd4 30. Rxd4 Rxd4 31. Bxd4 Bb3 32. a5 Nc8 33. Bc5 Ke6 34. g5
+Nd6 35. g6 f5 36. exf5+ Nxf5 37. Bg4 Ke5 38. Kg2 Kf4 39. Kh3 Be6 40. Bxf5 Bxf5+
+41. Kh4 Ke5 42. Be3 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "3"]
+[White "Findlay, Ian T"]
+[Black "Pivovarov, Juraj"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2362"]
+[BlackElo "1991"]
+[Annotator "Findlay,I"]
+[PlyCount "33"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {The Adams Attack,
+which is growing in populartity due to all the theory on White's alternative
+sixth moves. Fischer won a famous game vs Najdorf back in the early 1960s} (6.
+Bg5) (6. Be3) (6. Be2) 6... e5 7. Nb3 ({Carlsen and Anand used to prefer} 7.
+Nde2 {but these days the text is more popular}) 7... Be7 8. g4 Be6 9. Bg2 $6 ({
+Probably better is} 9. g5 {which, after the text, Black stops once and for all}
+) 9... h6 10. f4 {The engine thinks this advance is premature} Nfd7 $1 11. O-O
+Qb6+ $2 {The check misplaces the queen and chases White's monarch to a safer
+square} (11... Nc6 $142) 12. Kh1 Nc5 $2 {Black ignores the needs of the
+postion, which is the fight for square d5} 13. Qe2 {White is happy since the
+threat of advancing with f5 and gaining control of square d5 is very strong!} (
+{The engine prefers} 13. Nxc5) 13... exf4 14. Bxf4 Bg5 $4 {I always go back to
+the Shabalov lecture on "Ignoring the Threat" that I attended in Edmonton.
+Here White ignores the attack on his bishop and instead replies with a
+crushing occupation of the critical central square that his opponent neglected
+earlier} 15. Nd5 $1 Qd8 ({Black's best, although still losing, is} 15... Bxd5
+16. exd5+ Kd8 17. Bxg5+ hxg5 18. Rxf7 {when Black has exposed his king and
+lost material}) 16. Nxc5 $1 Bxf4 ({After} 16... dxc5 17. Nc7+ {also wins
+quickly}) 17. Nxe6 {White wins a piece and the game} 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "3"]
+[White "Ginsburg, Mark"]
+[Black "Wiebe, Isaac"]
+[Result "1-0"]
+[ECO "D22"]
+[WhiteElo "2395"]
+[BlackElo "2239"]
+[PlyCount "45"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 Bg4 5. Bxc4 e6 6. Nc3 a6 7. h3 Bh5 8. g4
+Bg6 9. Ne5 Nfd7 10. Nxg6 hxg6 11. Bf1 c5 12. d5 exd5 13. Bg2 d4 14. exd4 cxd4
+15. Qxd4 Nc6 16. Bxc6 bxc6 17. Be3 Be7 18. O-O-O Bf6 19. Qe4+ Qe7 20. Qxc6 Rb8
+21. Ba7 Rd8 22. Rhe1 Be5 23. Nd5 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "3"]
+[White "Malek, Omid"]
+[Black "Chandra, Anand Rishi"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2311"]
+[BlackElo "2062"]
+[PlyCount "39"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 e6 5. Nd2 Nc6 6. Ngf3 Bd6 7. Bg3 O-O 8. Bd3
+b6 9. Qe2 Bb7 10. Rd1 Re8 11. e4 Be7 12. e5 Nh5 13. O-O g6 14. Qe3 Rc8 15. a3
+Na5 16. Qe2 Nc6 17. Rb1 Nxg3 18. fxg3 f5 19. h3 Kh8 20. Kh1 1/2-1/2
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "3"]
+[White "Valencia, Belsar"]
+[Black "Chen, Jeffrey"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2348"]
+[BlackElo "1668"]
+[PlyCount "65"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d5 6. c4 c6 7. O-O Nbd7 8. Qc2
+Nb6 9. d3 Bd7 10. Nbd2 Qc8 11. c5 Bh3 12. cxb6 axb6 13. e4 Bxg2 14. Kxg2 e6 15.
+Be5 Re8 16. a4 Qd8 17. Rac1 Qd7 18. Qb2 Qe7 19. exd5 exd5 20. Rfe1 Qd8 21. Bxf6
+Qxf6 22. Qxf6 Bxf6 23. Nf1 Be7 24. Re3 Bb4 25. Rc2 Rxe3 26. Nxe3 f6 27. Kf1 Kf7
+28. Nxd5 cxd5 29. Rc7+ Kg8 30. Rxb7 Ra6 31. Nd4 Ra8 32. Nc6 Ba5 33. b4 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "3"]
+[White "Vasic, Maxim"]
+[Black "Matras Clement, Agnieszka"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2096"]
+[BlackElo "2351"]
+[PlyCount "76"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. f3 Nd7 8. Nxc4
+e5 9. e4 exd4 10. exf5 dxc3 11. Qe2+ Be7 12. Nd6+ Kf8 13. Ne4 cxb2 14. Bxb2
+Qa5+ 15. Kf2 Qxf5 16. Qd2 Nac5 17. Re1 Nxe4+ 18. Rxe4 Bc5+ 19. Ke1 Nf6 20. Bxf6
+Qxf6 21. Bd3 Qa1+ 22. Qd1 Qxd1+ 23. Kxd1 Rd8 24. Kc2 g6 25. Rb1 b6 26. Rc4 Kg7
+27. Rxc5 bxc5 28. Rb7 Rb8 29. Rxa7 Ra8 30. Rb7 Rxa4 31. Kc3 Rha8 32. Bc4 R8a7
+33. Rb6 Rb4 34. Rxb4 cxb4+ 35. Kxb4 Rb7+ 36. Kc5 Rb2 37. g4 Rxh2 38. Kxc6 Rd2
+0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "4"]
+[White "Hartman, Brian"]
+[Black "Yao, Sammy"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2374"]
+[BlackElo "2039"]
+[PlyCount "45"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. c4 Qc7 8. O-O
+Nf6 9. Nc3 d6 10. Be3 Nbd7 11. f4 b6 12. Qf3 Bb7 13. Rae1 O-O-O 14. Qe2 Nc5 15.
+Nxc5 dxc5 16. h3 h6 17. e5 Ne8 18. Be4 Bxe4 19. Nxe4 Qc6 20. Bd2 Nc7 21. Bc3
+Kd7 22. Qf3 Kc8 23. Nd6+ 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "4"]
+[White "Linnick, Mark"]
+[Black "Findlay, Ian T"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1902"]
+[BlackElo "2362"]
+[PlyCount "30"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 Bd6 5. Bg3 O-O 6. Nbd2 c5 7. c3 b6 8. Bd3
+Bb7 9. Ne5 Nc6 10. f4 Ne7 11. Qf3 Nf5 12. Bf1 Be7 13. Bf2 Nd6 14. g4 Nfe4 15.
+Nxe4 dxe4 0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "4"]
+[White "Valencia, Belsar"]
+[Black "Ginsburg, Mark"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[WhiteElo "2348"]
+[BlackElo "2395"]
+[PlyCount "20"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 d6 4. g3 Nf6 5. Nc3 O-O 6. Bg2 Nbd7 7. O-O a6 8. h3
+Rb8 9. a4 c5 10. d5 Ne8 1/2-1/2
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "4"]
+[White "Zhao, Ian"]
+[Black "Chandra, Anand Rishi"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2402"]
+[BlackElo "2062"]
+[PlyCount "71"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Nbd2 a6 8. h3
+h6 9. a4 Ba7 10. Re1 Ne7 11. b4 Ng6 12. Nf1 c6 13. Bb3 Re8 14. Ng3 Qc7 15. a5
+Bd7 16. d4 Nf4 17. Be3 Ng6 18. Qc2 b5 19. axb6 Bxb6 20. dxe5 dxe5 21. Bxb6 Qxb6
+22. Ra5 Nf4 23. Nxe5 Be6 24. Ba4 Rec8 25. Qd2 g5 26. Qd6 Ne8 27. Qc5 Qxc5 28.
+Rxc5 f6 29. Nxc6 Kf8 30. Rd1 h5 31. Nf5 g4 32. hxg4 hxg4 33. Kf1 Ng6 34. g3 Kg8
+35. Nd6 Rc7 36. Ne5 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "5"]
+[White "Banerjee, Bitan"]
+[Black "Valencia, Belsar"]
+[Result "0-1"]
+[ECO "E90"]
+[WhiteElo "2484"]
+[BlackElo "2348"]
+[PlyCount "88"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 c5 7. d5 e6 8. Bd3 exd5
+9. exd5 Re8 10. Nf3 Bf5 11. Bxf5 gxf5 12. O-O Ne4 13. Ne2 Nd7 14. Qc2 Qf6 15.
+Rab1 b6 16. Nf4 Kh8 17. Nd2 Qh4 18. Rfe1 Re7 19. Nf3 Qf6 20. Qd1 Ne5 21. Nh5
+Nxf3+ 22. Qxf3 Qg6 23. Nxg7 Kxg7 24. Bf4 Rae8 25. Red1 h5 26. h4 Kh7 27. Rd3
+Nf6 28. Qd1 Ng4 29. f3 Ne3 30. Bxe3 Rxe3 31. Rxe3 Rxe3 32. Qf1 Qg3 33. Qf2 Qe5
+34. Kf1 Qd4 35. Qc2 Kg6 36. Rd1 Qxh4 37. b3 Qg3 38. Qf2 f4 39. Re1 Rxe1+ 40.
+Qxe1 Qxe1+ 41. Kxe1 Kg5 42. Ke2 Kh4 43. Kf2 a6 44. a3 a5 0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "5"]
+[White "Findlay, Ian T"]
+[Black "Miller, David"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2362"]
+[BlackElo "2234"]
+[PlyCount "68"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 b5 7. a4 b4 8. Nd5 e6
+9. Nxf6+ Qxf6 10. Be3 Bb7 11. Qd2 Bxe4 12. Qxb4 Nd7 13. Nb5 axb5 14. Qxe4 d5
+15. Qd4 Qxd4 16. Bxd4 e5 17. Be3 d4 18. Bd2 Rxa4 19. Rxa4 bxa4 20. Bb5 a3 21.
+bxa3 Bxa3 22. O-O Ke7 23. Re1 f6 24. f4 Bd6 25. c3 dxc3 26. Bxc3 Rc8 27. Bxd7
+Rxc3 28. Bg4 Bc5+ 29. Kf1 Be3 30. fxe5 fxe5 31. Bf5 h6 32. Be4 Kf6 33. Ke2 Bf4
+34. Rf1 Re3+ 0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "5"]
+[White "Ginsburg, Mark"]
+[Black "Srinivasan, Hemant"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "2395"]
+[BlackElo "2096"]
+[PlyCount "57"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O b6 7. cxd5 exd5 8. Nc3
+Bb7 9. Bf4 Ne4 10. Rc1 Nc6 11. Nb5 Nd6 12. Qa4 Qd7 13. Nxd6 Bxd6 14. Bxd6 Qxd6
+15. Rc3 Rfc8 16. Rfc1 Nb4 17. Bh3 b5 18. Qa3 Re8 19. Rxc7 a5 20. Ne5 Qh6 21.
+Qf3 f6 22. Ng4 Qg5 23. Ne3 Rab8 24. Nf5 g6 25. Rg7+ Kh8 26. Rcc7 Rec8 27. Rxh7+
+Kg8 28. Rcg7+ Kf8 29. Rh8# 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "5"]
+[White "Malek, Omid"]
+[Black "Hartman, Brian"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2311"]
+[BlackElo "2374"]
+[PlyCount "89"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. d4 c5 2. d5 d6 3. Nc3 g6 4. e4 Bg7 5. Nf3 Nf6 6. Be2 O-O 7. O-O Na6 8. Nd2
+Nc7 9. a4 b6 10. Nc4 Ba6 11. Bg5 h6 12. Bh4 g5 13. Bg3 Nh5 14. Ne3 Nxg3 15.
+hxg3 Bxe2 16. Qxe2 e6 17. Rad1 Qe7 18. Qh5 Rad8 19. Rfe1 Rfe8 20. Ng4 Qf8 21.
+Re3 exd5 22. Nxd5 Nxd5 23. Rxd5 Re6 24. c3 Rde8 25. f3 Be5 26. Qh3 Kg7 27. Red3
+a6 28. Ne3 b5 29. axb5 axb5 30. Qg4 Kh8 31. Nf5 c4 32. Rd1 b4 33. f4 Bf6 34.
+Nxd6 bxc3 35. Nxe8 Qxe8 36. bxc3 Rxe4 37. Qh5 Kg7 38. Rd6 gxf4 39. Rxf6 Re1+
+40. Kh2 fxg3+ 41. Kh3 Rxd1 42. Qxh6+ Kg8 43. Qg5+ Kf8 44. Qc5+ Kg8 45. Qg5+
+1/2-1/2
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "5"]
+[White "Zhao, Ian"]
+[Black "Matras Clement, Agnieszka"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2402"]
+[BlackElo "2351"]
+[PlyCount "124"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Na5 8. Ba2
+c5 9. c3 Nc6 10. Na3 Be6 11. Bxe6 fxe6 12. Nc4 Qe8 13. Ng5 Nd8 14. b4 cxb4 15.
+cxb4 Qg6 16. Qe2 Nh5 17. Nf3 Nf4 18. Bxf4 Rxf4 19. b5 Nf7 20. Rac1 Rf8 21. Rf1
+Nh6 22. Kh1 Ng4 23. Ncd2 Bd8 24. Rc8 Bb6 25. Rxf8+ Rxf8 26. Nc4 Bc5 27. Na5 Qf7
+28. Nb3 Bb4 29. Rc1 Nf6 30. Rc4 Ba3 31. Ng5 Qe7 32. Qc2 Ne8 33. Nf3 d5 34. Rc8
+Qb4 35. Nc5 dxe4 36. dxe4 Nd6 37. Rxf8+ Kxf8 38. Nxe6+ Ke7 39. Neg5 Qc5 40.
+Qxc5 Bxc5 41. Nxe5 Bxf2 42. Ng4 Bb6 43. e5 Nc4 44. Nxh7 Nb2 45. Ng5 Nxa4 46.
+Ne4 Ke6 47. Nd6 Nc3 48. g3 Bc7 49. Nxb7 Nxb5 50. Kg2 Kd5 51. Kf3 Kc6 52. Nd6
+Nxd6 53. exd6 Bxd6 54. Ke4 a5 55. Kd4 a4 56. Kc4 a3 57. Kb3 Kd5 58. Ne3+ Ke4
+59. Nc4 Be7 60. Nxa3 Bxa3 61. Kxa3 Kf3 62. Kb4 Kg2 0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "6"]
+[White "Arruebarrena, Rafael"]
+[Black "Valencia, Belsar"]
+[Result "0-1"]
+[ECO "B67"]
+[WhiteElo "2329"]
+[BlackElo "2348"]
+[PlyCount "78"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Be7 10. h4 h6 11. Be3 h5 12. Kb1 Ne5 13. Bg5 b5 14. f4 Neg4 15.
+a3 Qb6 16. Qe1 Qc5 17. Rd2 Rb8 18. Nb3 Qc7 19. Rh3 e5 20. Rhd3 Be6 21. Be2 Bc4
+22. Rg3 exf4 23. Bxf4 O-O 24. Bg5 Rfe8 25. Nd4 Bf8 26. Bxg4 Nxg4 27. Nf5 g6 28.
+Ne3 Nxe3 29. Rxe3 b4 30. Nd5 Bxd5 31. exd5 Rxe3 32. Qxe3 Bg7 33. c3 Qxc3 34.
+Qxc3 Bxc3 35. Rc2 Be5 36. Bc1 Rb5 37. Rc8+ Kg7 38. Ra8 a5 39. Kc2 Rc5+ 0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "6"]
+[White "Findlay, Ian T"]
+[Black "Wang, Paul"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2362"]
+[BlackElo "1993"]
+[PlyCount "55"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 Nxb5 7. a4 Nbd4 8.
+Nxd4 Nxd4 9. Qxd4 d5 10. exd6 Qxd6 11. Qe3+ Be6 12. Nc3 a6 13. Rd1 Qc6 14. Rd3
+Be7 15. Nb5 O-O 16. Nd4 Bc5 17. Nxc6 Bxe3 18. Ne7+ Kh8 19. Bxe3 c6 20. a5 Rfe8
+21. Bc5 h6 22. f4 g6 23. Bd4+ Kh7 24. Bf6 h5 25. h3 Rab8 26. b3 b6 27. Nxc6
+Rbc8 28. Nd4 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "6"]
+[White "Hartman, Brian"]
+[Black "Windram, James"]
+[Result "0-1"]
+[ECO "B89"]
+[WhiteElo "2374"]
+[BlackElo "2034"]
+[PlyCount "56"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 a6 8. Qe2
+Qc7 9. O-O-O b5 10. Bb3 Be7 11. a3 Na5 12. f3 Rb8 13. g4 Nc4 14. Ncxb5 axb5 15.
+Nxb5 Rxb5 16. Qxc4 Rb7 17. a4 Nd7 18. a5 Nc5 19. Bxc5 Qxc5 20. Rd4 O-O 21. Qxc5
+dxc5 22. Ra4 Ra7 23. Bc4 Ba6 24. Bxa6 Rxa6 25. c3 Rfa8 26. b4 cxb4 27. cxb4 Rb8
+28. Rd1 Rxb4 0-1
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "6"]
+[White "Matras Clement, Agnieszka"]
+[Black "Ginsburg, Mark"]
+[Result "1/2-1/2"]
+[ECO "B82"]
+[WhiteElo "2351"]
+[BlackElo "2395"]
+[PlyCount "117"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. f4 d6 8. Qf3
+Nc6 9. Nxc6 bxc6 10. O-O d5 11. e5 Nd7 12. Kh1 g6 13. b3 Bb7 14. Na4 Nb6 15.
+Nxb6 Qxb6 16. c4 Be7 17. Bb2 dxc4 18. Bxc4 c5 19. Qe2 Rd8 20. Rac1 O-O 21. Rc3
+Bd5 22. Rh3 Bxc4 23. bxc4 Rd7 24. Rb3 Qc6 25. Bc3 Bd8 26. Re1 Bh4 27. Reb1 Qa4
+28. Rb6 Rfd8 29. Rd6 Be7 30. Rxd7 Rxd7 31. h3 Rd8 32. Rb7 Bf8 33. Kh2 Bh6 34.
+g3 Bf8 35. h4 h5 36. Rc7 Rd1 37. Rb7 Rc1 38. Rb3 Qc6 39. Qg2 Qxg2+ 40. Kxg2
+Rc2+ 41. Kf3 Rxa2 42. Ke4 Kg7 43. Rb7 Rg2 44. Ba5 Rxg3 45. Bd8 Rc3 46. Bf6+ Kg8
+47. Rb8 Rxc4+ 48. Kd3 Rb4 49. Ra8 Rb7 50. Rxa6 Kh7 51. Ra8 Bg7 52. Bg5 Bh6 53.
+Bf6 Bg7 54. Bg5 Bh8 55. Kc4 f6 56. exf6 Rf7 57. Kxc5 Bxf6 58. Kd6 Bg7 59. Kxe6
+1/2-1/2
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "6"]
+[White "Miller, David"]
+[Black "Malek, Omid"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2234"]
+[BlackElo "2311"]
+[PlyCount "47"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. dxc5 Nxc5 10. O-O-O a6 11. Qf2 Nd7 12. Bd3 Nb4 13. f5 Kh8 14. g4 f6 15.
+exf6 Bxf6 16. fxe6 Ne5 17. Nxe5 Bxe5 18. Bf5 Bxe6 19. Bc5 Qg5+ 20. Kb1 Nc6 21.
+Bxf8 Rxf8 22. Qc5 Re8 23. Bxe6 Rxe6 24. Qf8# 1-0
+
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.11"]
+[Round "6"]
+[White "Srinivasan, Hemant"]
+[Black "Zhao, Ian"]
+[Result "0-1"]
+[ECO "C89"]
+[WhiteElo "2096"]
+[BlackElo "2402"]
+[PlyCount "74"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Re4 g5 16. Qf1 Qxf1+ 17. Kxf1 Bf5 18. Bxd5 cxd5 19. Re1 Rfe8 20. Be3 Bh3+ 21.
+Kg1 f5 22. Bd2 f4 23. b4 Kf7 24. Na3 Rg8 25. Rad1 h5 26. Rb1 h4 27. Rb2 hxg3
+28. fxg3 fxg3 29. hxg3 Kg6 30. Re3 Rae8 31. Nc2 Rxe3 32. Nxe3 Bxg3 33. Nxd5 Rf8
+34. Ne3 Bf2+ 35. Kh2 Rh8 36. Ng2 Be6+ 37. Nh4+ Bxh4 0-1

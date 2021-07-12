@@ -1,0 +1,24 @@
+{
+  "<layout>": {
+    "template": "./layouts/layout.marko"
+  },
+
+  "<p-address>": {
+    "template": "./partials/p-address.marko"
+  },
+  "<p-footer>": {
+    "template": "./partials/p-footer.marko"
+  },
+  "<p-header>": {
+    "template": "./partials/p-header.marko"
+  },
+  "<p-navigation>": {
+    "template": "./partials/p-navigation.marko"
+  },
+  "<p-sidebar>": {
+    "template": "./partials/p-sidebar.marko"
+  },
+  "<p-sponsors>": {
+    "template": "./partials/p-sponsors.marko"
+  }
+}

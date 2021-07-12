@@ -1,0 +1,88 @@
+[Event "International GM"]
+[Site "Edmonton"]
+[Date "2019.06.19"]
+[Round "2.4"]
+[White "Findlay, Ian"]
+[Black "Shabalov, Alexander"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "2206"]
+[BlackElo "2528"]
+[Annotator "Findlay,I"]
+[PlyCount "87"]
+[EventDate "2019.06.18"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CAN"]
+[EventCategory "5"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 a6 {The Dragondorf
+variation. A relatively new way to play the Dragon which among its chief
+advocates is GM Simon Williams from the UK. This was one of three openings I
+thought Alexander might play against me, so I was somewhat prepared} 7. f3 b5
+8. Qd2 Bb7 9. a4 {In my opinion, White has to attack the Black pawn structure
+rather than routinely castling queenside. Although the game starts off as a
+Dragon, I believe White's best strategy is to make the opponent pay for his
+early expansion on the queenside} ({Instead} 9. g4 h6 10. O-O-O Nbd7 11. h4 Rc8
+12. Bd3 b4 13. Nce2 e5 14. Nb3 d5 15. exd5 Nxd5 $2 ({Black is just slightly
+worse after} 15... Bxd5 $14) 16. h5 $16 {left White much better in
+Caruana-Shabalov, USA ch 2007}) 9... e5 $1 ({Previously, Shabalov played} 9...
+b4 10. Na2 e5 11. Qxb4 $1 Qc7 12. Nb3 d5 13. Qc3 $1 Nc6 14. Bg5 d4 15. Qd2 Nd7
+16. Bd3 $14 {when White had a comfortable edge in Pichot-Shabalov, Saint Louis
+B 2017, and went on to win in 40 moves. This was the extent of my preparation,
+and I was now on my own}) 10. Nb3 b4 11. Nd5 {The downside of 9...e5 is that
+White now lands the knight on its favourite square} ({Worthy of attention was}
+11. Na2 {in order to attack Black's queenside}) 11... Nxd5 12. exd5 Nd7 13. Rd1
+$5 ({The computer likes} 13. O-O-O {which is an option that never entered my
+mind after 9.a4}) (13. a5 {was played in Shankland-Kudrin 2008, but did not
+give White very much and eventually ended up drawn}) 13... a5 $6 ({Slightly
+better might be} 13... Rb8 {to keep White's bishop out of b5}) 14. Bb5 Bg7 15.
+O-O ({White remains slightly better after} 15. c3 bxc3 16. bxc3 Ba6 $14 {
+Just a few minutes later, after Black's 16...Nb6, I was kicking myself for not
+choosing this alternative}) 15... O-O 16. c3 Nb6 {Ignore the threat! Before
+the tournament, Alexander gave a Master Class lecture on the topic of ignoring
+the threat. Here is a typical example. Black strives to take over the
+initiative} 17. c4 Ba6 18. Qd3 ({Worth considering is} 18. Bxa6 Rxa6 19. c5
+Nxa4 20. c6) 18... Bxb5 19. axb5 a4 20. c5 $1 {This is what saw when I played
+18.Qd3. I thought White should have equal chances} dxc5 21. Nxc5 a3 22. b3 $6
+$11 {I was happy to restrict Black's knight in this way, but the position is
+only about equal after this} ({More active is} 22. Qb3) ({And also} 22. d6)
+22... a2 $5 {Although the advance loosens the a/pawn, it will probably cost
+White an exchange. White should be slightly better} ({After} 22... Qd6 23. Ne4
+Qb8 24. Nc5 {it is hard to suggest anything for Black but a repetition with}
+Qd6 {which is not an optimal way to finish a game with a much lower rated
+opponent}) 23. Na6 Re8 24. d6 f5 $4 {This looks natural, and I was expecting
+this advance during the game. However, it loosens Black's position too much,
+and the engine evaluation drops from 0.00 to -2.00} ({Better is the less
+obvious} 24... e4 25. fxe4 Re6 26. Bc5 Nd7 27. Bxb4 Be5 $132 {[%cal Gd8h4]
+when Black looks forward to counterplay after ...Qh4 next. The engines
+evaluate the resulting play as roughly balanced}) 25. Qd2 f4 26. Bf2 e4 27.
+fxe4 a1=Q 28. Rxa1 Bxa1 29. Rxa1 {[%csl Gd6,Yg8] The smoke has cleared and
+White has a pawn for the exchange. However, Black's king is exposed and the
+pawn on d6 cripples Black's postition. Kasparov used to be fond of saying that
+such a pawn cuts the opponent's position in two, meaning that it is difficult
+for him to defend both sides of the board because the pawn gets in the way}
+Rxe4 30. Rd1 Re5 31. Nc7 Rb8 32. Qxf4 {White is content to play strong
+non-commital centralizing moves until the time control on move 40 when the
+players get a 30 minute increment} ({Quicker is} 32. Bxb6 Rxb6 33. d7 $1 ({
+only not} 33. Qd4 $4 Rxd6 34. Qxd6 Re1+ $19)) 32... Rf5 33. Qe4 Qd7 34. Qc6 {
+This looks crushing and forces Black to sacrifice the exchange since he cannot
+protect the knight which, in turn, protects the queen} Rxf2 ({Hopeless is}
+34... Qxc6 35. bxc6 $18) 35. Kxf2 Rf8+ 36. Kg1 Qg4 37. Qc2 Rf7 38. h3 Qg3 39.
+Qd3 Qf2+ 40. Kh1 Nd7 41. Nd5 {The knight has done a yeoman's job by travelling
+from a6-c7-d5-e7-c6 to decide the game! Jay Bonin, who is known for dancing
+knights would be proud of me} Ne5 42. Ne7+ Kf8 43. Qd4 Qe2 44. Nc6 {Forcing a
+won endgame, since 44...Nxc6 is met with 45.Qh8#. It was a huge thrill for me
+to beat the four time US Champion and former top 25 in the world. Alexander
+was a perfect gentleman in defeat. To add to the humilation, I was also his
+driver for the tournament. The victory was slightly tarnished, in that
+Shabalov went on to have a bad tournament. The question is, did I put him on
+tilt in this game? As you can see, this game had many mistakes, so most likely
+he was not in good form} (44. Nc6 Nxc6 45. Qh8#) 1-0
+

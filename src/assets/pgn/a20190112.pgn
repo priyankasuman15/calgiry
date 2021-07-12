@@ -1,0 +1,87 @@
+[Event "Wch Seniors 50+"]
+[Site "Bled"]
+[Date "2018.11.27"]
+[Round "9"]
+[White "Haessel, Dale R"]
+[Black "Grant, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2155"]
+[BlackElo "2192"]
+[Annotator "Haessel,D"]
+[PlyCount "111"]
+[EventDate "2018.11.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SLO"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 {Expecting a Queen's Indian, which I had prepared for
+} Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d6 (6... d5 7. e5 Nfd7 8. Bd3 c5 9. h4) 7.
+Be2 Nc6 8. b4 e5 $146 9. dxe5 (9. d5 Nb8) 9... dxe5 (9... Nxe5 10. Nxe5 dxe5
+11. Bb2 c5 12. b5 Qc7) 10. Bb2 a5 11. b5 Nd4 12. Nxd4 (12. Nxe5 Bc5 13. O-O Re8
+14. Ndf3) 12... exd4 13. Qc2 c5 (13... Re8 14. O-O) 14. bxc6 bxc6 15. e5 Nd7 (
+15... Ng4 $142 16. Bxg4) (15... Ne8) 16. Bxd4 Bc5 17. Bc3 (17. Bxc5 Nxc5 18.
+O-O) 17... Qe7 18. Nf3 Bxa3 19. Qa4 (19. O-O $142) 19... Bc5 20. Qxc6 Ra6 21.
+Qb5 (21. Qe4 $142) 21... Rb6 22. Qa4 (22. Qxa5 $142 Bb7 23. O-O Ra8 24. Qxa8+
+Bxa8 25. Rxa8+ Rb8) 22... Bb7 23. O-O Rg6 24. Rfd1 Bc6 25. Qc2 (25. Qxa5 Rxg2+
+26. Kxg2 Qh4 27. Rf1 Qg4+ 28. Kh1 Bxf3+ 29. Bxf3 Qxf3+ 30. Kg1) 25... a4 26. g3
+(26. Rxa4 $142) 26... Rh6 (26... f5 $1) 27. Qf5 Rg6 28. Rd2 (28. Bd3 $142)
+28... Re8 29. Rad1 Nb6 30. Nd4 $6 (30. Qf4) 30... Bd7 31. Qf3 $6 (31. Qf4)
+31... Qxe5 32. Nb5 $138 {The time control is to move 40, so I still have a few
+more moves to make} (32. Nb3 $1) 32... Qe7 33. Bd3 $4 (33. Nc7) (33. Bd4) 33...
+Bc6 $4 (33... Bg4) 34. Qh5 Rh6 35. Qg4 Qf8 36. Nd4 (36. Nc7 Rc8 37. Bf5 Rxc7
+38. Rd8 Be8 39. Rxe8) 36... Bd7 37. Nf5 Rg6 38. Qh4 a3 39. Qf4 Bc6 (39... Na4)
+40. h4 h6 (40... Na4) (40... h5) 41. Kf1 Na4 42. Be5 h5 (42... Bb4) 43. Be2 f6
+(43... Bb4) 44. Bd6 (44. Bd4) ({I forgot that after} 44. Ba1 Rg4 {my bishop
+now controls square-g4 and my queen isn't trapped. Also the capture ...Rxe2
+leads to square-c1 becoming available for retreat}) 44... Bxd6 45. Qxd6 Qxd6
+46. Rxd6 Be4 47. Ne3 Nc3 48. Ra1 Nxe2 $2 (48... a2) 49. Kxe2 Ra8 50. Rb6 {
+Since I gave Black's bishop square-b1 this move is wrong. White has thrown
+everything away!} (50. f3 Bb7 51. Rb6 Bc8 52. Kf2) (50. Re6 Bb7 51. Rb6 Be4 52.
+f3 Rxg3 53. fxe4) 50... a2 51. Nd1 Ra3 52. Ne3 Rh6 53. Rd6 (53. c5 Kf7 54. f3
+Bb1 55. Rb7+ Kf8 (55... Ke6) 56. c6) 53... Kf7 54. Rd2 Bb1 55. Rb2 Rh8 56.
+Rbxb1 1/2-1/2
+
+[Event "Wch Seniors 50+"]
+[Site "Bled"]
+[Date "2018.11.28"]
+[Round "10"]
+[White "Haessel, Dale R"]
+[Black "Petran, Peter"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2155"]
+[BlackElo "2256"]
+[Annotator "Haessel,D"]
+[PlyCount "57"]
+[EventDate "2018.11.18"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "SLO"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 g6 2. c4 Bg7 3. e4 Nc6 4. Nf3 e5 5. Bg5 $1 {This move is very difficult
+for Black to meet. He doesn't want to play ...Bf6 or ...f6 and after ...Nge7
+the eventual follow-up Nd5 will be annoying} Nge7 6. dxe5 Nxe5 7. Nxe5 {
+[%eval 0,0] Black ends up with a misplaced piece on square-e5 that costs a
+tempo} Bxe5 8. Nc3 h6 (8... O-O 9. Qd2 b6 10. O-O-O) 9. Be3 d6 10. Qd2 Bg7 11.
+Be2 Be6 12. O-O a6 13. Nd5 c5 (13... Nxd5 14. cxd5 Bd7 15. Rac1) 14. Rab1 Nc6 (
+14... a5 $6 15. Nc3) 15. b4 b6 (15... Bxd5 16. cxd5 Nxb4 17. a3) 16. bxc5 bxc5
+17. Rb7 $36 {The rook on the 7th rank leads to a difficult defense for Black.
+Among the threats are Nc7+ and castling doesn't work because Black loses a
+pawn on h6} Rc8 (17... Rb8 18. Nc7+ Kf8 19. Rxb8 Nxb8 (19... Qxb8 20. Qxd6+)
+20. Bxc5) (17... O-O 18. Bxh6) (17... Ne5 18. Nc7+) 18. f4 Nd4 (18... Bxd5 19.
+Qxd5 (19. cxd5 Nd4 20. Bxa6) 19... O-O 20. f5) 19. f5 Bxd5 20. cxd5 g5 (20...
+O-O 21. Bxa6) 21. f6 Bxf6 22. Bg4 {Black's queen is overloaded after the
+killer threat 23.Rd7. White wins material by force} O-O (22... Ra8 23. Rd7 Qb8
+24. Rxf6) 23. Rd7 Qe8 24. Rxf6 Qxe4 25. Bh5 Nf5 26. Rfxf7 $4 (26. Bxg5) (26.
+Bxf7+ Rxf7 27. Rdxf7) 26... Rxf7 $4 (26... Rb8 27. Rxf8+ Kxf8) 27. Bxf7+ Kf8
+28. Be6 Nxe3 (28... Qxe3+ 29. Qxe3 Nxe3 30. Rf7+ Ke8 31. Rf3) 29. Qf2+ 1-0
+

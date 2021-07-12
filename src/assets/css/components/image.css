@@ -1,0 +1,230 @@
+
+/* IMAGE.CSS */
+
+
+/* avatar */
+
+.avatar {
+  display: block;
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+  border: solid 4px var(--black-0);
+
+  &--small {
+    height: 32px;
+    width: 32px;
+  }
+
+  &--medium {
+    height: 64px;
+    width: 64px;
+  }
+
+  &--large {
+    height: 128px;
+    width: 128px;
+  }
+
+  &--xlarge {
+    height: 256px;
+    width: 256px;
+  }
+}
+
+
+/* photo */
+
+.photo {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+  border-radius: 4px;
+
+  &__img {
+    position: absolute;
+    z-index: -10;
+    left: 0;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    border-radius: 0;
+  }
+
+  &__caption {
+    margin: 0;
+    padding: 2px 4px;
+    width: 100%;
+    font-size: 1.2rem;
+    text-align: right;
+    color: rgba(255, 255 ,255 , 1);
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .8);
+    background-color: rgba(255, 255, 255, .2);
+  }
+
+  &--small {
+    height: 32px;
+    width: 32px;
+  }
+
+  &--medium {
+    height: 64px;
+    width: 64px;
+  }
+
+  &--large {
+    height: 128px;
+    width: 128px;
+  }
+
+  &--xlarge {
+    height: 256px;
+    width: 256px;
+  }
+
+  &--portrait {
+    height: 120px;
+    width: 80px;
+  }
+
+  &--portrait-md {
+    height: 240px;
+    width: 160px;
+  }
+
+  &--portrait-xl {
+    height: 480px;
+    width: 320px;
+  }
+
+  &--landscape {
+    height: 80px;
+    width: 120px;
+  }
+
+  &--landscape-md {
+    height: 160px;
+    width: 240px;
+  }
+
+  &--landscape-xl {
+    height: 320px;
+    width: 480px;
+  }
+}
+
+
+/* crossfade */
+
+.crossfade {
+  position: relative;
+  height: 48px;
+  width: 48px;
+  margin: 0 auto;
+
+  &__img {
+    position: absolute;
+    left: 0;
+    transition: opacity 1s ease-in-out;
+  }
+
+  &__img:last-of-type:hover {
+    opacity: 0;
+  }
+}
+
+
+
+
+/* figure & figcaption */
+figure {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: 20px;
+}
+
+figure.full {
+  width: 640px;
+  height: 360px;
+  margin: 40px 0 40px -96px;
+}
+
+figure.left {
+  float: left; /* else set display: table; */
+  margin-left: 0;
+}
+
+figure.right {
+  float: right; /* else set display: table; */
+  margin-right: 0;
+}
+
+figcaption {
+  position: absolute;
+  background: rgba(0,0,0,0.25);
+  color: white;
+  font-size: 12px;
+  line-height: 10px;
+  font-variant: small-caps;
+  padding: 4px 8px 4px 8px;
+  opacity: 0;
+  transition: all 0.6s ease;
+}
+
+figure img {
+  display: block;
+}
+
+figure:hover figcaption {
+  opacity: 1;
+}
+
+figure:nth-child(4) {
+  clear: both;
+}
+
+figure:before {
+  content: "?";
+  position: absolute;
+  font-weight: 800;
+  background: rgba(255,255,255,0.75);
+  text-shadow: 0 0 5px white;
+  color: black;
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 24px;
+  transition: all 0.6s ease;
+  opacity: 0.75;
+}
+
+figure:hover:before {
+  opacity: 0;
+}
+
+.cap-left:before { bottom: 10px; left: 10px; }
+.cap-left figcaption { bottom: 0; left: -30%; }
+.cap-left:hover figcaption { left: 0; }
+
+.cap-right:before { bottom: 10px; right: 10px; }
+.cap-right figcaption { bottom: 0; right: -30%; }
+.cap-right:hover figcaption { right: 0; }
+
+.cap-top:before { top: 10px; left: 10px; }
+.cap-top figcaption { left: 0; top: -30%; }
+.cap-top:hover figcaption { top: 0; }
+
+.cap-bot:before { bottom: 10px; left: 10px; }
+.cap-bot figcaption { left: 0; bottom: -30%; }
+.cap-bot:hover figcaption { bottom: 0; }

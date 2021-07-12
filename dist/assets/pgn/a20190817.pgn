@@ -1,0 +1,159 @@
+[Event "Alberta Over/Under 1800"]
+[Site "Calgary"]
+[Date "2019.08.17"]
+[Round "2"]
+[White "Miller, David"]
+[Black "Findlay, Ian"]
+[Result "0-1"]
+[ECO "B76"]
+[WhiteElo "2168"]
+[BlackElo "2354"]
+[Annotator "Findlay,I"]
+[PlyCount "118"]
+[EventDate "2019.08.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.08.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.22"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 ({Not} 12... cxd5 $2 {
+when} 13. Bg5 {is good for White}) 13. Bc4 Be6 14. Ne4 ({The text was often
+used by Kramnik, but more popular of late has been} 14. Kb1) 14... Qc7 15. Bc5
+Rfd8 16. Qh4 h6 17. g4 Rab8 {I wanted to keep the queens on the board} ({
+I remember getting crushed after} 17... f5 18. gxf5 gxf5 19. Rhg1 $1 fxe4 20.
+Qxh6 Qf7 21. Rxg7+ Qxg7 22. Rg1 {in Langer-Findlay, Calgary International 2016,
+when White's attack is irresistable}) ({The most popular move in my database is
+} 17... Nf4 {but after} 18. Bxe6 Nxe6 19. Qe7 Qa5 20. Rxd8+ Rxd8 21. Qxa7 Qxa7
+22. Bxa7 Ra8 23. Be3 Rxa2 24. Kb1 {White has a slight advantage in the endgame}
+) ({Also possible is} 17... Rd7 {which I rejected because it leaves my rook
+under attack after} 18. g5 h5 19. Nf6+ Nxf6 20. Bxe6) 18. g5 h5 19. Nf6+ $2 {
+Now Black takes over the initiative. With White's hanging pieces and weak back
+rank, a quiet alternative would have been better} (19. Qf2) (19. Rhe1) 19...
+Nxf6 20. gxf6 Bh6+ 21. Kb1 Rxd1+ {Here I saw a forcing line where Black gets
+control of the d/file. This I could not resist!} ({The engines like the
+thematic} 21... Rd5 $1 {where Black gives an exchange in order to repair his
+pawn structure and keep the bishop pair}) 22. Rxd1 Rd8 23. Rg1 Bxc4 $6 ({
+Instead of giving White's queen the ideal square c4, from which she is nearly
+impossible to dislodge, a better option is} 23... Bf5) 24. Qxc4 Rd5 25. a3 ({
+Slightly better might be} 25. a4 {when control of b5 with an extra tempo might
+be important in some endings}) 25... Qd7 $6 ({Black should instead remove the
+pesky kingside intruder with} 25... Qd8 26. Bxa7 Qxf6 $15) 26. Ka2 Kh7 27. Be7
+Kg8 {I did not have a clear plan, but was hoping to improve my position later
+with something like ...Qe6} 28. Qe4 Kh7 29. Qc4 Be3 {Unsure of how to win
+Black is just marking time. Another logical post for the bishop is on f4, but
+White seems to have a grip on the position at this point} 30. Re1 Bf4 31. Re2
+Qb7 32. Qb3 $2 {This is exactly what I wanted. White gives up his bind and
+allows the opponent to win an endgame with opposite majorities} ({Better is}
+32. a4 {to block access to b5 for Black's queen}) 32... Qxb3+ 33. Kxb3 g5 34.
+Rg2 Kg6 35. Kc4 Kf5 $2 {I was fixated on the idea that Black needs to leave
+the rook on d5 to stop all counterplay} ({Better is} 35... h4 {when there is
+no reason to fear} 36. h3 {since after} Rd1 37. Kc5 Rf1 $19 {White has fatal
+kingside weaknesses}) 36. b4 e4 $2 ({Once again the plan beginning with} 36...
+h4 {is stronger}) 37. fxe4+ Kxe4 38. Bc5 a6 39. Re2+ Kf5 40. Bd4 g4 41. Re7 Kg6
+42. Re2 h4 43. Kd3 Kf5 44. c4 Rd8 45. a4 g3 $6 ({The engine finds} 45... Bxh2
+$1 46. Rxh2 g3 47. Rxh4 Rxd4+ {and the g/pawn is unstoppable}) 46. hxg3 hxg3
+47. Kc3 $1 {Black was threatening 47...g2 48.Rxg2 Be5 winning the bishop} Bg5
+$1 {Now Black transposes into a winning rook and pawn ending} 48. b5 cxb5 49.
+axb5 axb5 50. cxb5 Bxf6 51. Bxf6 Kxf6 52. Rg2 Rg8 53. Kd4 Kf5 54. Ke3 Kg4 55.
+b6 Re8+ 56. Kd3 Kf3 57. Rc2 Rd8+ 58. Kc4 g2 59. Rc3+ Kf4 0-1
+
+[Event "Alberta Over/Under 1800"]
+[Site "Calgary"]
+[Date "2019.08.18"]
+[Round "4"]
+[White "Arruebarrena, Rafael"]
+[Black "Findlay, Ian"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2327"]
+[BlackElo "2354"]
+[Annotator "Findlay,I"]
+[PlyCount "53"]
+[EventDate "2019.08.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.08.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.22"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. e3 b6
+9. Nc3 Ba6 10. Qe2 Qd7 $6 ({More effective looks} 10... Rc8 {when N/c6 is no
+longer pinned on the long diagonal after the advance of White's d/pawn and the
+pawn on c4 may end up vulnerable}) 11. d4 $1 cxd4 12. exd4 Rac8 13. Ne5 $1 Qe8
+({White has a strong attack after} 13... Nxe5 14. dxe5 Ne8 15. Rad1 Nc7 16. Qg4
+Qe8 17. Rfe1 dxc4 18. bxc4 Rd8 19. Ne4 $16) 14. Nxc6 $6 ({After} 14. Nb5 Bxb5
+15. cxb5 Nxe5 16. dxe5 Nd7 17. Rac1 Rxc1 18. Rxc1 Qb8 19. Bh3 Rc8 20. Rc6 $16 {
+White's space advantage and outpost on c6 give him a more comfortable game.
+Black's game can go wrong at once with} Qb7 $2 21. Qc2 Rxc6 22. bxc6 Qc7 23. b4
+$18) 14... Qxc6 15. Rfe1 {Rafael sets a trap, which I quickly fall for with}
+Qd7 $2 (15... Bb4 $142) 16. Nxd5 $2 {The capture with the knight allows an
+intermezzo} (16. Bxd5 $142) 16... Nxd5 17. Bxd5 Bb4 18. Be4 Bxe1 19. Rxe1 Bb7
+20. d5 $5 {Another trap!} exd5 $2 {Now the result is a forced draw, which
+Black isn't unhappy with given I was a half point in front before the last
+round} ({Black can avoid the successful double bishop sacrifice with} 20...
+Rfe8 21. Bxh7+ Kxh7 22. Qh5+ Kg8 23. Bxg7 Kxg7 24. Qg5+ Kf8 25. Qh6+ Ke7 26.
+Qg5+ f6 $1 27. Qg7+ Kd8 28. Qxf6+ Kc7 29. dxe6 Qd6 $19) 21. Bxh7+ $1 Kxh7 22.
+Qh5+ Kg8 23. Bxg7 Kxg7 $1 ({Only now did I realize that the intended} 23... f6
+24. Qh8+ Kf7 25. Bxf8 Rxf8 26. Qh7# {mates!}) 24. Qg5+ Kh7 25. Qh5+ Kg7 26.
+Qg5+ Kh7 27. Qh5+ 1/2-1/2
+
+[Event "Alberta Over/Under 1800"]
+[Site "Calgary"]
+[Date "2019.08.18"]
+[Round "5"]
+[White "Findlay, Ian"]
+[Black "McDonald, Mike"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2354"]
+[BlackElo "1805"]
+[Annotator "Findlay,I"]
+[PlyCount "61"]
+[EventDate "2019.08.17"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.08.22"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.22"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 $1 {Avoiding my
+opponent's preparation in the main lines, such as} (6. Bg5) (6. Be2) 6... e5 7.
+Nb3 ({Previously the knight would retreat with} 7. Nde2 {en route to g3. I saw
+Shabalov win a nice game in Edmonton earlier this year with the text move, and
+thought to emulate him if possible}) 7... Be7 8. g4 h6 9. Bg2 Be6 10. f4 exf4 {
+Black allows his opponent to develop the bishop with tempo, but 11.f5 may have
+been a threat} ({Slightly better might have been} 10... O-O {or}) (10... Nc6 {
+but we are on new theoretical ground}) 11. Bxf4 Nc6 12. Qe2 {In the above
+mentioned Shabalov game, Alex kept his bishop on f1, played O-O-O and was able
+to meet ...Ne5 with Nd4 to stop ...Nc4. That might have been a better setup
+for White here as well} Ne5 ({The engine prefers routing the other knight to
+e5 starting with} 12... Nd7) 13. O-O-O Nfxg4 $6 {The problem with Black's
+conception is not the material balance, but the fact that his opponent has
+access to the important central squares d5 and f5 for his knights, which soon
+starts a strong counter-attack} 14. hxg4 Bxg4 15. Qd2 Bxd1 16. Rxd1 O-O $6 {
+Now White can focus his pieces on the attack} ({A better strategy for Black is
+to try for a simplified position by offering to trade bishops with} 16... Bg5 {
+when I intended to answer with} 17. Nd5) 17. Kb1 g5 $2 {Black weakens the
+light squares around his king, giving the opposing knights access to d5 and f5,
+while the light squared bishop becomes active on either the h3-c8 or a2-g8
+diagonal. Black's defense is not a pleasant one} 18. Bxe5 dxe5 19. Qe2 Qc8 20.
+Nd5 Bd8 21. Qh5 Kg7 $2 (21... Qc6 $142 22. Rh1 Qg6 $16) 22. Ne3 Rh8 23. Bh3 Qc6
+24. Rd7 $2 (24. Rd6 $142 Qxe4 25. Nf5+ Kf8 26. Rxh6 Rg8 27. Rh7 Qh1+ 28. Nc1
+Qd5 29. Qh6+ Ke8 30. Nd6+ $18) 24... Qg6 25. Nf5+ Kg8 26. Qd1 $2 (26. Rxd8+
+Rxd8 27. Ne7+ $18) 26... Qb6 27. Qd5 Rh7 28. a4 Bf6 29. Rd6 Qg1+ 30. Ka2 Bg7
+31. Ne7+ {Mate follows} 1-0
+

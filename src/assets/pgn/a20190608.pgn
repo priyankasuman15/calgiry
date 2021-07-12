@@ -1,0 +1,112 @@
+
+[Event "International Qualifier"]
+[Site "Calgary"]
+[Date "2019.06.08"]
+[Round "2"]
+[White "Windram, James"]
+[Black "Zhao, Ian"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2100"]
+[BlackElo "2343"]
+[PlyCount "66"]
+[EventDate "2019.??.??"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+d5 c6 16. dxc6 Bxc6 17. b4 Nb6 18. Bb3 a5 19. a3 h6 20. Bd2 Qc7 21. Nh2 a4 22.
+Ba2 d5 23. Qf3 Nxe4 24. Nxe4 dxe4 25. Qf6 Bd5 26. Ng4 Re6 27. Qh4 h5 28. Ne3
+Bxa2 29. Rxa2 f5 30. f3 f4 31. fxe4 Be7 32. Qf2 fxe3 33. Bxe3 Nc4 0-1
+
+[Event "International Qualifier"]
+[Site "Calgary"]
+[Date "2019.06.08"]
+[Round "3"]
+[White "Vasic, Maxim"]
+[Black "Haessel, Dale R"]
+[Result "0-1"]
+[ECO "D93"]
+[WhiteElo "2099"]
+[BlackElo "2286"]
+[Annotator "Haessel,D"]
+[PlyCount "52"]
+[EventDate "2019.??.??"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 (6. cxd5 Nxd5 7. Nxd5
+Qxd5 8. Bxc7 Nc6 9. e3 Bf5 10. a3 Rac8 11. Bg3 Bc2) 6... c5 7. dxc5 Qa5 8. Qa4
+Qxc5 9. b4 Qc6 10. Nb5 Ne4 (10... Nh5 $1 $17 11. Be5 Bxe5 12. Nxe5 Qf6) 11. Rc1
+(11. Nc7 Bc3+) 11... Nd7 $4 (11... a6 $17 12. Be2 (12. Qa3 axb5 13. Qxa8 Na6
+14. Be2 bxc4) 12... dxc4 13. Qa3) 12. Qd1 e5 13. cxd5 Qb6 14. Bg3 a6 15. Qa4
+Nxg3 (15... Ndf6 16. Bxe5 (16. Nc7 Rb8 17. Bxe5) 16... Bd7) 16. hxg3 Nf6 17.
+Nc7 (17. Nc3 $11 Bf5 18. Be2 Ne4) 17... Rb8 (17... Ra7 18. Qa5 Qxa5 19. bxa5)
+18. Nxe5 Qd6 19. Nf3 Bd7 20. b5 Rbc8 21. Qa5 Nxd5 22. Rd1 Rxc7 23. Rxd5 Qxd5
+24. Qxc7 Rc8 25. Bc4 Rxc7 26. Bxd5 Rc1+ 0-1
+
+[Event "International Qualifier"]
+[Site "Calgary"]
+[Date "2019.06.09"]
+[Round "4"]
+[White "Haessel, Dale R"]
+[Black "Dave, Dave, Bhavik"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "2286"]
+[BlackElo "2053"]
+[Annotator "Haessel,D"]
+[PlyCount "87"]
+[EventDate "2019.??.??"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 d5 2. c4 Nc6 {The
+Chigorin Defence offers quick development for the second player in the main
+line, so I avoided my opponent's preparation with an alternative line} 3. Nf3 (
+3. Nc3 dxc4 4. Nf3) (3. cxd5 Qxd5 4. Nf3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 (7.
+Bxc3) 7... exd4 8. cxd4 Nxd4 9. Qa4+ Nc6 10. e4 $14) 3... Bg4 4. Nc3 dxc4 $6 5.
+d5 Na5 6. Qa4+ c6 7. dxc6 $2 (7. b4 $1 cxb3 8. Qxg4) (7. Ne5 Bf5 8. b4) 7...
+Nxc6 8. Bf4 Bxf3 9. exf3 Qa5 (9... e5 10. Rd1 Qc8 11. Be3 $14 (11. Bxe5 $2 a6
+$11)) 10. Qxa5 Nxa5 11. O-O-O Rd8 12. Be2 e5 (12... Nf6 $140 13. Nb5) (12... e6
+13. Rxd8+ Kxd8 14. Rd1+ Ke8 15. Be3 a6 (15... b6 16. Nb5 Nf6 17. Nxa7) 16. Bb6
+Nc6 17. Bxc4) 13. Bxe5 Nc6 14. Rxd8+ Kxd8 15. Bf4 Bc5 16. Bxc4 Nf6 (16... Bxf2
+17. Ne4 Bd4 18. Nd6 Nh6 19. Bxh6) 17. Rd1+ Ke7 18. Re1+ Kd8 19. Re2 Re8 20.
+Bxf7 Rxe2 21. Nxe2 Bxf2 22. Kd2 Ke7 23. Bc4 Nb4 24. Be3 Bxe3+ 25. Kxe3 b5 26.
+Bxb5 Nxa2 27. Nd4 Kd6 28. Bc4 Nc1 29. Ne6 (29. Kd2 Kc5) 29... Nd5+ 30. Kd2 (30.
+Kd4 Nb6 31. Nxg7 $19) 30... Kxe6 31. Kxc1 h5 (31... Ke5 32. Bxd5 Kxd5 33. Kd2
+Kd4 34. h4) 32. Kd2 Ke5 33. Bxd5 Kxd5 34. Kd3 a6 35. g4 hxg4 36. fxg4 g5 37.
+Ke3 Kc4 38. h4 gxh4 39. Kf4 Kd5 40. g5 Ke6 41. Kg4 h3 42. Kxh3 Kf5 43. Kh4 Kg6
+44. b4 1-0
+
+[Event "International Qualifier"]
+[Site "Calgary"]
+[Date "2019.06.09"]
+[Round "5"]
+[White "Zhao, Ian"]
+[Black "Haessel, Dale"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2343"]
+[BlackElo "2286"]
+[PlyCount "83"]
+[EventDate "2019.??.??"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. d3 h6 5. O-O d6 6. c3 g5 7. a4 Bg7 8. Re1 O-O
+9. h3 Ne7 10. Nbd2 Ng6 11. Nf1 d5 12. exd5 Nxd5 13. a5 c6 14. d4 Be6 15. Nxe5
+Nxe5 16. dxe5 Qc7 17. Qh5 Rae8 18. h4 Nf4 19. Bxf4 gxf4 20. Nd2 Bxc4 21. Nxc4
+b5 22. axb6 axb6 23. Nd6 Re6 24. Nf5 Bxe5 25. Nxh6+ Kg7 26. Nf5+ Kg8 27. Qg5+
+Kh7 28. Qh5+ Kg8 29. Qg5+ Kh7 30. Ra7 Qxa7 31. Rxe5 Rg6 32. Qh5+ Kg8 33. Ne7+
+Kg7 34. Nxg6 fxg6 35. Qg5 Qa1+ 36. Kh2 Qxb2 37. h5 Qc2 38. h6+ Kh8 39. Qe7 Rg8
+40. Qf6+ Kh7 41. Re7+ Kxh6 42. Qh4# 1-0

@@ -1,0 +1,47 @@
+$ {
+
+  'use strict';
+
+
+  const user = out.global.user;
+  const needle = out.global.page;
+
+  const targets = {
+    about: ['mandate', 'programs', 'mission', 'board', 'history', 'contact'],
+    archives: ['search', 'results'],
+    blog: ['news', 'reports', 'articles', 'columns'],
+    classes: ['introduction', 'classes', 'instructors'],
+    events: ['calendar', 'faq'],
+    membership: ['benefits', 'fees', 'renewals', 'join'],
+    ratings: ['introduction', 'adult', 'junior', 'senior', 'faq']
+  };
+
+}
+
+
+<div class="logo"></div>
+
+<nav class="menu">
+  <ul>
+    <li><a href="#banner">home</a></li>
+  <if(user)>
+    <li><a href="/user">user</a></li>
+    <if(user.scope.includes('admin'))>
+      <li><a href="/admin-members">admin</a></li>
+    </if>
+    <li><a class="logout" href="/logout">logout</a></li>
+    <li><a class="change" href="/change">change password</a></li>
+  </if>
+  <else>
+    <li><a class="login" href="/login">login</a></li>
+    <li><a class="register" href="/register">register</a></li>
+    <li><a class="reset" href="/reset">reset password</a></li>
+  </else>
+  </ul>
+
+  <ul>
+    <for|key, target| in=targets[needle]>
+      <li><a href=`#${target}`>${target}</a></li>
+    </for>
+  </ul>
+</nav>

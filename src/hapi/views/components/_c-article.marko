@@ -1,0 +1,72 @@
+$ {
+
+  'use strict';
+
+
+  // USAGE
+  // <c-article name="b-20200103"/>
+
+
+  // need this for require(.marko)
+  // markojs can only resolve imports at compile time vs render time
+  // https://github.com/marko-js/marko/issues/768
+  // https://github.com/marko-js/marko/issues/96
+  // require('marko/node-require').install(options);
+  require('marko/node-require');
+
+  const needle = out.global.page;
+  const attributes = input;
+  const content = require('../../data/content');
+
+  const prefix = attributes.name.slice(0, 2);
+  const id = attributes.name.slice(2);
+  const type = needle === 'blog' ? 'blog' : 'content';
+
+
+  function getArchive() {
+
+    for (let i = 0; i < content.length; i++) {
+      if (content[i].archive.slice(2) === `${id}`) {
+        content[i].underscore = content[i].author.toLowerCase().split(', ').join('_');
+        content[i].informal = content[i].author.split(', ').reverse().join(' ');
+
+        return content[i];
+      }
+    }
+
+    return '';
+  }
+
+  const output = getArchive();
+
+}
+
+
+<div class="media" id=`${attributes.name}`>
+  <div class="media__media">
+    <a href="http://calgarychess.com"><img class="avatar avatar--medium" src=`./img/content/avatars/${output.underscore}.png` alt=`${output.author}`></a>
+  </div>
+  <div class="media__body">
+    <p class="media__title">${output.title}</p>
+    <p class="media__byline"><span class="posted">${output.date}</span><span class="byline">by ${output.informal}</span></p>
+
+    <${require(`../${type}/${attributes.name}.marko`)}/>
+
+    <c-meta archive=`a-${id}`/>
+
+    <!-- <div class="media__meta">
+      <span>
+        <span class="icon svg-icon svg-baseline">
+          <svg xmlns="http://www.w3.org/2000/svg" class="i-link" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        </span>
+        <a href=`/archives?a=${output.archive}`>&nbsp;Read More...</a>
+      </span>
+      <span>
+        <span class="icon svg-icon svg-baseline">
+          <svg xmlns="http://www.w3.org/2000/svg" class="i-search" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </span>
+        <for|tag, i| of=output.tags> / <a href=`/archives?t=${tag}`>${tag}</a></for>
+      </span>
+    </div> -->
+  </div>
+</div>

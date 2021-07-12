@@ -1,0 +1,26 @@
+$ {
+
+  'use strict';
+
+
+  const needle = out.global.page;
+  const metas = out.global.context.meta;
+
+
+  function getDescription() {
+
+    for (let i = 0; i < metas.length; i++) {
+      if (metas[i].page === needle) {
+        return metas[i].description;
+      }
+    }
+
+    return '';
+  }
+
+  const output = getDescription();
+
+}
+
+
+<meta name="description" content=`${output}`>

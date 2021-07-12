@@ -1,0 +1,31 @@
+<layout>
+  <@body>
+
+
+
+
+<h1>File Upload</h1>
+
+<form method="post" action="/upload" enctype="multipart/form-data">
+
+  <fieldset>
+    <legend>File Upload</legend>
+    <p><label for="datafile">File</label><input type="file" name="datafile"></p>
+    <div class="align">
+      <!-- <input type="submit" value="send" class="button button__action button__wide"> -->
+      <button type="submit" id="submit" class="button button__action button__wide button__xl button__centered">Send</button>
+    </div>
+  </fieldset>
+
+</form>
+
+
+<if(out.global.name)>
+  <p>Uploaded <strong>${out.global.name}</strong>: ${out.global.written} bytes written</p>
+</if>
+
+<p>Note: maximum file size is set to ~20MB</p>
+
+
+  </@body>
+</layout>

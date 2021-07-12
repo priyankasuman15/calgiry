@@ -1,0 +1,62 @@
+[Event "Bobby Fischer Memorial"]
+[Site "Calgary"]
+[Date "2019.08.06"]
+[Round "5"]
+[White "Haessel, Dale R"]
+[Black "Nugyen, Kim"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2278"]
+[BlackElo "2093"]
+[Annotator "Haessel,D"]
+[PlyCount "127"]
+[EventDate "2019.07.09"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.07.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Bd6 ({
+Another move is} 7... Re8 {with idea of dropping bishop back to f8 without
+allowing Nb5, aka playing for ...c5}) 8. Bd2 ({The main move is} 8. O-O) 8...
+Re8 9. Rc1 {The idea behind White's last two moves is to discourage ...c5 and
+try to get Black to expend an extra tempo on ...c6. Either way, Black must
+lose a tempo on ...c6 or ...a6.} a6 10. O-O b6 (10... Bxh2+ 11. Kxh2 Ng4+ 12.
+Kg3 Qg5 13. f4 $18) 11. f3 c5 12. Qe1 (12. dxc5 bxc5 (12... Bxc5)) 12... Nc6
+13. Qh4 (13. Qf2 $142) 13... g6 (13... Bb7 14. dxc5 bxc5 15. b3 Ne5 16. Bb1 Bc6
+17. Rfd1) 14. dxc5 (14. Na4 c4 15. Bb1 b5 16. Nac3 {is the computer
+recommendation, but feels like it gives Black initiative on the queenside})
+14... bxc5 15. b3 {Black wants to play ...Ne5 and ...Nc4 causing problems, so
+the text stops that threat. White aims to deal with the hanging pawns by
+attacking them with Na4 and, ideally, force them to move} Bb7 16. Rfd1 Ne5 17.
+Bb1 Bc6 18. e4 d4 19. Bg5 Ned7 20. Rd2 $4 {Played to allow the retreat of the
+knight with Nd1 followed by Nb2 or Nf2. White thinks he is better, but this is
+a mistake based on an incorrect evaluation of the position} (20. Ng3 Bxg3 21.
+hxg3 h6 22. Qxh6 dxc3 23. Rd6) (20. f4 h6 21. Qxh6 Bf8 22. Qh4 dxc3) 20... Be7
+(20... h6 21. Qxh6 Bf8 22. Qh4 dxc3 23. Rxd7 Qxd7 24. Bxf6 Bg7) (20... Re5 21.
+Nd1 Be7) 21. Nd1 Qa5 22. Nb2 $4 (22. Rb2) 22... Nxe4 $1 $19 {While I did see
+the capture, I completely missed the additional threat of 23...Qxd2 because my
+calculation focused only on the exchange 23...Bxg5 24.Qxg5 when the R/d2 is
+still protected! With Nc4 coming next and everything under control, White
+would have been perfectly fine} 23. Bxe4 {Desperation!} Qxd2 $8 24. Bxd2 Bxh4
+25. Bxc6 Rxe2 26. Nc4 ({Also completely hopeless is} 26. Bxa8 Rxd2 27. Nc4 Rxa2
+28. Bc6) 26... Ra7 27. Kf1 Rf2+ (27... d3 $142) 28. Kg1 Ne5 29. Be1 $2 (29. g3
+Rxd2 30. Nxd2 Nxc6 31. gxh4 Nb4 32. Rxc5 Nxa2 33. Rd5 Nc3 34. Rd8+ Kg7 35. Kf2
+Nb5) 29... Nxc6 (29... Nd3 $1) 30. Bxf2 Bxf2+ 31. Kxf2 Nb4 32. Nb2 $8 Re7 $2 {
+Black returns the pawn and gives his opponent more or less equality} ({
+Probably best is} 32... Nxa2 33. Rxc5 Rb7 34. Nd3 Rxb3 35. Ra5 Nb4 36. Nxb4
+Rxb4 37. Rxa6 {when White has decent drawing chances}) 33. a3 Nd5 34. Rxc5 Nc3
+(34... Nf4 {is the only try and probably a draw with best play after} 35. Kg3
+Nxg2 36. Kxg2 (36. Rc6 Ne1 37. Nc4 Re2 38. Rxa6 Rg2+ 39. Kh3 Rg1 40. Rf6 Nd3
+41. Nd2 g5 42. Ne4 Kg7 43. Rf5 Nf4+ 44. Rxf4 gxf4) 36... Re2+ 37. Kg3 Rxb2 38.
+Ra5 d3 39. Rxa6 Rxb3 40. a4 Rb4 41. Rd6 Rxa4 42. Rxd3) 35. Nc4 Re2+ 36. Kf1 d3
+$4 37. Rc8+ Kg7 38. Rd8 Ra2 39. Rxd3 Nb5 40. a4 Nc7 41. Rd7 Ne6 42. Ne5 $2 (42.
+Nd6) 42... Kf6 43. Nc4 Nf4 44. Rd6+ Kg5 45. g3 Ne6 46. h4+ Kf5 47. Rd2 $4 (47.
+a5 $18) 47... Rxd2 $1 48. Nxd2 Ke5 49. Ke2 Kd4 50. b4 Kc3 $2 (50... f5) 51. b5
+axb5 52. axb5 $2 (52. Ne4+ Kb4 53. axb5) 52... Nd4+ 53. Ke3 Nxb5 $4 (53... Nf5+
+54. Ke2 Nd4+ 55. Ke3 Nc2+ 56. Ke2 Nd4+ 57. Kd1 Nxb5 58. Ne4+ Kd3 59. Ng5 Nc3+
+60. Ke1 Ke3 61. Nxh7 $11 {Black's king is very active} Kxf3 62. Ng5+ Kxg3 63.
+Nxf7 Kxh4 64. Ne5 g5 65. Nf3+ Kg4 66. Nxg5 Kxg5) 54. Ne4+ Kc4 55. Ng5 f5 56.
+Nxh7 Nc7 57. Kf4 Kd4 58. Nf8 Nd5+ 59. Kg5 Ke3 60. Nxg6 Kxf3 61. h5 Kxg3 62. h6
+f4 63. Nxf4 Nxf4 64. h7 1-0
+

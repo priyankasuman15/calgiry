@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        // "module": "commonjs",
+        "allowSyntheticDefaultImports": true
+    },
+    "exclude": [
+        "node_modules",
+        "bower_components",
+        "jspm_packages",
+        "temp",
+        "tmp",
+        "build",
+        "dist",
+        "lib",
+        "uploads"
+    ]
+    // "files": [
+    //     // "src/index.js",
+    //     // "src/index.es6",
+    //     // "src/js/utils.js",
+    //     // "src/js/sticky.js",
+    //     // "src/js/umlaut.js",
+    //     // "src/js/webfontloader.js"
+    //     // "typings/index.d.ts",
+    //     "src/"
+    // ]
+}

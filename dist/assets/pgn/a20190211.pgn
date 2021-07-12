@@ -1,0 +1,53 @@
+[Event "op playoff"]
+[Site "Banff"]
+[Date "2018.11.12"]
+[Round "8"]
+[White "Findlay, Ian"]
+[Black "Ginsburg, Mark"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2352"]
+[BlackElo "2382"]
+[Annotator "Findlay,I"]
+[PlyCount "90"]
+[EventDate "2018.??.??"]
+[EventType "swiss (blitz)"]
+[EventCountry "CAN"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+{Normally Mark is a Sicilian Taimanov player, so his choice of a Modern
+Defense came as a bit of a surprise. I did have some chance early on, but
+Mark soon outplayed me to win his well-deserved 2nd Banff Open in a row.}
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. f3 Bb7 7. h4 h5 8. Nh3 Nd7
+9. Ng5 c5 10. a4 b4 $2 11. Ne2 $6 ({Better was} 11. Bc4 {to meet} bxc3 ({
+Black would have to play} 11... e6 {when after} 12. Ne2 $32 {I have got my
+bishop out and better development}) 12. Bxf7+ Kf8 13. Ne6+ Kxf7 14. Nxd8+)
+11... Ngf6 12. c3 bxc3 13. bxc3 O-O $14 {White is slightly better. Time on the
+clock White:4:24 Black: 3:20. White started with 5 minutes, Black with 4
+minutes and Black has draw odds} 14. Nf4 $2 {Allowing black to play ...e5 with
+tempo} (14. Qa2 {is Houdini's move}) (14. Ng3 {is the more human move and
+leaves White slightly better}) 14... cxd4 (14... e5 {right away may be more
+accurate}) 15. cxd4 e5 $1 16. Nfh3 $2 {Retreating is not the way to win} ({
+IM Lawrence Day commented on Facebook that} 16. Nfe6 {maximizes uncertainty}) (
+16. dxe5 {followed by Nd3 and White is still a little better}) 16... d5 $1 {
+Black blasts opens the center while White has still not developed} 17. dxe5 $6
+{I had a plan to shut in Black's bishop with f4 and e5 but White is now
+"busted" as Fischer used to say.} Nxe5 18. f4 Nc4 19. Bxc4 dxc4 20. e5 Ng4 21.
+Bc5 Qxd2+ 22. Kxd2 Rfd8+ 23. Kc2 Bxg2 24. Rhg1 Bc6 {Time on clock White:2:54
+Black: 2:39. Black is clearly winning, but without increments anything could
+still happen} 25. a5 Rd5 26. Bb6 Rc8 27. Rgd1 Rxd1 28. Kxd1 Bd7 29. Rc1 Bf5 30.
+Kd2 f6 $1 {Opening up the bishop. White is dead.} 31. Nf3 Nxe5 32. fxe5 Bxh3
+33. Bd4 Bh6+ 34. Be3 Bxe3+ $2 $17 (34... c3+ {was the killer finish}) 35. Kxe3
+Bg4 36. Nd2 fxe5 37. Rxc4 Rxc4 $2 $11 {Allowing White to equalize, but since
+Black only needs a draw to win this is not a horrible decision. Also, White
+has 1:15 to Black's 1:00} 38. Nxc4 Kg7 39. Nxe5 Kf6 40. Kf4 ({Of course} 40.
+Nxg4+ {would be a draw, but then I lose the tiebreak. And so my winning
+attempt, down a pawn, is quite hopeless. Time 1:03 to 37 seconds}) 40... Be2
+41. Nd7+ Kg7 42. Kg5 Bd3 43. Ne5 Bf5 44. Nc6 Bd3 45. Nb8 $4 Bb5 $1 {Now the
+knight is trapped and Black is winning again. Final times, White:55s Black 30s.
+Not a great game, but entertaining for the many spectators who stayed behind}
+0-1
+

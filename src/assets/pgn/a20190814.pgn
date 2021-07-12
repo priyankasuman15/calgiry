@@ -1,0 +1,46 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1966.??.??"]
+[Round "9"]
+[White "Gligoric, Svetozar"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "D93"]
+[Annotator "Perron,S"]
+[PlyCount "72"]
+[EventDate "1966.??.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "ISR"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.08.12"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.08.12"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3
+Bg7 5. Bf4 c6 6. e3 O-O 7. Rc1 dxc4 8. Bxc4 Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11.
+O-O e6 12. Rfd1 Qe7 13. Bg5 h6 14. Bh4 Rad8 15. e4 {This type of pawn
+structure, d4 and e4 vs c6 and e6, can occur in a number of different openings.
+There are different ways to play this, but typically Black aims for either the
+...c5 or ...e5 break. But when you do this, you need to weigh the consequences
+of White getting a passed pawn on d5. White handled this game beautifully} e5 (
+{Not good at all looks} 15... c5 {because of} 16. e5 g5 17. exf6 Qxf6 18. Qxf6
+Bxf6 19. Bg3 cxd4 20. Ne4 {and Black can start thinking about the next round})
+16. d5 Nb6 17. Bb3 g5 ({Black wants to play} 17... cxd5 {but White has a nice
+in-between move here with the capture} 18. Bxf6 Bxf6 19. Bxd5 $14 {when he
+keeps control of d5 and retains an edge. This might not be much, but is a
+joyless position to play from the Black side. Gheorghiu understandably reacts
+differently, but from now on White's play is exemplary}) 18. Bg3 c5 {[%cal
+Gb6c8,Gc8d6] If I were Black, the prospect of recycling the knight with ...
+Nc8-d6 would have me thinking that the position is fine. But Gligoric keeps
+hitting Black - for the rest of the game - with almost Capablanca like mini
+combos} 19. h4 $1 Nc8 20. hxg5 hxg5 21. Qe3 $1 Nh5 22. d6 $1 {This is the
+types of move I wish I made in my games. White decisively clears d5 for the
+knight} Rxd6 ({Soltis gives the terrible} 22... Nxd6 23. Nd5 Qe6 24. Qxg5 {
+but it's all just different kinds of terrible now}) 23. Nd5 Qd8 24. Rxc5 Nb6
+25. Qf3 Nf4 26. Bxf4 gxf4 27. Qg4 Kh8 28. Rd3 Rg6 29. Qf5 Nxd5 30. Rh3+ Rh6 31.
+Rxd5 Qb6 32. Rdd3 $1 Rd8 33. Rxh6+ Bxh6 34. Qxe5+ Kg8 35. Qe7 Rf8 36. Rd6 Qa5
+1-0
+

@@ -1,0 +1,70 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const user = out.global.user;
+  const error = out.global.error;
+
+  const schemas = require('../configs/schemas');
+
+  const schema_password = schemas.getSchema('password');
+  const schema_email = schemas.getSchema('email');
+
+  const email = user.personal.contact.email || '';
+
+}
+
+
+
+
+<if(error)>
+  <div class="message message__error">
+    ${error.output.payload.statusCode} ${error.output.payload.error}<br>
+    ${error.output.payload.message}
+  </div>
+</if>
+
+
+<h1>User Account</h1>
+
+<h2>Change Password</h2>
+<p></p>
+<form method="post" action="/change">
+
+  <div>
+    <input type="password" id="password" name="password" required pattern=`${schema_password.pattern}` placeholder=" ">
+    <label for="password">Old PassWord</label>
+    <div class="requirements">
+      ${schema_password.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="password" id="pw" name="pw" required pattern=`${schema_password.pattern}` placeholder=" ">
+    <label for="pw">New PassWord</label>
+    <div class="requirements">
+      ${schema_password.error}
+    </div>
+  </div>
+
+  <!-- <div>
+    <input type="email" id="email" name="email" required pattern=`${schema_email.pattern}` value=`${email}` placeholder=" ">
+    <label for="email">eMail</label>
+    <div class="requirements">
+      ${schema_email.error}
+    </div>
+  </div> -->
+
+  <div>
+    <input id="email" name="email" type="hidden" value=`${email}`>
+  </div>
+
+  <button type="submit" id="submit" class="button button__action button__wide button__xl button__centered">Change</button>
+
+</form>
+
+
+  </@body>
+</layout>

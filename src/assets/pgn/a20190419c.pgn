@@ -1,0 +1,97 @@
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.21"]
+[Round "4"]
+[White "Haessel, Dale R"]
+[Black "Arruebarrena, Rafael"]
+[Result "0-1"]
+[ECO "E48"]
+[WhiteElo "2261"]
+[BlackElo "2350"]
+[Annotator "Arruebarrena,R"]
+[PlyCount "78"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 {I was quite sure this position would appear on the
+board as FM Haessel is very principled in his opening choices} Bb4 4. e3 O-O 5.
+Bd3 d5 6. cxd5 exd5 7. Nge2 Re8 8. Bd2 c5 {This commits Black to giving up the
+bishop pair not causing any structural damage to White's position} ({Less
+committal is} 8... Bd6 {when Black will transpose into a Carlsbad structure
+after a further ...c6}) (8... Bf8 {also with a Carlsbad structure in mind}) 9.
+a3 Bxc3 (9... cxd4 $2 {was my unfortunate choice in the Calgary International,
+underestimating} 10. axb4 dxc3 11. Bxc3 $1 $16 {when White has great dynamic
+potential and his unopposed dark squared bishop is very strong. I duly
+achieved a lost position but Haessel missed a tactic when low on time which
+turned the tables on the game}) 10. Bxc3 ({Haessel's choice in last year's
+Over/Under 1800 tournament was} 10. bxc3 b6 11. O-O Ba6 12. Bc2 $6 (12. Bxa6
+Nxa6 {is still level}) 12... Nc6 {and Black is already in very good shape in
+my opinion, although I did manage to mangle my position later}) 10... c4 11.
+Bc2 Bg4 ({The choice of most strong players who have reached this position as
+Black is} 11... Nc6) 12. O-O Nc6 13. Qd2 (13. b3 Na5 14. bxc4 Nxc4 {does not
+look like anything for White}) 13... Bxe2 $5 {At this point I remembered a
+discussion on the merits of the two bishops I had with my good friends
+brothers Seguel from Venezuela, now resident in Chile. My point was that IM
+Watson in his book Secrets of Modern Chess Strategy pointed out many positions
+in which opening the center was actually in the knight pair advantage, so I
+tried to prove my point in the position in question} 14. Qxe2 b5 15. f3 {
+I had the feeling this move forced White's hand into a do or die break on e4
+as otherwise now Black's play in the Queenside will be too strong} a5 16. Rad1
+Qb6 {Getting out of the way of the rook on d1, protecting the knight on c6 and
+also preparing some tricks} ({Premature is} 16... b4 $6 17. Ba4 $1) 17. Qf2 {
+Correctly getting out of the pin} b4 18. Bd2 (18. Be1 $5 {I wondered about
+this idea for a while, maybe the bishop can dream of becoming active on g3 or
+h4 in a few moves}) ({Another interpretation of the Be1-g3-h4 idea is} 18. axb4
+axb4 19. Be1 {when Black has to really go for it in the queenside with} b3 20.
+Bb1 Rad8 21. Qd2 Na7 22. Bh4 Nb5 23. Kh1 {which looks very unclear}) 18... Re7
+$6 {Unfortunately this way of defending f7 is not very good} ({My intention was
+} 18... Rab8 19. Bc1 {and with e4 coming I was not sure how to follow up.
+Perhaps} c3 20. bxc3 b3 21. Bb1 b2 22. Bd2 Qb3 23. Qh4 {when} Ne7 $1 {is a key
+defensive idea with chances for both sides. This defence is not available with
+the rook on e7 as I verified during the game}) 19. Bc1 ({White can already
+very much go for it with} 19. g4 Rb8 20. Qh4 h6 21. g5 hxg5 22. Qxg5 {and a
+position which I did not like during the game, especially since it comes with
+an extra tempo for White. The feeling is that Black is not going anywhere on
+the queenside and White will have all the time to deliver checkmate on the
+kingside}) 19... Rb8 $2 {Based on a miscalculation} 20. g4 (20. e4 dxe4 21.
+fxe4 Ng4 22. Qh4 Nxd4 23. Kh1 Ree8 {correcting the mistake is still not
+entirely bad for Black} (23... Nxc2 $4 {was my calculation, omitting that the
+rook is hanging on e7 (another reason why Re7 was bad)} 24. Qxe7 $18) 24. Rxd4
+Qxd4 25. Qxg4 b3 26. Bb1 c3 $1 {is an interesting computer resource to keep
+Black in the game}) 20... c3 $6 {executing my "threat"} (20... Rd8 {is
+presumably better but then White can still go} 21. Qh4 $1 {entering the
+unpleasant position described before}) 21. bxc3 b3 22. Bb1 b2 23. Bd2 Qb3 {
+and so Black has a strong passed pawn and in an ideal world will take next on
+a3 and then promote either the b or the a pawn} 24. e4 $2 {also based on a
+miscalculation, the Queen on b3 has an "X-ray" defense on the f7 pawn} (24. Qh4
+$1 {was even stronger now that the Black Queen can't swing over the sixth rank
+for defense}) 24... dxe4 25. g5 (25. fxe4 $6 Nxe4 {is a simple and sufficient
+defense, White is going nowhere}) (25. Rde1 {avoiding any ...e3 business seems
+best} e3 26. Rxe3 Qxa3 27. Rxe7 Nxe7 28. Re1 Ng6 29. Qg3 {may give White just
+enough to compensate for the strong passers}) 25... e3 {a nice defensive idea}
+26. Qh4 $2 (26. Bxe3 Nd5 27. Bd2 Nxc3 28. Bxc3 Qxc3 29. Rd3 Qc4 {is grim for
+White but had to be tried}) 26... Nh5 $1 {I was very happy to find this move
+in my calculations} 27. Bxe3 Rxe3 28. Qxh5 g6 29. Qg4 Qxc3 {after a string of
+only moves White is losing} 30. Ba2 {the only idea to make things complicated
+during time trouble} Qxa3 {after thinking for a while I found that the
+sacrifice on f7 doesn't work and other ideas are refuted simply} 31. Bd5 Ne7 $4
+{but now I allow the sacrifice, fortunately Black's advantage is big enough
+that even this is not enough to turn the position around} 32. Bxf7+ $1 Kxf7 33.
+Qf4+ Kg7 34. Qxb8 Re2 $1 {the only move to keep the advantage, I was happy to
+be able to calm down after such a horrible oversight and still find the
+winning idea} 35. d5 Qe3+ 36. Kh1 Qxg5 37. Rg1 Qf6 (37... Qf5 {I missed the
+strong Qf5-h3 completely paralyzing White} 38. Rgf1 Qh3 39. Qg3 Qxg3 40. hxg3
+Nf5 41. Rg1 (41. d6 Nxg3+ 42. Kg1 Nxf1 43. d7 Rd2 44. Rxd2 b1=Q 45. d8=Q Nxd2+
+{was one neat winning line}) 41... Nd6 {with a win, the Queenside pawns are
+unstoppable}) 38. Rgf1 a4 39. Qb5 $2 (39. Rde1 $3 {is an amazing computer
+resource I didn't consider during the game} Rxe1 40. Rxe1 Qxf3+ (40... a3 $1 {
+with the idea} 41. Qa7 Qxf3+ 42. Kg1 Kh6 $3 {amazingly wins}) 41. Kg1 {and now
+it seems Black has to force the draw}) 39... Qe5 $1 0-1
+

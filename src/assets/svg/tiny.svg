@@ -1,0 +1,14 @@
+<!-- original -->
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 8 8"><path fill="#000000" fill-rule="evenodd" d="M0 0h4v4H0V0zm4 4h4v4H4V4z"/></svg> -->
+
+<!-- wide 240 120 -->
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="240" height="120" viewBox="0 0 16 8"><path fill="#000000" fill-rule="nonzero" d="M 0 0 H 8 V 4 H 0 Z M 8 4 H 16 V 8 H 8 Z"/></svg> -->
+
+<!-- square 120 120 -->
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 8 8"><path fill="#000000" fill-rule="nonzero" d="M 0 0 H 4 V 4 H 0 Z M 4 4 H 8 V 8 H 4 Z"/></svg> -->
+
+<!-- square scale 2 1  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="120" viewBox="0 0 16 8"><path fill="#000000" fill-rule="nonzero" d="M 0 0 H 4 V 4 H 0 Z M 4 4 H 8 V 8 H 4 Z" transform="scale(2 1)"/></svg>
+
+<!-- square scale 2 1 rotate 45 -->
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 8 8"><path fill="#000000" fill-rule="nonzero" d="M 0 0 H 4 V 4 H 0 Z M 4 4 H 8 V 8 H 4 Z" transform="rotate(45 4 4) scale(.5) translate(3 2)"/></svg> -->

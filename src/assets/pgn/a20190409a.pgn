@@ -1,0 +1,75 @@
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.27"]
+[Round "4"]
+[White "Srinivasan, Hemant"]
+[Black "Lapides, Andrew"]
+[Result "0-1"]
+[ECO "A87"]
+[WhiteElo "1888"]
+[BlackElo "2226"]
+[Annotator "Lapides,A"]
+[PlyCount "78"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. Nc3 d6 8. Re1 h6
+9. h4 {Strange and probably a mistake; making a hole for my knight to jump on}
+Nc6 10. d5 Ne7 11. dxe6 {The pawn on e6 can be weak or strong: if Black
+captures it he will be OK, but if not he will suffer} ({Instead maybe} 11. Nd4
+{[%cal Yd4e6]}) 11... Bxe6 12. Nd4 Bxc4 {Suddenly c4 is weak and it isn't easy
+to protect it. The move b3 doesn't work because White is weak along the a1-h8
+diagonal. Had White played a normal move like Qc2 instead of h4 then pushing
+away the B/b3 would be possible more easily} 13. Qa4 {Evicting the bishop in
+this way might not be a good idea, given it was a bit loose there. But White
+probably wanted to recover material on b7} Bf7 14. Bxb7 Rb8 15. Nc6 Nxc6 ({
+Here I had a long think about} 15... Qd7 16. Nxb8 Qxa4 17. Nxa4 Rxb8 18. Bg2
+Nfd5 19. Bd2 {when Black appears to have some compensation for the exchange
+with the bishop pair and White's misplaced N/a4. At the same time, it is
+unclear how Black can proceed}) 16. Bxc6 Ng4 {White certainly wants to play h3
+now or later, but unfortunately that is not a legal option after the earlier
+advance of the pawn to h4} 17. Bg2 Kh7 {I liked it here for Black} 18. e4 {
+Opening the center is probably not the right decision} f4 {Black declines!} 19.
+Bxf4 Rxb2 $6 {Played without too much reflection, and this is indeed a much
+more prosaic line than the alternative} ({From afar I had considered playing}
+19... Nxf2 {which does a far better job of connecting all of Black's tactical
+ideas after} 20. Kxf2 Rxb2+ (20... g5 {[%cal Yb8b2,Yg7d4,Yf8f2] also comes
+with some nice attacking ideas for Black}) 21. Ne2 $140 g5) 20. Nd1 Rb8 21. Rc1
+Be6 {Black just improves the bishop and protects the N/g4} 22. Qxa7 (22. Ne3 g5
+23. Nxg4 gxf4 {and the knight has to retreat with} 24. Nh2) 22... c5 23. Rc2
+Rb1 24. Rd2 {All I was thinking about was the rook sacrifice on f4, either
+right away or after removing the pin on my bishop along the 7th rank} Rf7 25.
+Qa6 (25. Rxd6 $2 Qxd6) ({Here I was more concerned with} 25. Qa3 Rxf4 26. gxf4
+Qxh4 {since now the queen can defend with} 27. Qg3) 25... Rxf4 26. Rxd6 {
+In spite of calculating the same capture on the previous move, here it came as
+a complete surprise to me! My first reaction was that Black is lost completely}
+Qf8 ({The computer suggests the improbable line} 26... Qe7 27. Rxe6 Rf6 {
+but in the end agrees with my choice in the game}) 27. gxf4 Qxf4 28. Rxe6 {
+Played after a long thought. Capturing the piece creates a great deal of
+imbalance in the position, but not taking leaves the opponent with an extra
+piece for the attack} Rxd1 ({I abandoned} 28... Nxf2 {in my calculations
+pretty quickly, seeing that the text leads at least to a perpetual in case
+Black needs a safe exit}) 29. Rxd1 Qxf2+ 30. Kh1 Qxh4+ 31. Kg1 Qh2+ {Black
+wants more than the draw} 32. Kf1 Qf4+ 33. Kg1 Qe3+ 34. Kh1 Nf2+ 35. Kh2 Qf4+ {
+An important extra check to force the king to g1. This idea had to be seen
+much earlier} 36. Kg1 Nxd1 {[%cal Yg7d4] The deadly threat is 37...Bd4+ with
+mate to follow} 37. Qa7 {White loses very fast after this} ({White can try
+pinning the bishop with} 37. Re7 {when} Qf2+ 38. Kh2 Qh4+ {picks up the rook} (
+{or else} 38... Ne3 {is the computer preference leading to a forced mate. For
+the human player however, calculating that Black's king runs away from the
+checks after} 39. Rxg7+ Kxg7 40. Qb7+ Kf6 {isn't worth the trouble})) (37. Rd6
+$19 {weakens e5 and allows} Qe3+ 38. Kh1 Nf2+) (37. e5 Qe3+ 38. Kh1 Qe1+ 39.
+Kh2 Bxe5+ 40. Rxe5 Qxe5+ {is probably his best practical chance, but clearly
+loses as well}) ({The computer comes up with} 37. Qb7 {when B/g7 is also
+pinned and, if allowed, e5 will protect B/g2. During the game I would not have
+found the move} Nc3 {away from the White king, even though the threat is 38...
+Ne2+ and White is forced to play} 38. Bf1 Qg4+) 37... Qf2+ 38. Kh1 Ne3 39. Bh3
+Qg3 $138 0-1

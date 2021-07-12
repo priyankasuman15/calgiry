@@ -1,0 +1,52 @@
+
+/* TYPOGRAPHY.CSS */
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  clear: both;
+  margin: 3rem 0 1rem 0;
+  text-align: left;
+  line-height: 1.1;
+  color: var(--text-color);
+}
+
+h1 {
+  font-size: 3.2rem;
+  /* letter-spacing: 2rem; */
+  /* text-transform: uppercase; */
+  /* padding-left: 20px; */
+  /* border-left: 40px solid var(--bling-100); */
+}
+
+h2 {
+  font-size: 2.8rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.8rem;
+}
+
+h6 {
+  font-size: 1.6rem;
+}
+
+
+p {
+  margin: 2rem 0;
+  font-size: 1.4rem;
+  line-height: 1.6;
+}

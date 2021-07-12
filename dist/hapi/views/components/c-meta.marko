@@ -1,0 +1,40 @@
+$ {
+
+  'use strict';
+
+
+  const needle = out.global.page;
+  const attributes = input;
+  const content = require('../../data/content');
+
+
+  function getArchive() {
+
+    for (let i = 0; i < content.length; i++) {
+      if (content[i].archive === attributes.archive) {
+        return content[i];
+      }
+    }
+
+    return '';
+  }
+
+  const output = getArchive();
+
+}
+
+
+<div class="media__meta">
+  <span>
+    <span class="icon svg-icon svg-baseline">
+      <svg xmlns="http://www.w3.org/2000/svg" class="i-link" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+    </span>
+    <a href=`/archives?a=${output.archive}`>&nbsp;Read More...</a>
+  </span>
+  <span>
+    <span class="icon svg-icon svg-baseline">
+      <svg xmlns="http://www.w3.org/2000/svg" class="i-search" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </span>
+    <for|tag, i| of=output.tags> / <a href=`/archives?t=${tag}`>${tag}</a></for>
+  </span>
+</div>

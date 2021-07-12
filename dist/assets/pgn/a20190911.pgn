@@ -1,0 +1,754 @@
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "1.1"]
+[White "Banerjee, Bitan"]
+[Black "Zhao, Ian"]
+[Result "1-0"]
+[ECO "A53"]
+[WhiteElo "2487"]
+[BlackElo "2384"]
+[PlyCount "83"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. d4 d6 5. Bg2 Nbd7 6. e4 Be7 7. Nge2 Qc7 8. O-O
+O-O 9. h3 Re8 10. Be3 a5 11. Rc1 Bf8 12. f3 b6 13. d5 Ba6 14. dxc6 Qxc6 15. b3
+Nc5 16. a4 Bb7 17. Nb5 Rad8 18. Qc2 Qd7 19. Rfd1 Bc6 20. Nec3 h6 21. Rd2 Qb7
+22. Rcd1 Qb8 23. Kh2 Na6 24. h4 Nb4 25. Qb1 Nd7 26. Nxd6 Bxd6 27. Rxd6 Nc5 28.
+Rxd8 Rxd8 29. Nd5 Bxd5 30. exd5 Qd6 31. Bh3 Re8 32. Bf5 g6 33. Bc2 Kg7 34. Qc1
+h5 35. Qb2 Kg8 36. Bb1 f5 37. Qc3 Kf7 38. Bc1 f4 39. gxf4 exf4 40. Rg1 Re2+ 41.
+Kh1 Ne4 42. Bxe4 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "1.2"]
+[White "Yam, Alex"]
+[Black "Valencia, Belsar"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "2354"]
+[BlackElo "2341"]
+[PlyCount "121"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 Nbd7 8. O-O
+b6 9. Re1 Bb7 10. e4 dxe4 11. Nxe4 cxd4 12. Nxd4 Qc7 13. Qe2 Nxe4 14. Bxe4 Bxe4
+15. Qxe4 e6 16. Rad1 Nc5 17. Nb5 Nxe4 18. Nxc7 Rac8 19. Be7 Nxc3 20. Rd7 Na4
+21. Bxf8 Bxf8 22. Nb5 Nxb2 23. Rxa7 Rc4 24. Rd7 Bc5 25. Nd6 Rc2 26. Ne4 Na4 27.
+Rd2 Rc4 28. Nxc5 Rxc5 29. f3 b5 30. Rb1 h5 31. Kf1 Kf8 32. Rd8+ Ke7 33. Rb8 Nc3
+34. Rc1 Kd6 35. a3 Kd5 36. Ke1 Kd4 37. Kd2 Nd5 38. Rxc5 Kxc5 39. Rb7 f6 40. h4
+e5 41. g3 Kc4 42. Rb8 f5 43. Rc8+ Kd4 44. Rc6 e4 45. fxe4 fxe4 46. Rxg6 e3+ 47.
+Ke1 b4 48. axb4 Nxb4 49. Ke2 Nd5 50. Rh6 Nc3+ 51. Kf3 Ne4 52. Rh8 Nd2+ 53. Ke2
+Ne4 54. Rd8+ Ke5 55. Kf3 Nf6 56. Kxe3 Kf5 57. Kf3 Ke5 58. Ra8 Kf5 59. Ra5+ Kg6
+60. Kf4 Nh7 61. Ra6+ 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "1.3"]
+[White "Arruebarrena, Rafael"]
+[Black "South, Robert"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2334"]
+[BlackElo "2312"]
+[PlyCount "27"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bc4 Nf6 5. Qe2 O-O 6. O-O Nc6 7. e5 dxe5 8.
+dxe5 Nd5 9. Rd1 e6 10. Nc3 Nce7 11. Ne4 b6 12. Bb3 Qe8 13. c4 Ba6 14. Qd2 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.09.07"]
+[Round "1.4"]
+[White "South, Fred"]
+[Black "Caldera, Anuar"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2289"]
+[BlackElo "2297"]
+[Annotator "Neven,Knut Gunther"]
+[PlyCount "98"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. c4 Bg7 5. O-O e5 6. Nc3 Nge7 7. d3 O-O 8. Ne1
+d6 9. Nc2 Be6 10. Ne3 f6 11. Ned5 Kh8 12. Bd2 Rb8 13. a3 a5 14. Rb1 Bg8 15. b4
+axb4 16. axb4 Nxd5 17. Nxd5 cxb4 18. Nxb4 Nxb4 19. Rxb4 d5 20. cxd5 Bxd5 21.
+Bxd5 Qxd5 22. Qb3 Rfd8 23. Rb1 Bf8 24. Qxd5 Rxd5 25. Rxb7 Rxb7 26. Rxb7 e4 27.
+Rb8 Kg7 28. Rb7+ Kg8 29. Rb3 Kf7 30. Be3 exd3 31. Rxd3 Rb5 32. f3 h5 33. Kf2
+Bc5 34. Bxc5 Rxc5 35. h4 g5 36. hxg5 fxg5 37. e4 Ra5 38. f4 Kg6 39. Rd6+ Kf7
+40. Rb6 Ra3 41. Rb7+ Ke6 42. Rb5 Ra2+ 43. Kf3 Ra3+ 44. Kg2 Re3 45. Rb4 Kf7 46.
+Kf2 Ra3 47. f5 h4 48. Rb7+ Kg8 49. gxh4 Rh3 {SCORESHEET ILLEGIBLE} 1/2-1/2
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "1.5"]
+[White "Gardner, Robert"]
+[Black "Malek, Omid"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2146"]
+[BlackElo "2263"]
+[PlyCount "101"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Nf3 Bg4 6. Be2 Nc6 7. O-O Be7 8.
+Re1 O-O 9. Ne5 Bf5 10. Bf3 Nb4 11. Re2 c6 12. a3 Na6 13. Bg5 h6 14. Bf4 Nc7 15.
+g4 Bh7 16. Bg2 Ne6 17. Bg3 Bd6 18. h3 Qc7 19. b4 Rad8 20. Qd2 Ng5 21. f3 Ne6
+22. f4 a5 23. b5 Qb6 24. Bf2 g5 25. fxg5 hxg5 26. Nf3 Bf4 27. Be3 Ne4 28. Nxe4
+dxe4 29. Nxg5 Bxg5 30. Bxg5 Nxd4 31. Kh1 Nxe2 32. Qxe2 Qd4 33. Rf1 f6 34. Bh6
+Rf7 35. bxc6 bxc6 36. Be3 Qd5 37. Rg1 Bg6 38. Qa6 Kh8 39. Bf1 Rh7 40. Kg2 Bf7
+41. Be2 Rg8 42. Rd1 Qe6 43. Qxa5 Bh5 44. Rg1 Bg6 45. Qc3 Rf7 46. Bc4 Qe7 47.
+Bxf7 Bxf7 48. Bd4 Rg6 49. Rf1 Kg7 50. Bxf6+ Rxf6 51. g5 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.09.07"]
+[Round "1.6"]
+[White "Haessel, Dale R"]
+[Black "Miller, David"]
+[Result "0-1"]
+[ECO "E48"]
+[WhiteElo "2251"]
+[BlackElo "2212"]
+[PlyCount "42"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Re8 8.
+O-O Bd6 9. Bd2 Ng4 10. Ng3 Qh4 11. h3 Nxf2 12. Rxf2 Bxg3 13. Rf3 Bg4 14. Qa4 b5
+15. Qxb5 c6 16. Qb7 Bxf3 17. Qxa8 Bf2+ 18. Kf1 Bxg2+ 19. Kxg2 Qg3+ 20. Kf1 Bxe3
+21. Bxe3 Qxh3+ 0-1
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "1.7"]
+[White "Veneracion, Paolo"]
+[Black "Brebrich, Branimir"]
+[Result "0-1"]
+[ECO "A39"]
+[WhiteElo "2164"]
+[BlackElo "2225"]
+[PlyCount "126"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 c5 5. O-O Nc6 6. d4 cxd4 7. Nxd4 O-O 8.
+Nc3 Nxd4 9. Qxd4 d6 10. Rd1 a6 11. Na4 Bd7 12. c5 Qa5 13. Nc3 dxc5 14. Qe3 Be6
+15. Bxb7 Rad8 16. Bd2 Ng4 17. Qf3 Ne5 18. Qg2 Nc4 19. Be1 Rxd1 20. Rxd1 Nxb2
+21. Nd5 Qxa2 22. Nxe7+ Kh8 23. Rd6 Qb1 24. Qf1 Nc4 25. Rxe6 fxe6 26. Bxa6 Ne3
+27. Bd3 Qxd3 28. exd3 Nxf1 29. Kxf1 Bd4 30. Nc6 Bf6 31. Ke2 Ra8 32. Kf3 Kg7 33.
+Na5 Kf7 34. Nc4 Ra2 35. h4 Bd4 36. g4 Ra1 37. Ke2 e5 38. Nd6+ Ke6 39. Ne4 h6
+40. Kf1 h5 41. f3 hxg4 42. fxg4 Ra2 43. Bd2 Ra1+ 44. Kg2 Ra3 45. h5 gxh5 46.
+gxh5 Rxd3 47. h6 Kf7 48. Bg5 Kg6 49. Nf6 Ra3 50. h7 Ra8 51. Bh4 c4 52. Kf3 c3
+53. Ke2 Kg7 54. Kd3 Ra2 55. Bg5 Rh2 56. Ne4 Kxh7 57. Bc1 Kg6 58. Ba3 Kf5 59.
+Nd6+ Ke6 60. Ne4 Rh3+ 61. Kc2 Kd5 62. Nd6 Rh2+ 63. Kb3 Rb2+ 0-1
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.09.07"]
+[Round "1.8"]
+[White "Kostadinov, Georgi"]
+[Black "Van Den Born, Ico"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "2213"]
+[BlackElo "2132"]
+[PlyCount "57"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 d4 5. d3 c5 6. O-O Nc6 7. e3 e5 8. Re1 Be7
+9. h3 O-O 10. Na3 h6 11. Nc2 Bf5 12. exd4 exd4 13. b4 cxb4 14. Bb2 Bc5 15. Ne5
+Qd6 16. Nxc6 bxc6 17. Qf3 Bd7 18. Bc1 g5 19. h4 Bg4 20. Qxc6 Qxc6 21. Bxc6 Rac8
+22. Bg2 Bf5 23. hxg5 Bxd3 24. gxf6 Bxc2 25. Bxh6 d3 26. Re4 Rfd8 27. Rg4+ Kh7
+28. Be4+ Kxh6 29. Kg2 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.09.07"]
+[Round "1.9"]
+[White "Villavieja, Butch"]
+[Black "Chandra, Anand Rishi"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2143"]
+[BlackElo "2090"]
+[PlyCount "93"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 h6 5. Bxf6 exf6 6. Nxe4 f5 7. Ng3 Qe7+ 8.
+Qe2 Nc6 9. c3 Qxe2+ 10. Bxe2 Bd6 11. Bd3 g6 12. O-O-O Bd7 13. Re1+ Ne7 14. Nf3
+O-O-O 15. Ne5 Bxe5 16. Rxe5 Nc6 17. Re2 Be6 18. b3 Ne7 19. Bc4 Nd5 20. Bxd5
+Bxd5 21. f3 b5 22. Re5 Rhe8 23. Rhe1 Rxe5 24. Rxe5 c6 25. Ne2 Be6 26. Nf4 Rd6
+27. Nd3 a5 28. Kb2 Kc7 29. Nc5 Kb6 30. a4 Rd5 31. Re2 Rd6 32. g3 g5 33. f4 Rd8
+34. Nxe6 fxe6 35. Rxe6 gxf4 36. gxf4 Rg8 37. Rxh6 Rg2+ 38. Kb1 bxa4 39. bxa4
+Rf2 40. d5 Rxf4 41. Rxc6+ Kb7 42. c4 Rf1+ 43. Kc2 Rf2+ 44. Kd3 Rxh2 45. Rf6 Ra2
+46. Rxf5 Rxa4 47. Kd4 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.09.07"]
+[Round "1.10"]
+[White "Vasic, Maxim"]
+[Black "Arakelian, Henadzi"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[WhiteElo "2064"]
+[BlackElo "2138"]
+[PlyCount "65"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 Bg7 8. Bg2
+d6 9. Nf3 O-O 10. O-O Nbd7 11. Qc2 Qb6 12. b3 Rfc8 13. Rb1 Qa7 14. h3 Rab8 15.
+Rd1 Rb4 16. a3 Rb7 17. e4 Qb8 18. Bf1 Bxf1 19. Rxf1 Ne8 20. a4 c4 21. Nb5 cxb3
+22. Qxb3 Nc5 23. Qc4 Nc7 24. Bb2 Nxb5 25. Bxg7 Na3 26. Rxb7 Qxb7 27. Qc3 Nb3
+28. Qb2 Nc4 29. Qc3 Ncd2 30. Nxd2 Rxc3 31. Bxc3 Nxd2 32. Bxd2 h5 33. a5 1/2-1/2
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "1.11"]
+[White "Frialde, Arniel"]
+[Black "Srinivasan, Hemant"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2134"]
+[BlackElo "2044"]
+[PlyCount "111"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. g3 Nf6 5. Bg2 O-O 6. O-O c5 7. Qc2 Na6 8. a3
+cxd4 9. Nxd4 e5 10. Nf5 dxc4 11. Nxe7+ Qxe7 12. Qxc4 Be6 13. Qh4 Nc5 14. Nd2
+Bf5 15. b4 Ne6 16. Ne4 Bxe4 17. Bxe4 h6 18. Bg2 Nd4 19. e3 Ne2+ 20. Kh1 Rac8
+21. Bf3 Nxc1 22. Raxc1 e4 23. Bg2 Rxc1 24. Rxc1 Qe5 25. Qf4 Qb2 26. Rf1 Qxa3
+27. Bxe4 Nxe4 28. Qxe4 b6 29. Rd1 Rc8 30. Rd7 Qc1+ 31. Kg2 a5 32. bxa5 bxa5 33.
+h4 Qa1 34. Qf5 Qa2 35. Ra7 Qc4 36. Rxa5 Qc6+ 37. e4 Re8 38. Rd5 Qc2 39. Rd4 Qb2
+40. Rd7 Qa2 41. Qd5 Qxd5 42. exd5 Kf8 43. d6 Rc8 44. Kf3 Re8 45. Kf4 g6 46. g4
+Kg7 47. g5 hxg5+ 48. hxg5 Kg8 49. Re7 Rd8 50. Ke5 Kf8 51. f3 Ra8 52. Kf6 Rd8
+53. Rxf7+ Kg8 54. d7 Kh8 55. Re7 Rf8+ 56. Ke6 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "1.12"]
+[White "Raninga, Aditya"]
+[Black "Windram, James"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2005"]
+[BlackElo "2073"]
+[PlyCount "31"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 d6 6. c3 e5 7. Na3 Nge7 8. Bg5
+Be6 9. Qd2 Rb8 10. Nc2 O-O 11. d4 cxd4 12. cxd4 d5 13. exd5 Bxd5 14. dxe5 Nxe5
+15. Ncd4 Nxf3+ 16. Nxf3 1/2-1/2
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.1"]
+[White "Zhao, Ian"]
+[Black "Banerjee, Bitan"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2384"]
+[BlackElo "2487"]
+[PlyCount "74"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 a6 5. Ba4 Ngf6 6. Qe2 e6 7. O-O Be7 8. d4
+b5 9. Bc2 Bb7 10. Re1 Qc7 11. Bd3 e5 12. d5 c4 13. Bc2 O-O 14. Nbd2 Rfe8 15.
+Nf1 Bf8 16. Ng3 g6 17. h3 Bg7 18. Be3 Nc5 19. Nh2 Bc8 20. Ng4 Nxg4 21. hxg4 Na4
+22. Rab1 Bd7 23. f3 Rab8 24. Bxa4 bxa4 25. Rbd1 Rb7 26. Bc1 a3 27. bxa3 Ba4 28.
+Rd2 Reb8 29. Qe3 Bf6 30. Rde2 Qb6 31. Qxb6 Rxb6 32. Nf1 Rb1 33. g5 Bd8 34. Nd2
+Ra1 35. Nxc4 Rbb1 36. Nxd6 Rxc1 37. Kf1 Be7 0-1
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.2"]
+[White "Valencia, Belsar"]
+[Black "Yam, Alex"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[WhiteElo "2341"]
+[BlackElo "2354"]
+[PlyCount "80"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nf3 d6 6. O-O e5 7. d3 Nge7 8. Ne1
+O-O 9. Nc2 Be6 10. Ne3 Qd7 11. Ned5 Bh3 12. Bg5 f6 13. Bd2 Bxg2 14. Kxg2 Nxd5
+15. cxd5 Nd4 16. a4 b6 17. e3 Nf5 18. Rb1 Rac8 19. Qe2 a6 20. g4 Nh6 21. f3 b5
+22. axb5 axb5 23. e4 b4 24. Nd1 f5 25. gxf5 gxf5 26. Ne3 f4 27. Nc4 Qc7 28. Kh1
+Kh8 29. Qg2 Bf6 30. Rg1 Nf7 31. Qh3 Ng5 32. Qh4 Rg8 33. Rg4 Qe7 34. Rbg1 Nf7
+35. Rxg8+ Rxg8 36. Rxg8+ Kxg8 37. Qg4+ Kh8 38. Qc8+ Kg7 39. Qg4+ Kh8 40. Qc8+
+Kg7 1/2-1/2
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.3"]
+[White "South, Robert"]
+[Black "Arruebarrena, Rafael"]
+[Result "1/2-1/2"]
+[ECO "E34"]
+[WhiteElo "2289"]
+[BlackElo "2334"]
+[PlyCount "87"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Qf5 7. Qxf5 exf5 8.
+Bd2 c6 9. e3 O-O 10. Bc4 Be6 11. Bxe6 fxe6 12. Ne2 Bxd2+ 13. Nxd2 Nbd7 14. Nc4
+Nd5 15. Rc1 b6 16. O-O c5 17. Rfd1 Rac8 18. Nd6 Rc6 19. dxc5 Nxc5 20. Nb5 a6
+21. Ned4 Rcc8 22. Nd6 Rcd8 23. Nc4 Rfe8 24. Nc6 Rc8 25. Nxb6 Rxc6 26. Nxd5 exd5
+27. b4 Rec8 28. bxc5 Rxc5 29. Rxc5 Rxc5 30. Kf1 Ra5 31. Rd2 Kf7 32. Ke2 Ke6 33.
+Kd3 Ra3+ 34. Kd4 Kd6 35. Rb2 Ra4+ 36. Kc3 Kc5 37. Rd2 Rc4+ 38. Kd3 d4 39. Rb2
+dxe3 40. Kxe3 g5 41. Rb8 Rc3+ 42. Kd2 Ra3 43. Rb2 h5 44. Kc2 1/2-1/2
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.4"]
+[White "Caldera, Anuar"]
+[Black "South, Fred"]
+[Result "0-1"]
+[ECO "E46"]
+[WhiteElo "2297"]
+[BlackElo "2289"]
+[PlyCount "96"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d6 6. a3 Bxc3+ 7. Nxc3 e5 8.
+Be2 Nc6 9. b4 exd4 10. exd4 Re8 11. O-O Ne4 12. Nxe4 Rxe4 13. Be3 Qf6 14. Bf3
+Re8 15. Qd2 Qg6 16. Rfe1 Bg4 17. Bd5 Be6 18. Rac1 Rac8 19. Bf3 Bg4 20. Be2 Bxe2
+21. Rxe2 d5 22. Qc2 Ne7 23. Qxg6 hxg6 24. c5 Nf5 25. Rce1 Re6 26. f3 Rce8 27.
+Kf2 Ra6 28. g4 Nxe3 29. Rxe3 Rxe3 30. Rxe3 Kf8 31. h4 f6 32. Kg3 Kf7 33. Kf4
+Ra4 34. Rb3 Ke6 35. Ke3 Kd7 36. Kf4 Ke6 37. Re3+ Kf7 38. Kg3 Ra6 39. Kf2 Ra4
+40. Ke2 Ra6 41. Kd2 Re6 42. b5 Rxe3 43. Kxe3 g5 44. hxg5 fxg5 45. f4 Kf6 46.
+fxg5+ Kxg5 47. a4 Kxg4 48. a5 b6 0-1
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.5"]
+[White "Malek, Omid"]
+[Black "Gardner, Robert"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2263"]
+[BlackElo "2146"]
+[PlyCount "85"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. d5 O-O 7. Be2 b5 8. Bxb5
+Nxe4 9. Nxe4 Qa5+ 10. Nfd2 Qxb5 11. c4 Qa6 12. O-O Nd7 13. Qe2 Nf6 14. Nc3 Bg4
+15. Qf2 Bf5 16. Qf3 Ng4 17. Ne2 Rab8 18. h3 Nh6 19. g4 Bxb2 20. Bxb2 Rxb2 21.
+Qc3 Rc2 22. Qe3 Nxg4 23. hxg4 Bxg4 24. Ng3 Qa5 25. Nde4 Rxc4 26. f5 Qa4 27.
+Rae1 Rc2 28. f6 exf6 29. Nxf6+ Kg7 30. Rf4 Qxa2 31. Nxg4 Qxd5 32. Re4 Qd2 33.
+Qf3 Qg5 34. Ne3 Ra2 35. Rg4 Qd8 36. Nh5+ Kh8 37. Nf6 Qa5 38. Rf1 c4 39. Qf4 Ra1
+40. Qh6 Rxf1+ 41. Nxf1 Qb6+ 42. Kh1 Qb7+ 43. Rg2 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.6"]
+[White "Miller, David"]
+[Black "Haessel, Dale R"]
+[Result "0-1"]
+[ECO "D13"]
+[WhiteElo "2212"]
+[BlackElo "2251"]
+[PlyCount "76"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 e6 7. Bd3 Bd6 8. Nf3
+Bxf4 9. exf4 Bd7 10. O-O Qb6 11. Bb5 O-O 12. Ne5 Nxe5 13. fxe5 Bxb5 14. Nxb5
+Ne4 15. Qd3 a6 16. Nc3 Qxb2 17. Nxe4 dxe4 18. Qxe4 Rad8 19. Rfb1 Rxd4 20. Qxh7+
+Kxh7 21. Rxb2 b5 22. Rc1 Rc8 23. Re1 Kg6 24. g3 Rc3 25. Ree2 b4 26. f4 a5 27.
+Kf2 Rd1 28. Re3 Kf5 29. Rb3 Rc2+ 30. Re2 Rdd2 31. Rxd2 Rxd2+ 32. Ke3 Rxa2 33.
+Kd4 Rxh2 34. Kc5 Ra2 35. Kb5 Ra3 36. Rb1 Kg4 37. Rd1 b3 38. Rb1 Kxg3 0-1
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.7"]
+[White "Brebrich, Branimir"]
+[Black "Veneracion, Paolo"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[WhiteElo "2225"]
+[BlackElo "2164"]
+[PlyCount "70"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 c6 7. O-O Nbd7 8. Qc2
+Qc7 9. b3 e5 10. Ba3 exd4 11. Nxd4 a5 12. Rad1 Nc5 13. e4 Nfd7 14. f4 Qb6 15.
+Kh1 Re8 16. Nde2 Qc7 17. Qd2 Bf8 18. Bb2 b6 19. Qd4 f6 20. e5 dxe5 21. fxe5
+Rxe5 22. Nf4 Bb7 23. Nfd5 cxd5 24. Nxd5 Rxd5 25. Bxd5+ Kh8 26. Rde1 Rd8 27. Qh4
+Nd3 28. Bxf6+ Nxf6 29. Qxf6+ Bg7 30. Qe7 Qxe7 31. Rxe7 Bxd5+ 32. cxd5 Bf8 33.
+Rb7 Bc5 34. Rff7 Nb4 35. Rxh7+ Kg8 1/2-1/2
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.8"]
+[White "Van Den Born, Ico"]
+[Black "Kostadinov, Georgi"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2132"]
+[BlackElo "2213"]
+[Annotator "Neven,Knut Gunther"]
+[PlyCount "84"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 Bb4 5. Nd5 Bc5 6. e3 O-O 7. a3 a5 8. b3 d6
+9. Bb2 Re8 10. Ne2 Nxd5 11. cxd5 Ne7 12. d4 exd4 13. Nxd4 Ng6 14. O-O Bd7 15.
+Rc1 Rc8 16. Qd2 Bb6 17. h3 Ne7 18. Qc3 f6 19. Qd3 c6 20. dxc6 bxc6 21. Nxc6
+Nxc6 22. Bxc6 Bxh3 23. Rfd1 Bc5 24. Bxe8 Qxe8 25. b4 axb4 26. axb4 Bg4 27. Qc4+
+Be6 28. Qf4 Bb6 29. Rxc8 Qxc8 30. Qxd6 Bg4 31. Rc1 Qa6 32. Qd5+ Kf8 33. Ra1 Qe2
+34. Ra8+ Ke7 35. Qb7+ Bd7 36. Ba3 Bc7 37. Ra7 Qd1+ 38. Kg2 Kf7 39. b5 Kg6 40.
+b6 Bxb6 41. Qe4+ Kh6 42. Kh2 Bc5 {SCORESHEET ILLEGIBLE} 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.9"]
+[White "Chandra, Anand Rishi"]
+[Black "Villavieja, Butch"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2090"]
+[BlackElo "2143"]
+[PlyCount "66"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. c3 cxd4 5. cxd4 d6 6. Nc3 Nf6 7. h3 O-O 8. Be2
+a6 9. O-O b5 10. a3 Bb7 11. Bd3 Nbd7 12. Re1 Nb6 13. Bf4 Rc8 14. Bh2 Nc4 15.
+Qb3 Qa5 16. Rac1 Bh6 17. Rc2 Nb6 18. Ree2 Nh5 19. Re1 Nf4 20. Bf1 Na4 21. g3
+Ne6 22. h4 Nxc3 23. bxc3 Rc7 24. d5 Nc5 25. Qb4 Qa4 26. Nd4 Bg7 27. Rd2 Qxb4
+28. cxb4 Na4 29. Bh3 Rc4 30. Red1 Nc3 31. Bf1 Nxd1 32. Bxc4 Nc3 33. Bb3 Bxd4
+0-1
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.10"]
+[White "Arakelian, Henadzi"]
+[Black "Vasic, Maxim"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "2138"]
+[BlackElo "2064"]
+[PlyCount "44"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Be6 7. Qa4 Nge7 8. d4
+exd4 9. exd4 Bd7 10. Qd1 Nf5 11. d5 Ne5 12. b3 Qe7 13. O-O g5 14. Rb1 O-O-O 15.
+Ne4 g4 16. Nf4 Nd4 17. Bb2 Nef3+ 18. Kh1 Qxe4 19. Nh5 Be5 20. Bxd4 Qxd4 21. Qc2
+Qd2 22. Qd1 Qg5 0-1
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.11"]
+[White "Srinivasan, Hemant"]
+[Black "Frialde, Arniel"]
+[Result "1-0"]
+[ECO "A53"]
+[WhiteElo "2044"]
+[BlackElo "2134"]
+[Annotator "Neven,Knut Gunther"]
+[PlyCount "27"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nf3 Nbd7 7. Bg5 c6
+8. O-O-O Kc7 9. e3 Bb4 10. Nb1 a5 11. a3 Bd6 12. Bh4 h6 13. Be2 g5 14. Bg3 {
+SCORESHEET ILLEGIBLE} 1-0
+
+[Event "Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.08.07"]
+[Round "2.12"]
+[White "Windram, James"]
+[Black "Raninga, Aditya"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2072"]
+[BlackElo "2005"]
+[PlyCount "56"]
+[EventDate "2019.09.07"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.09.10"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.09.10"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. d4 Bg4 6. d5 O-O-O 7. Bd2 Ne5 8.
+Qe2 Nxf3+ 9. gxf3 Bf5 10. Nb5 Qb6 11. Qe5 e6 12. c4 f6 13. Qc3 exd5 14. Be3 d4
+15. Bxd4 Bc5 16. O-O-O a6 17. Bxc5 Rxd1+ 18. Kxd1 Qxc5 19. Nd4 Nh6 20. Nxf5
+Qxf5 21. Kc1 Re8 22. h4 Kb8 23. Bg2 Qf4+ 24. Kb1 Re2 25. Rd1 Rxf2 26. Rd4 Qf5+
+27. Kc1 Rxg2 28. Rd8+ Ka7 0-1
+

@@ -1,0 +1,565 @@
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.19"]
+[Round "1"]
+[White "Miller, David"]
+[Black "Haessel, Dale R"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[WhiteElo "2166"]
+[BlackElo "2261"]
+[PlyCount "62"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. Be3 Nc6 10. O-O Bg4 11. f3 Bd7 12. Qd2 Qc7 13. dxc5 Na5 14. Bd3 Rfd8
+15. Qc2 e5 16. Nc1 Be6 17. Rd1 Nc4 18. Bxc4 Bxc4 19. Nb3 Bf8 20. Qf2 Rxd1+ 21.
+Rxd1 a5 22. Nd2 Be6 23. c4 Rc8 24. Rb1 Bxc5 25. Bxc5 Qxc5 26. Qxc5 Rxc5 27.
+Rxb7 Bxc4 28. Nxc4 Rxc4 29. Rb2 h5 30. Kf2 Ra4 31. Ke3 Kf8 1/2-1/2
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.19"]
+[Round "1"]
+[White "Malek, Omid"]
+[Black "Arruebarrena, Rafael"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2276"]
+[BlackElo "2350"]
+[PlyCount "121"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 e6 4. Nf3 c5 5. c3 Nc6 6. Nbd2 cxd4 7. exd4 Nh5 8.
+Be3 Bd6 9. Ne5 g6 10. Nd3 Qe7 11. g3 O-O 12. Bg2 Bd7 13. O-O Na5 14. Nf3 Bb5
+15. Re1 Rfc8 16. Bc1 Nc4 17. Nfe5 f6 18. Ng4 Re8 19. Qf3 f5 20. Nge5 Nxe5 21.
+Nxe5 Nf6 22. Bf4 Ne4 23. Qe3 Qd8 24. h4 Bf8 25. f3 Nd6 26. Bf1 Bxf1 27. Rxf1
+Rc8 28. Rf2 Nc4 29. Nxc4 Rxc4 30. h5 Bg7 31. Re1 Qb6 32. Kg2 gxh5 33. Be5 Bxe5
+34. Qxe5 Qc7 35. Qf6 Qf7 36. Qh4 Qg6 37. Rfe2 Rc6 38. Rh1 b5 39. a3 a5 40. Qxh5
+b4 41. axb4 axb4 42. Qh4 bxc3 43. bxc3 Rxc3 44. Qf4 Qg7 45. Rh5 Kf7 46. Qh4 Rh8
+47. Rxf5+ exf5 48. Re7+ Kg6 49. Rxg7+ Kxg7 50. Qg5+ Kf7 51. Qxf5+ Kg7 52. Qe5+
+Kg8 53. Qxd5+ Kg7 54. Qe5+ Kg8 55. d5 Rc8 56. d6 Kf7 57. Qe7+ Kg6 58. d7 Ra8
+59. g4 Rhb8 60. Kg3 h6 61. f4 1-0
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.19"]
+[Round "1"]
+[White "Zhao, Ian"]
+[Black "Ng, Gary"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2281"]
+[BlackElo "2388"]
+[Annotator "Zhao,I"]
+[PlyCount "120"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {This move has been
+quit popular recently against the Najdorf.} g6 7. g4 h5 {A strange move that
+has only been played a handful of times.} ({The main move is} 7... Bg7 8. Bg2
+O-O 9. Be3 Nc6 10. Qd2 Bd7 11. O-O-O {1/2-1/2 (33) Radjabov,T (2738)-Smirin,I
+(2655) Baku 2015}) 8. g5 Nfd7 9. Be3 Bg7 10. Qd2 ({Another option is} 10. f4 b5
+11. Bg2) ({A possible different plan is castle kingside.} 10. Bg2 Nc6 11. O-O
+O-O 12. f4 Nxd4 13. Bxd4 e5 14. fxe5 Nxe5 15. Nd5 Qxg5 16. Be3 Qd8 17. Bb6 Qg5
+18. Be3 {1/2-1/2 (20) Kjartansson,G (2456)-Vishnu,P (2543) Douglas 2017}) 10...
+b5 11. f4 Bb7 12. O-O-O (12. f5 {is interesting, trying to play aggresive
+before Black castles.} Ne5 13. O-O-O Nbd7 14. Kb1) 12... O-O {In this opposite
+side castling position, White should have an edge because of his space
+advantage on the kingside.} 13. Bg2 {A little bit slow, better was} (13. f5 Qa5
+14. Kb1 Nc6 15. a3) 13... Nb6 14. b3 {to prevent Nc4} b4 $6 {This allows me to
+get some play. Black should have seeked to finish his development.} (14... Nc6
+15. e5 Rc8 16. Kb1 $14) 15. Nd5 Nxd5 16. exd5 a5 (16... Qa5 {Trying to win a
+pawn doesn't really work here.} 17. Kb1 Bxd5 $2 18. Nf5 $1 Bxg2 19. Nxe7+ Kh8
+20. Qxg2 $18) 17. f5 {White's attack is more deadly than Black's, so I had no
+reasons to be worried.} a4 18. fxg6 axb3 19. gxf7+ Rxf7 20. cxb3 {After both
+sides have advanced a pawn and opened up the position, White has a clear
+advantage. The b7 bishop has little freedom, and the b8 knight hasn't moved
+from its starting square yet.} Qa5 {Black temporarily wins a pawn, but White
+will get compensation in the meantime.} 21. Kb1 Bxd5 22. Rhf1 {Trying to open
+up the kingside and trade off some of Black's defenders.} Rxf1 23. Rxf1 Bxg2
+24. Qxg2 Qa6 {The threat is Qd3.} 25. Rd1 Nd7 $6 {This move doesn't accomplish
+much and makes White' task a bit easier. An especially obvious disadvantage is
+that it releases control of the key c6 square.} (25... Kh8 {If now} 26. Nf5 {
+then} Qc6 {and Black has solved of lot of his problems.} 27. Qxc6 Nxc6 $14) 26.
+Nc6 (26. Nf5 {is another option. It is similar to Nc6, but there are some
+differences.} Re8 {White can't play Qd5 without having to trade queens on
+account of e6.} 27. g6 {threatening Nxd6 followed by Qd5+.} e6 28. Nxd6 {
+White will be looking to win.}) 26... Re8 27. Qd5+ Kh8 28. Qf3 $1 $18 {White
+is close to winning by this point. I have the threat of Qxh5+ and well placed
+pieces, while Black has many hanging pieces.} Ra8 $6 {A last resort that
+actually worked, to an extent.} ({The objective best move was} 28... Kg8 29. g6
+Nf6 30. Nxb4 Qa5 31. Nd5 $16) 29. Qxh5+ $2 ({The easiest and most
+straightforward way to win is to neutralize Black's attack on the a-file with}
+29. a4 $1 bxa3 30. Ka2 $18 {White's threats are still there, and Black should
+be close to resignation.}) 29... Kg8 {Now Black is still losing, but has a
+better chance.} 30. Nxe7+ Kf8 31. Ng6+ Kg8 {Because I was in time trouble, I
+decided to repeat moves a few times.} 32. Ne7+ Kf8 33. Ng6+ Kg8 (33... Ke8 {
+gives White another chance to find} 34. a4 $1 {where White is winning
+immediately:} bxa3 35. Ka2 $18) 34. Rd2 Qf1+ 35. Qd1 {This was the position I
+saw when I played Qxh5. White is winning, but he must be very careful.} Qf5+ $6
+(35... Qxh3 {is probably Black's best move.} 36. Rxd6 Qf5+ 37. Qd3 Qxd3+ 38.
+Rxd3 {Black likely won't hold.}) 36. Qc2 Qf1+ 37. Rd1 {This position is a
+better version of the one that occurred a few moves ago.} Qxh3 $2 {White is
+completely winning now.} (37... Qf7 {Black must keep his queen coordinated
+with the other Black pieces. However, White can still get a huge advantage.}
+38. Rxd6 Re8 39. Qd3 $18) 38. Qc4+ $18 Kh7 39. Qe4 d5 {On the crucial 40th
+move, I failed to find the correct move.} 40. Nf4+ $2 (40. Rxd5 {Black is
+helpless, material loss and eventual checkmate is unavoidable.}) ({Even} 40.
+Qxd5 {wins quite easily.} Kxg6 41. Qc6+ Nf6 42. Qxa8 $18) 40... dxe4 $16 {
+The endgame is now only better for White. With best play, however, it is still
+winning.} 41. Nxh3 Nf8 $6 (41... Ne5 {is more active and offers Black better
+chances.}) 42. Nf4 Be5 43. Nd5 Rb8 44. Rc1 Rb5 45. Ne7 (45. Rc5 {is likely
+better than Ne7.} Rxc5 46. Bxc5 Ne6 47. Bxb4 Nxg5 {I am unclear if White can
+win this position, but it looks promising.}) 45... Ng6 46. Rc5 Rxc5 47. Bxc5
+Nxe7 48. Bxe7 Kg6 49. Kc2 Bf4 50. Bxb4 Kxg5 51. a4 Kf5 52. a5 (52. Bc5 {
+seems interesting. However, Black can stop the pawns fairly easily.} Bc7 53. b4
+Ke6 54. a5 Bxa5 55. bxa5 Kd7 $11) 52... Be3 53. Bd6 $2 $11 {This move gives
+Black a tempo with the king.} (53. Bf8 {According to the computer, this is the
+best move to win the game. I don't fully understand it; I guess it is the only
+move that keeps the bishop active but does not give Black the extra tempo. The
+computer gives the following line:} Kg4 54. b4 Kf3 55. b5 Bg1 56. b6 e3 57. Bb4
+e2 58. Kd3 Bf2 59. Kc4 Kg2 60. Kb5 Kf1 61. b7 Ba7 62. Kc6 Kg2 63. a6 Bb8 64.
+Kb6 $18) 53... Ke6 {Once the king moves to the queenside, White can't make any
+progress.} 54. Bb8 Kd7 55. Kc3 Kc8 56. Bg3 Kb7 57. Kc4 Bd2 58. Kb5 e3 59. a6+
+Ka8 60. Bf4 Bc1 {The threat is e2, which can only be stopped by Bg3, but then
+Black plays Bd2 again and the position repeats.} (60... Bc1 61. Bg3 Bd2 62. Bf4
+Bc1 $11) 1/2-1/2
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.20"]
+[Round "2"]
+[White "Miller, David"]
+[Black "Malek, Omid"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2166"]
+[BlackElo "2276"]
+[PlyCount "108"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. Bd3 Nb4 6. Bg5 Be7 7. e5 Nd7 8. Bxe7
+Qxe7 9. O-O a6 10. Re1 c5 11. Bf1 Nc6 12. Ne2 O-O 13. c3 f6 14. exf6 Qxf6 15.
+dxc5 Nxc5 16. Ned4 Ne4 17. Bd3 Nd6 18. Qc2 h6 19. Nxc6 bxc6 20. Ne5 Ne4 21.
+Bxe4 dxe4 22. Rxe4 c5 23. Re3 Bb7 24. Nd7 Qg5 25. Rg3 Qf5 26. Qxf5 Rxf5 27. Rd1
+Kh8 28. Rgd3 Rg5 29. g3 c4 30. f4 Ra5 31. Rd6 Rxa2 32. Rb6 Be4 33. Ne5 Bc2 34.
+Rd2 Ra1+ 35. Kf2 Rh1 36. Ke3 Bf5 37. Nxc4 g5 38. fxg5 hxg5 39. Nd6 Bg6 40. Rf2
+Rd1 41. Nf7+ Kg8 42. Ne5 Bb1 43. Rd2 Re1+ 44. Re2 Rd1 45. Rxe6 Rf8 46. c4 Bf5
+47. Re7 Rb8 48. g4 Bb1 49. Kf2 Rf8+ 50. Kg2 Rf4 51. h3 Be4+ 52. Kh2 Rh1+ 53.
+Kg3 Rg1+ 54. Kh2 Rh1+ 1/2-1/2
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.20"]
+[Round "2"]
+[White "Arruebarrena, Rafael"]
+[Black "Zhao, Ian"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2350"]
+[BlackElo "2281"]
+[PlyCount "60"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+O-O 9. Nc3 Na5 10. Ba2 Be6 11. b4 Bxa2 12. Nxa2 Nc6 13. c4 Qd7 14. Nc3 Rab8 15.
+Nd5 Bd8 16. Bd2 Nd4 17. Nxf6+ Bxf6 18. Nxd4 exd4 19. Qc2 c6 20. a4 Rfc8 21.
+axb5 axb5 22. cxb5 Rxb5 23. Rfc1 c5 24. Ra6 Rcb8 25. Qa4 cxb4 26. Bxb4 Be5 27.
+Ra8 Qe6 28. Ra1 R5b7 29. Qa7 Qc8 30. Rxb8 Rxb8 1/2-1/2
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.20"]
+[Round "2"]
+[White "Haessel, Dale R"]
+[Black "Ng, Gary"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2261"]
+[BlackElo "2388"]
+[PlyCount "89"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 d5 7. cxd5 Nxd5 8. e4
+cxd4 9. exd5 dxc3 10. bxc3 Bd6 11. dxe6 Bxe6 12. Nd4 Qh4 13. Nxe6 fxe6 14. Be3
+Be5 15. Qb3 Nc6 16. h3 Qf6 17. O-O Na5 18. Qa3 b6 19. Rac1 Rac8 20. Qb4 Rxc3
+21. Rxc3 Bxc3 22. Qg4 Kh8 23. Rc1 Be5 24. Rc2 Bd6 25. g3 Qf3 26. Qxf3 Rxf3 27.
+Bf4 Bc5 28. Be4 Ra3 29. Rd2 Kg8 30. Bb1 Nc4 31. Rd8+ Kf7 32. Kg2 h6 33. Rd7+
+Kf6 34. Bc7 Be7 35. Bb8 a5 36. Rd4 b5 37. Rf4+ Kg5 38. Rg4+ Kf6 39. Rf4+ Kg5
+40. h4+ Kh5 41. f3 Ne3+ 42. Kh3 g5 43. Re4 gxh4 44. Rxe6 hxg3 45. Bg6+ 1-0
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.20"]
+[Round "3"]
+[White "Zhao, Ian"]
+[Black "Miller, David"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "2281"]
+[BlackElo "2166"]
+[PlyCount "61"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 e6 2. d4 d5 3. Nd2 h6 4. c3 c5 5. Ngf3 Nf6 6. Bd3 Nc6 7. e5 Nd7 8. O-O g5
+9. b3 g4 10. Ne1 cxd4 11. cxd4 h5 12. Bb2 Qb6 13. Nc2 a5 14. a4 Bh6 15. Qe2 Nb4
+16. Nxb4 Qxb4 17. Rfd1 Bxd2 18. Rxd2 Qxb3 19. Bb5 Qb4 20. Ba3 Qc3 21. Qd1 {
+[%csl Gc2]} Qc7 22. Rc2 Qd8 23. Rac1 f5 24. exf6 Kf7 25. Be7 Qg8 26. Rc7 Nxf6
+27. Bxf6+ Kxf6 28. Qd2 e5 29. dxe5+ Ke6 30. Qd4 Qf8 31. Qb6+ 1-0
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.20"]
+[Round "3"]
+[White "Malek, Omid"]
+[Black "Haessel, Dale R"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2276"]
+[BlackElo "2261"]
+[PlyCount "67"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. h3 Nbd7 7. Nc3 b6 8. a4
+Bb7 9. O-O a6 10. Qd3 Qe8 11. Qc4 c5 12. d5 Nh5 13. Bh2 Bxc3 14. bxc3 b5 15.
+axb5 axb5 16. Qb3 Nhf6 17. e4 Nxe4 18. Bxb5 Qc8 19. c4 f5 20. Bf4 Ba6 21. Bh6
+Rd8 22. Qb2 Ndf6 23. Ng5 Bxb5 24. cxb5 c4 25. Ne6 Rd7 26. Qd4 Rxa1 27. Rxa1 Rb7
+28. Qxc4 Nc5 29. Nd4 Kf7 30. f3 Rb8 31. Nc6 Rb7 32. Re1 Qa8 33. Bg5 Qa3 34.
+Nd8+ 1-0
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.20"]
+[Round "3"]
+[White "Ng, Gary"]
+[Black "Arruebarrena, Rafael"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "2388"]
+[BlackElo "2350"]
+[PlyCount "54"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. b3 O-O 7. Bb2 c5 8. Nc3
+d5 9. e3 Nc6 10. cxd5 Nxd5 11. Nxd5 Qxd5 12. Ne5 Qd6 13. d4 Qc7 14. Nxc6 Bxc6
+15. Bxc6 Qxc6 16. dxc5 Qxc5 17. Rc1 Qf5 18. Rc7 Rfd8 19. Qa1 Bf8 20. Bd4 h5 21.
+h4 Rd5 22. Qc1 e5 23. Bb2 Rad8 24. Ba3 Qf3 25. Rc8 Bxa3 26. Rxd8+ Rxd8 27. Qxa3
+Qb7 1/2-1/2
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.21"]
+[Round "4"]
+[White "Miller, David"]
+[Black "Ng, Gary"]
+[Result "0-1"]
+[ECO "B94"]
+[WhiteElo "2166"]
+[BlackElo "2388"]
+[PlyCount "92"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 h6 8.
+Bxf6 Nxf6 9. Qe2 Qc7 10. O-O-O g6 11. Nd5 Nxd5 12. exd5 Bg7 13. Bb3 O-O 14. h4
+Qc5 15. c3 b5 16. Nc6 Re8 17. h5 g5 18. Rhe1 Bd7 19. Nxe7+ Kf8 20. Rd3 Be5 21.
+Nc6 Bxc3 22. Rxc3 Rxe2 23. Rxe2 Qb6 24. Kb1 Bg4 25. Ree3 Bxh5 26. Bc2 Re8 27.
+a3 Rxe3 28. fxe3 Qb7 29. Bf5 Bg6 30. Bxg6 fxg6 31. e4 Qb6 32. Rf3+ Kg7 33. Ka2
+g4 34. Rf4 g3 35. Rf3 Qf2 36. Rd3 Qxg2 37. e5 dxe5 38. Nxe5 Qe4 39. d6 Qxe5 40.
+d7 Qe6+ 41. Ka1 g2 42. d8=Q g1=Q+ 43. Rd1 Qa7 44. Rf1 Qae7 45. Qd4+ Qe5 46. Qb6
+Qxa3+ 0-1
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.21"]
+[Round "4"]
+[White "Malek, Omid"]
+[Black "Zhao, Ian"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2276"]
+[BlackElo "2281"]
+[PlyCount "94"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 c5 4. c3 d5 5. Nd2 Bd6 6. Bg3 Qc7 7. Ngf3 Nbd7 8.
+Bxd6 Qxd6 9. dxc5 Nxc5 10. Nc4 Qc7 11. Nce5 O-O 12. Nd3 b6 13. Be2 Bb7 14. O-O
+Rfd8 15. Rc1 Rac8 16. Re1 h6 17. h3 Ncd7 18. Nh2 e5 19. Qa4 Nc5 20. Qh4 Re8 21.
+Rcd1 a5 22. Ng4 Nxg4 23. hxg4 Ne6 24. Qh2 Ng5 25. Nc1 Bc6 26. Bd3 Qe7 27. Ne2
+Qc5 28. Ng3 Bb5 29. Bb1 Ba4 30. Rc1 Bd7 31. Bf5 Rcd8 32. Red1 Bxf5 33. gxf5 b5
+34. f6 Qc6 35. fxg7 Kxg7 36. Qh4 Rd7 37. Qg4 Qe6 38. Qe2 Rb8 39. e4 dxe4 40.
+Rxd7 Qxd7 41. Rd1 Qc7 42. Qh5 Rb6 43. Qg4 Re6 44. Qf5 b4 45. cxb4 axb4 46. Nxe4
+Qc2 47. Rd7 Qxe4 1/2-1/2
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.21"]
+[Round "4"]
+[White "Haessel, Dale R"]
+[Black "Arruebarrena, Rafael"]
+[Result "0-1"]
+[ECO "E48"]
+[WhiteElo "2261"]
+[BlackElo "2350"]
+[Annotator "Arruebarrena,R"]
+[PlyCount "78"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 {I was quite sure this position would appear on the
+board as FM Haessel is very principled in his opening choices} Bb4 4. e3 O-O 5.
+Bd3 d5 6. cxd5 exd5 7. Nge2 Re8 8. Bd2 c5 {This commits Black to giving up the
+bishop pair not causing any structural damage to White's position} ({Less
+committal is} 8... Bd6 {when Black will transpose into a Carlsbad structure
+after a further ...c6}) (8... Bf8 {also with a Carlsbad structure in mind}) 9.
+a3 Bxc3 (9... cxd4 $2 {was my unfortunate choice in the Calgary International,
+underestimating} 10. axb4 dxc3 11. Bxc3 $1 $16 {when White has great dynamic
+potential and his unopposed dark squared bishop is very strong. I duly
+achieved a lost position but Haessel missed a tactic when low on time which
+turned the tables on the game}) 10. Bxc3 ({Haessel's choice in last year's
+Over/Under 1800 tournament was} 10. bxc3 b6 11. O-O Ba6 12. Bc2 $6 (12. Bxa6
+Nxa6 {is still level}) 12... Nc6 {and Black is already in very good shape in
+my opinion, although I did manage to mangle my position later}) 10... c4 11.
+Bc2 Bg4 ({The choice of most strong players who have reached this position as
+Black is} 11... Nc6) 12. O-O Nc6 13. Qd2 (13. b3 Na5 14. bxc4 Nxc4 {does not
+look like anything for White}) 13... Bxe2 $5 {At this point I remembered a
+discussion on the merits of the two bishops I had with my good friends
+brothers Seguel from Venezuela, now resident in Chile. My point was that IM
+Watson in his book Secrets of Modern Chess Strategy pointed out many positions
+in which opening the center was actually in the knight pair advantage, so I
+tried to prove my point in the position in question} 14. Qxe2 b5 15. f3 {
+I had the feeling this move forced White's hand into a do or die break on e4
+as otherwise now Black's play in the Queenside will be too strong} a5 16. Rad1
+Qb6 {Getting out of the way of the rook on d1, protecting the knight on c6 and
+also preparing some tricks} ({Premature is} 16... b4 $6 17. Ba4 $1) 17. Qf2 {
+Correctly getting out of the pin} b4 18. Bd2 (18. Be1 $5 {I wondered about
+this idea for a while, maybe the bishop can dream of becoming active on g3 or
+h4 in a few moves}) ({Another interpretation of the Be1-g3-h4 idea is} 18. axb4
+axb4 19. Be1 {when Black has to really go for it in the queenside with} b3 20.
+Bb1 Rad8 21. Qd2 Na7 22. Bh4 Nb5 23. Kh1 {which looks very unclear}) 18... Re7
+$6 {Unfortunately this way of defending f7 is not very good} ({My intention was
+} 18... Rab8 19. Bc1 {and with e4 coming I was not sure how to follow up.
+Perhaps} c3 20. bxc3 b3 21. Bb1 b2 22. Bd2 Qb3 23. Qh4 {when} Ne7 $1 {is a key
+defensive idea with chances for both sides. This defence is not available with
+the rook on e7 as I verified during the game}) 19. Bc1 ({White can already
+very much go for it with} 19. g4 Rb8 20. Qh4 h6 21. g5 hxg5 22. Qxg5 {and a
+position which I did not like during the game, especially since it comes with
+an extra tempo for White. The feeling is that Black is not going anywhere on
+the queenside and White will have all the time to deliver checkmate on the
+kingside}) 19... Rb8 $2 {Based on a miscalculation} 20. g4 (20. e4 dxe4 21.
+fxe4 Ng4 22. Qh4 Nxd4 23. Kh1 Ree8 {correcting the mistake is still not
+entirely bad for Black} (23... Nxc2 $4 {was my calculation, omitting that the
+rook is hanging on e7 (another reason why Re7 was bad)} 24. Qxe7 $18) 24. Rxd4
+Qxd4 25. Qxg4 b3 26. Bb1 c3 $1 {is an interesting computer resource to keep
+Black in the game}) 20... c3 $6 {executing my "threat"} (20... Rd8 {is
+presumably better but then White can still go} 21. Qh4 $1 {entering the
+unpleasant position described before}) 21. bxc3 b3 22. Bb1 b2 23. Bd2 Qb3 {
+and so Black has a strong passed pawn and in an ideal world will take next on
+a3 and then promote either the b or the a pawn} 24. e4 $2 {also based on a
+miscalculation, the Queen on b3 has an "X-ray" defense on the f7 pawn} (24. Qh4
+$1 {was even stronger now that the Black Queen can't swing over the sixth rank
+for defense}) 24... dxe4 25. g5 (25. fxe4 $6 Nxe4 {is a simple and sufficient
+defense, White is going nowhere}) (25. Rde1 {avoiding any ...e3 business seems
+best} e3 26. Rxe3 Qxa3 27. Rxe7 Nxe7 28. Re1 Ng6 29. Qg3 {may give White just
+enough to compensate for the strong passers}) 25... e3 {a nice defensive idea}
+26. Qh4 $2 (26. Bxe3 Nd5 27. Bd2 Nxc3 28. Bxc3 Qxc3 29. Rd3 Qc4 {is grim for
+White but had to be tried}) 26... Nh5 $1 {I was very happy to find this move
+in my calculations} 27. Bxe3 Rxe3 28. Qxh5 g6 29. Qg4 Qxc3 {after a string of
+only moves White is losing} 30. Ba2 {the only idea to make things complicated
+during time trouble} Qxa3 {after thinking for a while I found that the
+sacrifice on f7 doesn't work and other ideas are refuted simply} 31. Bd5 Ne7 $4
+{but now I allow the sacrifice, fortunately Black's advantage is big enough
+that even this is not enough to turn the position around} 32. Bxf7+ $1 Kxf7 33.
+Qf4+ Kg7 34. Qxb8 Re2 $1 {the only move to keep the advantage, I was happy to
+be able to calm down after such a horrible oversight and still find the
+winning idea} 35. d5 Qe3+ 36. Kh1 Qxg5 37. Rg1 Qf6 (37... Qf5 {I missed the
+strong Qf5-h3 completely paralyzing White} 38. Rgf1 Qh3 39. Qg3 Qxg3 40. hxg3
+Nf5 41. Rg1 (41. d6 Nxg3+ 42. Kg1 Nxf1 43. d7 Rd2 44. Rxd2 b1=Q 45. d8=Q Nxd2+
+{was one neat winning line}) 41... Nd6 {with a win, the Queenside pawns are
+unstoppable}) 38. Rgf1 a4 39. Qb5 $2 (39. Rde1 $3 {is an amazing computer
+resource I didn't consider during the game} Rxe1 40. Rxe1 Qxf3+ (40... a3 $1 {
+with the idea} 41. Qa7 Qxf3+ 42. Kg1 Kh6 $3 {amazingly wins}) 41. Kg1 {and now
+it seems Black has to force the draw}) 39... Qe5 $1 0-1
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.21"]
+[Round "5"]
+[White "Arruebarrena, Rafael"]
+[Black "Miller, David"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2350"]
+[BlackElo "2166"]
+[PlyCount "139"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 g6 7. h3 Bg7 8. Be3
+Nc6 9. O-O O-O 10. Re1 d5 11. exd5 Nb4 12. Nb3 Nfxd5 13. Nxd5 Qxd5 14. Bc5 Nxd3
+15. Qxd3 Qxd3 16. cxd3 Re8 17. d4 Be6 18. Rad1 Bd5 19. Rxe7 Rxe7 20. Bxe7 Re8
+21. Bb4 Re2 22. Bc3 b5 23. Nc5 a5 24. Bxa5 Rxb2 25. a3 Rc2 26. Nd7 Bb3 27. Bb6
+Rc6 28. Re1 Be6 29. d5 Rd6 30. dxe6 fxe6 31. Bc5 Rxd7 32. Rxe6 Rd5 33. Bb4 Bd4
+34. Rd6 Rxd6 35. Bxd6 Kf7 36. Kf1 Ke6 37. Bf8 Kd5 38. Ke2 Kc4 39. f4 h5 40. g4
+hxg4 41. hxg4 Bb2 42. Be7 Bc1 43. Kf3 Kd5 44. Bb4 Bb2 45. Be7 Bc1 46. Bf8 Bd2
+47. f5 gxf5 48. gxf5 Ke5 49. Kg4 Kf6 50. Bd6 Bc1 51. Bb4 Bb2 52. Kf4 Bc1+ 53.
+Ke4 Bb2 54. Bd6 Bc1 55. Bc5 Bb2 56. Bd4+ Bxd4 57. Kxd4 Kxf5 58. Kd5 Kf6 59. Kd6
+Kf7 60. Kd7 Kf6 61. Kc6 Ke6 62. Kxb5 Kd7 63. Kb6 Kc8 64. Ka7 Kc7 65. a4 Kc8 66.
+a5 Kc7 67. a6 Kc8 68. Kb6 Kb8 69. a7+ Ka8 70. Ka6 1/2-1/2
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.21"]
+[Round "5"]
+[White "Ng, Gary"]
+[Black "Malek, Omid"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2388"]
+[BlackElo "2276"]
+[PlyCount "62"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. d4 e6 5. Bd3 Nbd7 6. O-O Be7 7. Nbd2 b6 8. Rb1
+c5 9. cxd5 Nxd5 10. a3 O-O 11. Qc2 h6 12. Ne4 cxd4 13. exd4 Bb7 14. Qe2 Qc7 15.
+g3 Rac8 16. Bd2 Qb8 17. Rbd1 Rfd8 18. Rfe1 Rf8 19. h4 N5f6 20. Bf4 Qa8 21. Ne5
+Rcd8 22. f3 Nxe5 23. Bxe5 Nxe4 24. Bxe4 Bd6 25. Bxb7 Qxb7 26. Qe4 Qd7 27. Qg4
+Bxe5 28. Rxe5 Qa4 29. Rd2 Qc4 30. Qe4 Rd5 31. Rxd5 Qc1+ 0-1
+
+[Event "Alberta Closed"]
+[Site "Calgary"]
+[Date "2019.04.21"]
+[Round "5"]
+[White "Zhao, Ian"]
+[Black "Haessel, Dale R"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2281"]
+[BlackElo "2261"]
+[PlyCount "67"]
+[EventDate "2019.04.19"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "CAN"]
+[EventCategory "2"]
+[Source "CCC"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.01.12"]
+[SourceQuality "3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. c3 g5 7. Re1 Bg7 8. a4 O-O
+9. h3 Ne7 10. Nbd2 Ng6 11. Nf1 d5 12. Bb3 Be6 13. Ng3 Qd7 14. exd5 Nxd5 15. Nh5
+Ndf4 16. Bxf4 Bxb3 17. Qxb3 exf4 18. Nxg7 Kxg7 19. Qxb7 Qxd3 20. Qxc7 Qc2 21.
+Nd4 Qxb2 22. Ne6+ Kg8 23. Nxf8 Rxf8 24. Reb1 Qc2 25. Rc1 Qe4 26. Re1 Qf5 27.
+Qxa7 Nh4 28. a5 g4 29. Qe7 Qh5 30. Re5 f5 31. a6 gxh3 32. a7 Nf3+ 33. gxf3 h2+
+34. Kg2 1-0

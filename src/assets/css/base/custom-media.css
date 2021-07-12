@@ -1,0 +1,58 @@
+
+/* CUSTOM-MEDIA.CSS */
+
+
+@custom-media --break-xs (min-width: 480px);
+@custom-media --break-sm (min-width: 720px);
+@custom-media --break-md (min-width: 960px);
+@custom-media --break-lg (min-width: 1200px);
+@custom-media --break-xl (min-width: 1440px);
+@custom-media --break-xxl (min-width: 2160px);
+
+
+
+
+/* @custom-media --break-xs (min-width: 320px); */
+/* @custom-media --break-sm (min-width: 384px); */
+/* @custom-media --break-md (min-width: 576px); */
+/* @custom-media --break-lg (min-width: 768px); */
+/* @custom-media --break-xl (min-width: 960px); */
+/* @custom-media --break-xxl (min-width: 1280px); */
+
+/* @custom-media --high-dppx (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi), (min-resolution: 1.5dppx); */
+
+
+
+
+/* https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ */
+
+/* https://gist.github.com/chrisjlee/5832418
+/* @media (min-width:320px) { } smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+/* @media (min-width:480px) { } smartphones, Android phones, landscape iPhone */
+/* @media (min-width:600px) { } portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
+/* @media (min-width:801px) { } tablet, landscape iPad, lo-res laptops ands desktops */
+/* @media (min-width:1025px) { } big landscape tablets, laptops, and desktops */
+/* @media (min-width:1281px) { } hi-res laptops and desktops */
+
+/*
+TABLET / PC
+768
+1024
+1280
+1366*
+1920*
+2560*
+
+PHONE
+240
+320
+480
+540
+640* iphone 4
+720
+750* iphone 6/7
+1080* iphone 6/7
+1440
+2160
+*/

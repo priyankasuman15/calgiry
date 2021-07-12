@@ -1,0 +1,863 @@
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.09"]
+[Round "1"]
+[White "Brebrich, Branimir"]
+[Black "Srinivasan, Hemant"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2225"]
+[BlackElo "1888"]
+[PlyCount "68"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Ba4 Be7 7. Nxe5 Nxe5
+8. Rxe5 O-O 9. d4 Nc4 10. Re2 Nb6 11. Bb3 d5 12. h3 Bd6 13. Nd2 Qf6 14. c3 Bf5
+15. Bc2 Bxc2 16. Qxc2 Rfe8 17. Nf3 h6 18. b3 Rxe2 19. Qxe2 a5 20. a4 c6 21. Bb2
+Rd8 22. c4 Bc7 23. c5 Nd7 24. Re1 Nf8 25. Bc3 Ne6 26. g3 Nxc5 27. dxc5 Qxc3 28.
+Qe7 Qxf3 29. Qxc7 Rf8 30. Qxb7 Qc3 31. Re7 Qc1+ 32. Kg2 Qxc5 33. Rc7 Qc2 34.
+Qxc6 Qxb3 1/2-1/2
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.09"]
+[Round "1"]
+[White "Lapides, Andrew"]
+[Black "Vasic, Maxim"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2226"]
+[BlackElo "2196"]
+[PlyCount "55"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 Nc6 4. g3 Bc5 5. Bg2 O-O 6. Nc3 a6 7. Nxe5 Bxf2+ 8.
+Kxf2 Nxe5 9. Rf1 d6 10. Kg1 Bg4 11. Qe1 Qd7 12. d4 Nc6 13. Rxf6 gxf6 14. Nd5
+Qd8 15. Qf2 f5 16. h3 Bh5 17. g4 fxg4 18. Nf6+ Kh8 19. Nxh5 f5 20. exf5 gxh3
+21. Bxh3 Qe8 22. Ng3 h5 23. Bg5 Rg8 24. Qf4 Qf7 25. Kh2 Rae8 26. c3 Ne7 27. Qh4
+Nd5 28. Nxh5 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.09"]
+[Round "1"]
+[White "Neven, Knut"]
+[Black "Raninga, Aditya"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2258"]
+[BlackElo "2070"]
+[PlyCount "69"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nc3 g6 3. Bf4 Bg7 4. e4 d6 5. Qd2 Nbd7 6. Nf3 c5 7. Bh6 O-O 8.
+O-O-O cxd4 9. Nxd4 Nc5 10. Bxg7 Kxg7 11. f3 a6 12. g4 Be6 13. h4 Qc7 14. h5 Rh8
+15. h6+ Kf8 16. g5 Nfd7 17. f4 Nb6 18. Nxe6+ fxe6 19. f5 exf5 20. exf5 gxf5 21.
+g6 hxg6 22. Qg5 Rh7 23. Qxg6 e6 24. Rxd6 Qxd6 25. Qxh7 Qd4 26. Be2 Qd7 27. Qh8+
+Kf7 28. Qg7+ Ke8 29. Bh5+ Kd8 30. Qf8+ Kc7 31. Qxc5+ Qc6 32. Qe5+ Qd6 33. Qg7+
+Qd7 34. Bf7 Rd8 35. Bxe6 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.09"]
+[Round "1"]
+[White "Perron, Sean"]
+[Black "Chen, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2104"]
+[BlackElo "2029"]
+[PlyCount "90"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d3 d6 6. Rb1 c5 7. a3 Nc6 8. e3 Bg4
+9. Nge2 Rb8 10. O-O Qd7 11. Re1 Ne5 12. Rf1 Nf3+ 13. Kh1 Qf5 14. Nf4 Nxh2 15.
+f3 Nxf1 16. Qxf1 g5 17. fxg4 Qxg4 18. Nfe2 Nh5 19. Qf3 Qxf3 20. Bxf3 Nf6 21.
+Nd5 Nxd5 22. Bxd5 e6 23. Bf3 f5 24. Bd2 b5 25. cxb5 Rxb5 26. b4 Rfb8 27. a4
+R5b6 28. b5 a6 29. Ba5 axb5 30. Bxb6 bxa4 31. Bc6 a3 32. Bd7 Kf7 33. d4 cxd4
+34. exd4 a2 35. Ra1 Rxb6 36. Rxa2 Rb7 37. Bc6 Re7 38. Ra3 h6 39. Kg2 h5 40. Bf3
+g4 41. Bc6 Bf6 42. d5 exd5 43. Nf4 h4 44. gxh4 Bxh4 45. Bxd5+ Kf6 1/2-1/2
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.09"]
+[Round "1"]
+[White "Yearwood, Roy"]
+[Black "Wang, Paul"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "2092"]
+[BlackElo "2010"]
+[PlyCount "63"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bc5 5. Bg5 d6 6. Nd5 Bg4 7. Bxf6 Qd7 8. f3
+Be6 9. Bxg7 Bxd5 10. exd5 Rg8 11. dxc6 bxc6 12. d4 Bxd4 13. Ne2 Rxg7 14. Nxd4
+exd4 15. Qxd4 Qe7+ 16. Kf2 Qg5 17. Qe3+ Qxe3+ 18. Kxe3 Rxg2 19. Rag1 Rxg1 20.
+Rxg1 Ke7 21. Rg7 d5 22. Bd3 h5 23. Rh7 Rg8 24. Rxh5 Rg2 25. b4 Rg1 26. b5 cxb5
+27. Bxb5 Kd6 28. Rh6+ Kc5 29. a4 Rg2 30. c3 d4+ 31. cxd4+ Kd5 32. Kd3 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.10"]
+[Round "2"]
+[White "Chen, Andrew"]
+[Black "Perron, Sean"]
+[Result "0-1"]
+[ECO "C07"]
+[WhiteElo "2029"]
+[BlackElo "2104"]
+[PlyCount "42"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 Qxd5 6. Bc4 Qd7 7. Nb3 cxd4 8.
+Nbxd4 Nxd4 9. Nxd4 a6 10. O-O Qc7 11. Bb3 Nf6 12. Bg5 Bd6 13. Bxf6 gxf6 14. Qh5
+O-O 15. Rad1 Kh8 16. Rd3 Rg8 17. Rh3 Rg7 18. Re1 Qc5 19. Qxc5 Bxc5 20. Rd1 e5
+21. Rh5 Bg4 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.10"]
+[Round "2"]
+[White "Raninga, Aditya"]
+[Black "Neven, Knut"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2070"]
+[BlackElo "2258"]
+[PlyCount "81"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. Nc3 d5 2. e4 e6 3. d4 Bb4 4. e5 c5 5. a3 Ba5 6. f4 Ne7 7. Nf3 cxd4 8. Nxd4
+Nbc6 9. Nxc6 Nxc6 10. Bd2 Bd7 11. Bd3 Bb6 12. Qg4 O-O 13. Qh5 g6 14. Qh6 f5 15.
+h4 Qe7 16. h5 Qg7 17. hxg6 hxg6 18. O-O-O Qxh6 19. Rxh6 Kg7 20. Rdh1 Rh8 21.
+Rxh8 Rxh8 22. Rxh8 Kxh8 23. Kd1 a6 24. b4 Kg7 25. b5 axb5 26. Bxb5 Bg1 27. Ne2
+Ba7 28. Bxc6 Bxc6 29. c3 Bc5 30. Nd4 Ba4+ 31. Ke1 Kf7 32. Bc1 Bf8 33. Kf2 Bg7
+34. Be3 g5 35. g3 g4 36. Bc1 Bf8 37. Ke2 Ke7 38. Ke1 Kd7 39. Ke2 Bc5 40. Ke1
+Bc6 41. Ke2 1/2-1/2
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.10"]
+[Round "2"]
+[White "Vasic, Maxim"]
+[Black "Lapides, Andrew"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "2196"]
+[BlackElo "2226"]
+[PlyCount "57"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 f5 3. Nc3 d5 4. g3 c6 5. Bg2 Nf6 6. Qc2 Bd6 7. Nh3 O-O 8. O-O a5
+9. Bf4 Na6 10. Bxd6 Qxd6 11. c5 Qe7 12. Na4 e5 13. dxe5 Qxe5 14. Nf4 Bd7 15.
+Nd3 Qe7 16. Nb6 Rae8 17. e3 Ne4 18. Rac1 Be6 19. f3 Nf6 20. Qd2 Bf7 21. Rfe1 h6
+22. Qxa5 g5 23. b4 Nc7 24. a4 Bg6 25. b5 Qg7 26. Nb4 f4 27. bxc6 bxc6 28. Nxc6
+fxe3 29. Qc3 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.10"]
+[Round "2"]
+[White "Wang, Paul"]
+[Black "Yearwood, Roy"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "2010"]
+[BlackElo "2092"]
+[PlyCount "62"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. b3 d6 2. Bb2 e5 3. e3 f5 4. d4 e4 5. c4 Nf6 6. Ne2 Be7 7. Nd2 c6 8. Nf4 O-O
+9. d5 c5 10. Be2 Na6 11. Nf1 Nc7 12. Ng3 a6 13. a4 Bd7 14. f3 g5 15. Nfh5 exf3
+16. gxf3 Qe8 17. Nxf6+ Bxf6 18. Bxf6 Rxf6 19. Qd3 Qe5 20. Kd2 Re8 21. Rab1 f4
+22. Ne4 fxe3+ 23. Qxe3 Rf4 24. Rhg1 h6 25. Qc3 Rxe4 26. fxe4 Qxe4 27. Bd3 Qf4+
+28. Kc2 b5 29. a5 bxc4 30. bxc4 Qxh2+ 31. Qd2 Ba4+ 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.17"]
+[Round "3"]
+[White "Brebrich, Branimir"]
+[Black "Chandra, Anand Rishi"]
+[Result "0-1"]
+[ECO "A38"]
+[WhiteElo "2225"]
+[BlackElo "2043"]
+[PlyCount "86"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c5 6. Nc3 Nc6 7. Rb1 d5 8. cxd5
+Nxd5 9. Ng5 e6 10. Nge4 b6 11. d3 a6 12. Bg5 f6 13. Bd2 Bb7 14. a3 {[%csl Ge7,
+Gb8,Gc6]} Kh8 15. Nxd5 exd5 16. Nc3 Ne7 17. b4 cxb4 18. Rxb4 Bc6 19. Na4 b5 20.
+Nc5 Qd6 21. d4 Nf5 22. Bf4 Qe7 23. g4 Nd6 24. Bxd6 Qxd6 25. e3 f5 26. Nd3 a5
+27. Rb3 b4 28. Nc5 Bb5 29. Re1 Bc4 30. axb4 Bxb3 31. Qxb3 fxg4 32. b5 Rf5 33.
+b6 Rh5 34. b7 Rb8 35. Qd1 Qxh2+ 36. Kf1 Rg5 37. Qa4 Rf5 38. Ne6 Qg3 39. Nf4 Qh4
+40. Qd7 Rff8 41. Ke2 Qf6 42. Rf1 Qa6+ 43. Nd3 Rxb7 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.17"]
+[Round "3"]
+[White "Neven, Knut"]
+[Black "Chen, Andrew"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2258"]
+[BlackElo "2029"]
+[PlyCount "65"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nc3 b6 3. e4 Bb7 4. f3 e6 5. Be3 Be7 6. Qd2 d6 7. Nge2 Nbd7 8.
+O-O-O c5 9. d5 exd5 10. Nxd5 Nxd5 11. exd5 Ba6 12. Ng3 Bxf1 13. Rhxf1 O-O 14.
+Nf5 Ne5 15. Qe2 Bf6 16. f4 Ng6 17. g4 Qd7 18. Ng3 Rfe8 19. c3 b5 20. g5 Bd8 21.
+Qd2 f5 22. Rde1 Bb6 23. h4 Ne7 24. h5 g6 25. Rh1 Qb7 26. c4 bxc4 27. hxg6 Nxg6
+28. Nxf5 Qd7 29. Nh6+ Kf8 30. Qc3 Re7 31. Qf6+ Ke8 32. Nf5 Re4 33. Nxd6+ 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.17"]
+[Round "3"]
+[White "Yearwood, Roy"]
+[Black "Vasic, Maxim"]
+[Result "0-1"]
+[ECO "C48"]
+[WhiteElo "2092"]
+[BlackElo "2196"]
+[PlyCount "44"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 5. Bc4 Bc5 6. d3 d6 7. Bg5 Bg4 8. h3
+Bxf3 9. gxf3 h6 10. Bh4 g5 11. Bg3 Nh5 12. Nb5 Nxb5 13. Bxb5+ c6 14. Bc4 Qb6
+15. Rh2 Qxb2 16. Rb1 Qd4 17. Kd2 Bb6 18. c3 Qc5 19. f4 Nxg3 20. Kc2 Nxe4 21.
+Qh5 d5 22. dxe4 dxc4 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.24"]
+[Round "4"]
+[White "Chen, Andrew"]
+[Black "Neven, Knut"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "2029"]
+[BlackElo "2258"]
+[PlyCount "72"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 Nc6 7. c3 Qb6 8. a3
+Be7 9. b4 cxd4 10. cxd4 O-O 11. Bd3 f6 12. Ne2 Kh8 13. Qc2 fxe5 14. fxe5 Rxf3
+15. gxf3 Nxd4 16. Nxd4 Qxd4 17. Bb2 Bh4+ 18. Kd1 Qf4 19. Qe2 Nb6 20. Rg1 Bd7
+21. Rg4 Ba4+ 22. Bc2 Bxc2+ 23. Kxc2 Qf5+ 24. Kb3 Be7 25. Rag1 g6 26. Bd4 Nc4
+27. Be3 a5 28. b5 a4+ 29. Ka2 Nxe3 30. Qxe3 Qc2+ 31. Ka1 Rc8 32. R1g2 Qd1+ 33.
+Kb2 Bc5 34. Qc3 d4 35. Qd2 Bxa3+ 36. Ka2 Qb3+ 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.24"]
+[Round "4"]
+[White "Vasic, Maxim"]
+[Black "Yearwood, Roy"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2196"]
+[BlackElo "2092"]
+[PlyCount "46"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. d4 d6 2. Nf3 Nf6 3. c4 g6 4. Nc3 Bg7 5. Bg5 O-O 6. e3 h6 7. Bh4 c6 8. Bd3
+Nbd7 9. Qc2 a6 10. e4 e5 11. Ne2 Qc7 12. c5 dxc5 13. dxe5 Nxe5 14. Nxe5 Qxe5
+15. f4 Qh5 16. Bf2 b6 17. h3 c4 18. Qxc4 Be6 19. Qb4 Rfd8 20. O-O-O Rxd3 21.
+Rxd3 Qxe2 22. Rd2 Qxe4 23. Qxb6 Bf5 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.04.27"]
+[Round "4"]
+[White "Srinivasan, Hemant"]
+[Black "Lapides, Andrew"]
+[Result "0-1"]
+[ECO "A87"]
+[WhiteElo "1888"]
+[BlackElo "2226"]
+[Annotator "Lapides,A"]
+[PlyCount "78"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. Nc3 d6 8. Re1 h6
+9. h4 {Strange and probably a mistake; making a hole for my knight to jump on}
+Nc6 10. d5 Ne7 11. dxe6 {The pawn on e6 can be weak or strong: if Black
+captures it he will be OK, but if not he will suffer} ({Instead maybe} 11. Nd4
+{[%cal Yd4e6]}) 11... Bxe6 12. Nd4 Bxc4 {Suddenly c4 is weak and it isn't easy
+to protect it. The move b3 doesn't work because White is weak along the a1-h8
+diagonal. Had White played a normal move like Qc2 instead of h4 then pushing
+away the B/b3 would be possible more easily} 13. Qa4 {Evicting the bishop in
+this way might not be a good idea, given it was a bit loose there. But White
+probably wanted to recover material on b7} Bf7 14. Bxb7 Rb8 15. Nc6 Nxc6 ({
+Here I had a long think about} 15... Qd7 16. Nxb8 Qxa4 17. Nxa4 Rxb8 18. Bg2
+Nfd5 19. Bd2 {when Black appears to have some compensation for the exchange
+with the bishop pair and White's misplaced N/a4. At the same time, it is
+unclear how Black can proceed}) 16. Bxc6 Ng4 {White certainly wants to play h3
+now or later, but unfortunately that is not a legal option after the earlier
+advance of the pawn to h4} 17. Bg2 Kh7 {I liked it here for Black} 18. e4 {
+Opening the center is probably not the right decision} f4 {Black declines!} 19.
+Bxf4 Rxb2 $6 {Played without too much reflection, and this is indeed a much
+more prosaic line than the alternative} ({From afar I had considered playing}
+19... Nxf2 {which does a far better job of connecting all of Black's tactical
+ideas after} 20. Kxf2 Rxb2+ (20... g5 {[%cal Yb8b2,Yg7d4,Yf8f2] also comes
+with some nice attacking ideas for Black}) 21. Ne2 $140 g5) 20. Nd1 Rb8 21. Rc1
+Be6 {Black just improves the bishop and protects the N/g4} 22. Qxa7 (22. Ne3 g5
+23. Nxg4 gxf4 {and the knight has to retreat with} 24. Nh2) 22... c5 23. Rc2
+Rb1 24. Rd2 {All I was thinking about was the rook sacrifice on f4, either
+right away or after removing the pin on my bishop along the 7th rank} Rf7 25.
+Qa6 (25. Rxd6 $2 Qxd6) ({Here I was more concerned with} 25. Qa3 Rxf4 26. gxf4
+Qxh4 {since now the queen can defend with} 27. Qg3) 25... Rxf4 26. Rxd6 {
+In spite of calculating the same capture on the previous move, here it came as
+a complete surprise to me! My first reaction was that Black is lost completely}
+Qf8 ({The computer suggests the improbable line} 26... Qe7 27. Rxe6 Rf6 {
+but in the end agrees with my choice in the game}) 27. gxf4 Qxf4 28. Rxe6 {
+Played after a long thought. Capturing the piece creates a great deal of
+imbalance in the position, but not taking leaves the opponent with an extra
+piece for the attack} Rxd1 ({I abandoned} 28... Nxf2 {in my calculations
+pretty quickly, seeing that the text leads at least to a perpetual in case
+Black needs a safe exit}) 29. Rxd1 Qxf2+ 30. Kh1 Qxh4+ 31. Kg1 Qh2+ {Black
+wants more than the draw} 32. Kf1 Qf4+ 33. Kg1 Qe3+ 34. Kh1 Nf2+ 35. Kh2 Qf4+ {
+An important extra check to force the king to g1. This idea had to be seen
+much earlier} 36. Kg1 Nxd1 {[%cal Yg7d4] The deadly threat is 37...Bd4+ with
+mate to follow} 37. Qa7 {White loses very fast after this} ({White can try
+pinning the bishop with} 37. Re7 {when} Qf2+ 38. Kh2 Qh4+ {picks up the rook} (
+{or else} 38... Ne3 {is the computer preference leading to a forced mate. For
+the human player however, calculating that Black's king runs away from the
+checks after} 39. Rxg7+ Kxg7 40. Qb7+ Kf6 {isn't worth the trouble})) (37. Rd6
+$19 {weakens e5 and allows} Qe3+ 38. Kh1 Nf2+) (37. e5 Qe3+ 38. Kh1 Qe1+ 39.
+Kh2 Bxe5+ 40. Rxe5 Qxe5+ {is probably his best practical chance, but clearly
+loses as well}) ({The computer comes up with} 37. Qb7 {when B/g7 is also
+pinned and, if allowed, e5 will protect B/g2. During the game I would not have
+found the move} Nc3 {away from the White king, even though the threat is 38...
+Ne2+ and White is forced to play} 38. Bf1 Qg4+) 37... Qf2+ 38. Kh1 Ne3 39. Bh3
+Qg3 $138 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.05.08"]
+[Round "6"]
+[White "Chen, Andrew"]
+[Black "Lapides, Andrew"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "2029"]
+[BlackElo "2226"]
+[Annotator "Lapides,A"]
+[PlyCount "70"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. a3 {
+This is the strange mix of moves, whereas previous moves had clearly carried
+momentum vector direction towards Black's kingside. Black is only happy to do
+anything on the queenside in order to untangle the cluster of his clumsy pieces
+} a5 9. b3 Be7 10. h4 {White continues the attack on kingside; only at the
+moment Black's king is not there!} h5 11. Bb2 c4 {Taking temporary advantage
+of the unprotected bishop on b2} 12. b4 axb4 13. axb4 Rxa1 14. Bxa1 Qa6 15. Bb2
+Nb6 16. Be2 Bd7 17. Ng5 Qa2 {Protects h5 indirectly} 18. Qa1 Qxa1+ 19. Bxa1 {
+White first builds a cage of pawns on dark squares and then places his dark
+squared bishop on the worst possible square on the board} f6 20. exf6 $2 {
+Why relieve the tension? Black will never be able to take on e5 because this
+will open the f-file for the rook and forever weakens the g5 square. The only
+side that can relieve the tension is White, so he should do it at the most
+appropriate moment} gxf6 $19 {After the exchange of pawns Black acquires d6
+for the bishop and g7 for the king if neccessary. Black is simply winning} 21.
+N5f3 Kf7 22. Nh3 {Now we can ask Black's pieces what they want? The king wants
+to go to g6 and possibly on from there with ...Kf5 and ...Ke4. The rook would
+like to land on a2, the bishop goes to d6 and the knight to f5 via e7. Notice
+how this all happens together, i.e. by moving one piece the path for another
+is created in perfect harmony. The only question is in what order the pieces
+execute this plan} Bd6 {Black starts with the bishop because I saw that the
+only chance of counterplay for White is in pushing f5, so I wanted to be ready
+for that rather sooner than later} 23. Kf2 Ra8 24. Bb2 Ra2 {Black's rook has
+transformed from a passive defender on h8 to a beast on the 7th rank!} 25. Bc1
+Ne7 26. Bd2 Nf5 27. g3 Kg6 28. Rc1 Ba4 {Forcing the exchange of the bad bishop
+for the only potentially good white piece} 29. Bd1 {White cannot allow the
+bishop to penetrate his position via the c2 square and into d3 or e4 outside
+his own pawn structure where it will become a monster} Bxd1 30. Rxd1 {After a
+series of instinctive moves, here I had a first think. Originally I considered
+improving my pieces further by routing the second knight to e4 but it turns
+out the position is already ripe for a tactical finish} Na4 31. Rc1 Nxc3 32.
+Rxc3 Bxb4 33. Rc1 Bxd2 34. Nxd2 Rxd2+ 35. Kf3 Nxd4+ {So lets revisit the
+reasons for the outcome, which are all strictly positional. White placed every
+single pawn on black squares - eight moves, and then seven moves with the dark
+squared bishop only to end up on the miserable a1 destination. On top of this
+White released the tension in the center and gave Back access to many more
+squares for his pieces} 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.05.15"]
+[Round "7"]
+[White "Neven, Knut"]
+[Black "Vasic, Maxim"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2258"]
+[BlackElo "2133"]
+[PlyCount "60"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 Bf5 4. e3 e6 5. Nge2 Bd6 6. f3 Nc6 7. a3 Ne7 8. Qd2
+Nc8 9. Bg5 Be7 10. O-O-O b5 11. Ng3 c6 12. e4 Bg6 13. h4 h5 14. exd5 Nxd5 15.
+Nxd5 Qxd5 16. c4 bxc4 17. Ne4 Rb8 18. Nc3 Qa5 19. Bxe7 Nxe7 20. Bxc4 O-O 21.
+Bd3 Nf5 22. Bxf5 Bxf5 23. Ne4 Qd5 24. Nc3 Qb3 25. g4 Bh7 26. Rhg1 Rfd8 27. gxh5
+Rxd4 28. Rxg7+ Kf8 29. Rxh7 Rxd2 30. Rxd2 Kg8 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.05.22"]
+[Round "8"]
+[White "Chen, Andrew"]
+[Black "Yearwood, Roy"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2029"]
+[BlackElo "2092"]
+[Annotator "Yearwood,R"]
+[PlyCount "56"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. Ne2 Be7 5. O-O O-O 6. f4 c6 7. c3 exd4 8. cxd4
+c5 9. dxc5 d5 10. Be3 Ng4 11. Bd4 Nc6 12. Bb5 Nxd4 13. Qxd4 dxe4 14. Qxd8 Rxd8
+15. b4 a5 16. Nbc3 f5 17. a3 Ne3 18. Rfc1 axb4 19. axb4 Rxa1 20. Rxa1 Nc2 21.
+Rb1 Nxb4 22. Na4 Nc2 23. Bc4+ Kf8 24. Rb3 Bd7 25. Nec3 Ne3 26. Be2 Bc6 27. Kf2
+Nd5 28. Nxd5 Bxa4 $138 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.06.12"]
+[Round "10"]
+[White "Brebrich, Branimir"]
+[Black "Vasic, Maxim"]
+[Result "1-0"]
+[ECO "A38"]
+[WhiteElo "2225"]
+[BlackElo "2133"]
+[PlyCount "93"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 g6 4. Bg2 Bg7 5. Nc3 Nc6 6. O-O O-O 7. a3 e6 8. d3 d5
+9. Nd2 b6 10. Rb1 a5 11. Qb3 Nd4 12. Qd1 Bb7 13. b4 axb4 14. axb4 cxb4 15. Rxb4
+Ra1 16. Ndb1 Qd6 17. Ra4 Rxa4 18. Nxa4 Ra8 19. Nac3 Bc6 20. e3 Nf5 21. cxd5
+exd5 22. Qb3 d4 23. Nb5 Qc5 24. Bxc6 Qxc6 25. e4 Nh6 26. Nxd4 Qc5 27. Ne2 Nhg4
+28. h3 Ne5 29. Be3 Nf3+ 30. Kg2 Qc8 31. Rc1 Qd7 32. Kxf3 Qxh3 33. Nf4 Qh2 34.
+e5 g5 35. exf6 gxf4 36. Bxf4 Bxf6 37. Qd5 Ra5 38. Qc6 Bd4 39. Qe8+ Kg7 40. Qe1
+Rf5 41. Qg1 Qh5+ 42. g4 Qh3+ 43. Qg3 Qxg3+ 44. fxg3 Ra5 45. Rc4 Bf6 46. Rc6 Bd4
+47. Bh6+ 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.06.19"]
+[Round "11"]
+[White "Brebrich, Branimir"]
+[Black "Wang, Paul"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2225"]
+[BlackElo "2010"]
+[PlyCount "83"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd2 Bd6 7. Rc1 O-O 8. Bd3
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. Ne4 Nxe4 12. Bxe4 Rc8 13. O-O a6 14. b4 Qe7 15.
+Qb3 e5 16. Qb1 h6 17. dxe5 Nxe5 18. Nxe5 Qxe5 19. g3 Qe7 20. Bg2 c5 21. Bxb7
+Qxb7 22. bxc5 Bxc5 23. a4 b4 24. Rxc5 Rxc5 25. Bxb4 Rb8 26. Bxc5 Qxb1 27. Rxb1
+Rxb1+ 28. Kg2 Ra1 29. f4 Rxa4 30. Kf3 f5 31. h3 a5 32. g4 g6 33. h4 Rc4 34. Bd6
+a4 35. h5 Kf7 36. Be5 a3 37. Bh8 a2 38. Bb2 Rc2 39. Be5 Rc1 40. hxg6+ Kxg6 41.
+gxf5+ Kxf5 42. e4+ 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.06.19"]
+[Round "11"]
+[White "Chandra, Anand Rishi"]
+[Black "Lapides, Andrew"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "2043"]
+[BlackElo "2226"]
+[PlyCount "74"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Qxf6 10. Nf3 h6 11. O-O Bd6 12. Be3 O-O 13. Ng3 Rd8 14. Bb1 Nf8 15.
+a3 Bd7 16. Re1 Be8 17. b4 a6 18. Ba2 Bg6 19. Rc1 Rac8 20. Qe2 Rc7 21. Qb2 Nd7
+22. Nd2 Kh8 23. Red1 Rf8 24. Nb3 Nb6 25. Nc5 Nc4 26. Bxc4 dxc4 27. Rxc4 Bxg3
+28. hxg3 Rcf7 29. b5 axb5 30. Qxb5 e5 31. d5 Nd4 32. Rcxd4 exd4 33. Bxd4 Qf5
+34. Ne6 Qc2 35. Ra1 Rxf2 36. Nxf8 Rxg2+ 37. Kf1 Bd3+ 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.06.25"]
+[Round "12"]
+[White "Wang, Paul"]
+[Black "Haessel, Dale R"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2010"]
+[BlackElo "2278"]
+[Annotator "Wang,P"]
+[PlyCount "64"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d6 5. c3 h6 6. h3 g5 7. Nbd2 Bg7 8. d4 O-O
+9. O-O exd4 10. cxd4 d5 11. exd5 Nxd5 12. Nb3 Bf5 13. Be3 a5 14. a3 a4 15. Nc5
+Na5 16. Bb5 c6 17. Bxa4 b6 18. Nd3 Nxe3 19. fxe3 Nc4 20. Bxc6 Rc8 21. e4 Bxd4+
+22. Nxd4 Qxd4+ 23. Nf2 Qc5 24. exf5 Ne3 25. Ne4 Qe5 (25... Qxc6 26. Qd4 Nc2 (
+26... Nxf1 27. Nf6+ Kh8 28. Nd7+ Kg8)) 26. Qa4 Qxb2 27. Nd6 Nxf1 28. Rxf1 Rc7
+29. Bb5 Rd8 30. Rd1 Rc1 31. Bc4 Qd4+ 32. Kh2 Rxd1 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.06.25"]
+[Round "12"]
+[White "Yam, Alex"]
+[Black "Vasic, Maxim"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "2396"]
+[BlackElo "2120"]
+[PlyCount "69"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. Nf3 Nf6 2. d4 d5 3. Bg5 e6 4. e3 Be7 5. Nbd2 O-O 6. Bd3 Nbd7 7. O-O b6 8.
+Ne5 Bb7 9. Qf3 Nxe5 10. dxe5 Nd7 11. Qh3 g6 12. Bh6 Re8 13. f4 Nc5 14. Nf3 Nxd3
+15. cxd3 d4 16. e4 c5 17. f5 exf5 18. exf5 Bc8 19. e6 Bf6 20. exf7+ Kxf7 21. g4
+Kg8 22. Rae1 Bb7 23. g5 Rxe1 24. Rxe1 Qd5 25. gxf6 Qxf3 26. Re7 Qd1+ 27. Kf2
+Bd5 28. Rg7+ Kh8 29. fxg6 Qc2+ 30. Ke1 Qb1+ 31. Ke2 c4 32. Rxh7+ Kg8 33. Rh8+
+Kxh8 34. Bg7+ Kg8 35. Qh7# 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.07.03"]
+[Round "13"]
+[White "Demers, Chris"]
+[Black "Wang, Paul"]
+[Result "1/2-1/2"]
+[ECO "C29"]
+[WhiteElo "2261"]
+[BlackElo "2010"]
+[Annotator "Wang,P"]
+[PlyCount "50"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Nc6 6. Bb5 a6 7. Bxc6+ bxc6 8.
+d3 Nxc3 9. bxc3 Be7 10. O-O O-O 11. Qe1 c5 12. Qg3 Bf5 13. Kh1 Rb8 14. Ba3 c4
+15. Bxe7 Qxe7 16. Nd4 Bd7 17. dxc4 dxc4 18. e6 fxe6 19. Qxc7 Rxf1+ 20. Rxf1 Rf8
+21. Rxf8+ Qxf8 22. Qxc4 Qf4 23. Kg1 (23. g3 Qf2 24. Qxa6 g5 25. Qa8+ (25. a4 e5
+26. Qc4+ Kh8 27. h3) 25... Kg7 26. Qg2 Qe1+ 27. Qg1) 23... Qe3+ 24. Kf1 Qf4+
+25. Kg1 (25. Ke1 Qxh2 26. Kf2 Qf4+ 27. Kg1) 25... Qe3+ 1/2-1/2
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.07.03"]
+[Round "13"]
+[White "Raninga, Aditya"]
+[Black "Findlay, Ian"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2070"]
+[BlackElo "2374"]
+[PlyCount "130"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 Nf6 5. Bg2 d5 6. Nbd2 Be7 7. O-O O-O 8. Re1
+b5 9. e5 Nd7 10. Nf1 Bb7 11. h4 h6 12. Bf4 Qb6 13. N1h2 Rfc8 14. Qd2 Qd8 15.
+Ng4 Bf8 16. Ngh2 a5 17. g4 a4 18. Nf1 a3 19. b3 Nd4 20. g5 h5 21. c3 Nf5 22.
+Bh3 d4 23. Bxf5 exf5 24. Qe2 Qb6 25. c4 b4 26. N3d2 Qc6 27. f3 Re8 28. Qh2 Re6
+29. Re2 Rae8 30. Rae1 g6 31. Bg3 Bg7 32. f4 Kh7 33. Kf2 Bf8 34. Qh3 Be7 35. Nh2
+Bf8 36. Nhf3 Bg7 37. Qg2 Kg8 38. Qh2 R8e7 39. Kf1 Qc8 40. Rf2 Qe8 41. Rfe2 Bc6
+42. Qf2 Bb7 43. Qh2 Nb8 44. Qf2 Qc6 45. Qh2 Na6 46. Bf2 Qd7 47. Bg3 Nc7 48. Ng1
+Re8 49. Ndf3 Ba6 50. Qf2 Bf8 51. Nd2 Rb6 52. Bh2 Rbb8 53. Qf3 Bb7 54. Qf2 Re6
+55. Bg3 Na8 56. Bh2 Nb6 57. Bg3 Qc6 58. Qf3 Qd7 59. Qf2 Be7 60. Bh2 Bd8 61. Bg3
+Nc8 62. Bh2 Ba5 63. Bg3 Nb6 64. Rc1 Bc6 65. Bh2 Bb7 1/2-1/2
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.07.03"]
+[Round "13"]
+[White "Tolentino, Patrick Angelo"]
+[Black "Kostadinov, Georgi"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "1994"]
+[BlackElo "2213"]
+[PlyCount "82"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. e4 d6 2. Nf3 e5 3. g3 Nf6 4. Bg2 Be7 5. d3 O-O 6. O-O Nc6 7. c3 d5 8. Nbd2
+Re8 9. Re1 dxe4 10. dxe4 Bg4 11. Qc2 Qd7 12. Nc4 Qe6 13. Ne3 Rad8 14. Nxg4 Nxg4
+15. b4 Qc4 16. Qb3 Qxb3 17. axb3 a6 18. Bf1 h6 19. Bc4 Nf6 20. Nd2 Na7 21. Nf1
+Rd7 22. f3 Red8 23. Be3 Nb5 24. Rec1 Ne8 25. Be2 Bg5 26. Bxb5 axb5 27. Bxg5
+hxg5 28. Ne3 Rd3 29. Rd1 Kf8 30. g4 c6 31. Kf2 R8d6 32. Rxd3 Rxd3 33. Rc1 Rd2+
+34. Ke1 Rxh2 35. c4 bxc4 36. bxc4 Rb2 37. Nc2 Nc7 38. Kd2 Rb3 39. Rf1 Ne6 40.
+b5 cxb5 41. cxb5 Rxb5 0-1
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.07.24"]
+[Round "14"]
+[White "Kostadinov, Georgi"]
+[Black "Srinivasan, Hemant"]
+[Result "1-0"]
+[ECO "E07"]
+[WhiteElo "2213"]
+[BlackElo "2068"]
+[PlyCount "109"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. Nc3 Nf6 5. g3 O-O 6. Bg2 c6 7. O-O Nbd7 8. Bf4
+Re8 9. Re1 Nf8 10. e4 dxe4 11. Nxe4 Ng6 12. Bc1 Nxe4 13. Rxe4 c5 14. h4 f5 15.
+Re1 cxd4 16. h5 Nh8 17. Bf4 Bf6 18. Ne5 Nf7 19. Qd3 Bxe5 20. Bxe5 Qg5 21. Bf3
+f4 22. Bxf4 Qf6 23. Be4 h6 24. Bh7+ Kh8 25. Bg6 Bd7 26. Bxf7 Qxf7 27. Qxd4 Kg8
+28. Qe5 Bc6 29. Re3 Qf5 30. Qxf5 exf5 31. Rd1 Rad8 32. Rxe8+ Rxe8 33. Be3 Bf3
+34. Rd7 Re5 35. Kf1 Bc6 36. Rxg7+ Kxg7 37. Bd4 Bf3 38. Bxe5+ Kf7 39. Bf4 Kg7
+40. Ke1 Bxh5 41. Kd2 Bf7 42. Kd3 h5 43. a4 Kf6 44. Kd4 Be8 45. a5 b5 46. a6 Ke6
+47. Bb8 bxc4 48. Kxc4 Kd7 49. Bxa7 Kc7 50. Be3 Bf7+ 51. Kc5 Kb8 52. b4 Be6 53.
+b5 Bc8 54. Kc6 Be6 55. b6 1-0
+
+[Event "Kings vs Princes m"]
+[Site "Calgary"]
+[Date "2019.07.24"]
+[Round "14"]
+[White "Rekhson, Vlad"]
+[Black "Vasic, Maxim"]
+[Result "0-1"]
+[ECO "C93"]
+[WhiteElo "2111"]
+[BlackElo "2094"]
+[PlyCount "110"]
+[EventDate "2019.04.09"]
+[EventType "match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 h6 10. d4 Re8 11. Nbd2 Bf8 12. a4 b4 13. Bd5 Nxd5 14. exd5 bxc3 15.
+bxc3 Ne7 16. c4 c6 17. dxc6 Nxc6 18. d5 Nb4 19. Ba3 Nd3 20. Re3 Nf4 21. Rb3 Qf6
+22. Ne4 Qg6 23. Ng3 h5 24. Qb1 e4 25. Bc1 Ne2+ 26. Nxe2 exf3 27. Nf4 Re1+ 28.
+Kh2 Qg5 29. Rxf3 Qh4 30. Qc2 Bg4 31. Rg3 Rae8 32. Bb2 R1e4 33. Nd3 Rc8 34. c5
+dxc5 35. Ne5 Bf5 36. Nf3 Qf4 37. Qc3 Bg6 38. Kg1 Re2 39. Rd1 Qb4 40. Rd2 Rxd2
+41. Nxd2 Qxa4 42. Nc4 Rd8 43. d6 Qd1+ 44. Kh2 Qc2 45. h4 Qxf2 46. Qe5 f6 47.
+Qe6+ Bf7 48. Qe4 Re8 49. Qb7 Bxc4 50. d7 Re1 51. Rxg7+ Bxg7 52. d8=Q+ Kh7 53.
+Qf3 Qxh4+ 54. Qh3 Qf4+ 55. g3 Re2+ 0-1

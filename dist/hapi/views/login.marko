@@ -1,0 +1,55 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const error = out.global.error;
+
+  const schemas = require('../configs/schemas');
+
+  const schema_email = schemas.getSchema('email');
+  const schema_password = schemas.getSchema('password');
+
+  const email = out.global.email || '';
+
+}
+
+
+
+
+<if(error)>
+  <div class="message message__error">
+    ${error.output.payload.statusCode} ${error.output.payload.error}<br>
+    ${error.output.payload.message}
+  </div>
+</if>
+
+
+<h1>Calgary Chess Club<br>Membership Login</h1>
+
+<form method="post" action="/login">
+
+  <div>
+    <input type="email" id="email" name="email" required pattern=`${schema_email.pattern}` value=`${email}` placeholder=" ">
+    <label for="email">eMail</label>
+    <div class="requirements">
+      ${schema_email.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="password" id="password" name="password" required pattern=`${schema_password.pattern}` placeholder=" ">
+    <label for="password">PassWord</label>
+    <div class="requirements">
+      ${schema_password.error}
+    </div>
+  </div>
+
+  <button type="submit" id="submit" class="button button__action button__wide button__xl button__centered">Login</button>
+
+</form>
+
+
+  </@body>
+</layout>

@@ -1,0 +1,17 @@
+
+/* LEAFLET.CSS */
+
+
+.map {
+  margin: 0 0 0 0;
+  padding: 0;
+  /* border: 1px solid var(--black-10); */
+  /* border-radius: 6px; */
+  /* box-shadow: 4px 4px 8px rgba(0, 0, 0, .1); */
+  /* height: 240px; */
+  /* width: 240px; */
+}
+
+.leaflet-control-attribution {
+  display: none;
+}

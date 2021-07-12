@@ -1,0 +1,43 @@
+[Event "op"]
+[Site "Banff"]
+[Date "2019.11.10"]
+[Round "3"]
+[White "Findlay, Ian T"]
+[Black "Pivovarov, Juraj"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2362"]
+[BlackElo "1991"]
+[Annotator "Findlay,I"]
+[PlyCount "33"]
+[EventDate "2019.11.09"]
+[EventType "swiss"]
+[EventRounds "6"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.11.25"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.11.25"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {The Adams Attack,
+which is growing in populartity due to all the theory on White's alternative
+sixth moves. Fischer won a famous game vs Najdorf back in the early 1960s} (6.
+Bg5) (6. Be3) (6. Be2) 6... e5 7. Nb3 ({Carlsen and Anand used to prefer} 7.
+Nde2 {but these days the text is more popular}) 7... Be7 8. g4 Be6 9. Bg2 $6 ({
+Probably better is} 9. g5 {which, after the text, Black stops once and for all}
+) 9... h6 10. f4 {The engine thinks this advance is premature} Nfd7 $1 11. O-O
+Qb6+ $2 {The check misplaces the queen and chases White's monarch to a safer
+square} (11... Nc6 $142) 12. Kh1 Nc5 $2 {Black ignores the needs of the
+postion, which is the fight for square d5} 13. Qe2 {White is happy since the
+threat of advancing with f5 and gaining control of square d5 is very strong!} (
+{The engine prefers} 13. Nxc5) 13... exf4 14. Bxf4 Bg5 $4 {I always go back to
+the Shabalov lecture on "Ignoring the Threat" that I attended in Edmonton.
+Here White ignores the attack on his bishop and instead replies with a
+crushing occupation of the critical central square that his opponent neglected
+earlier} 15. Nd5 $1 Qd8 ({Black's best, although still losing, is} 15... Bxd5
+16. exd5+ Kd8 17. Bxg5+ hxg5 18. Rxf7 {when Black has exposed his king and
+lost material}) 16. Nxc5 $1 Bxf4 ({After} 16... dxc5 17. Nc7+ {also wins
+quickly}) 17. Nxe6 {White wins a piece and the game} 1-0
+

@@ -1,0 +1,256 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const events = require('../data/events');
+
+  const methods = out.global.methods;
+  const member = out.global.member;
+  const members = out.global.members;
+  const object_id = out.global.object_id;
+  const method = out.global.method;
+  const error = out.global.error;
+
+  const schemas = require('../configs/schemas');
+
+  const schema_name = schemas.getSchema('name');
+  const schema_dob = schemas.getSchema('date');
+  const schema_sex = schemas.getSchema('sex');
+  const schema_phone = schemas.getSchema('phone');
+  const schema_email = schemas.getSchema('email');
+  const schema_address = schemas.getSchema('address');
+  const schema_city = schemas.getSchema('city');
+  const schema_province = schemas.getSchema('province');
+  const schema_postal_code = schemas.getSchema('postal_code');
+  const schema_country = schemas.getSchema('country');
+  const schema_fide_id = schemas.getSchema('fide');
+  const schema_cfc_id = schemas.getSchema('cfc');
+  const schema_cfc_expiry = schemas.getSchema('date');
+  const schema_ccc_expiry = schemas.getSchema('date');
+  const schema_events = schemas.getSchema('events');
+
+  const record = {};
+
+  if (object_id) {
+    record.name = `${member.personal.name.last}, ${member.personal.name.first}` || '';
+    record.dob = member.personal.dob || '';
+    record.sex = member.personal.sex || '';
+    record.phone = member.personal.contact.phone || '';
+    record.email = member.personal.contact.email || '';
+    record.address = member.personal.contact.address || '';
+    record.city = member.personal.contact.city || '';
+    record.province = member.personal.contact.province || '';
+    record.postal_code = member.personal.contact.postal_code || '';
+    record.country = member.personal.contact.country || '';
+    record.fideid = member.data.fide.id || '';
+    record.cfcid = member.data.cfc.id || '';
+    record.cfcexpiry = member.data.cfc.expiry || '';
+    record.cccexpiry = member.data.ccc.expiry || '';
+    record.events = member.data.transactions.events || '';
+  }
+
+
+  const today = methods.dateToIsoDate();
+
+}
+
+
+
+
+<if(error)>
+  <div class="message message__error">
+    ${error.output.payload.statusCode} ${error.output.payload.error}<br>
+    ${error.output.payload.message}
+  </div>
+</if>
+
+
+
+
+<if(method === 'get')>
+  <h1>Member Database Admin</h1>
+
+
+  <if(object_id === undefined)>
+    <h2>Member Database</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>##</th>
+          <th>Name</th>
+          <th>CFC (expiry)</th>
+          <th>CCC (expiry)</th>
+          <th>Update</th>
+        </tr>
+      </thead>
+      <tbody>
+        <for|member, i| of=members>
+          <tr>
+            <td>${i + 1}.</td>
+            <td>${member.personal.name.last}, ${member.personal.name.first}</td>
+            <td>${member.data.cfc.id} <if(member.data.cfc.expiry < today)><span class="message__error">(${member.data.cfc.expiry})</span></if><else><span class="message__success">(${member.data.cfc.expiry})</span></else></td>
+            <td>${member.data.ccc.id} <if(member.data.ccc.expiry < today)><span class="message__error">(${member.data.ccc.expiry})</span></if><else><span class="message__success">(${member.data.ccc.expiry})</span></else></td>
+            <td><a href=`/admin-members?m=${member._id}`><span id=`${member._id}` class="edit">Edit Details...</span></a></td>
+            <!-- <td><a href=`/admin-members?m=${member._id}`><span id=`${member._id}` class="edit"><span class="icon svg-icon svg-baseline"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="i-edit" viewBox="0 0 24 24"><path d="M20 14.66V20a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h5.34"/><path d="M18 2l4 4-10 10H8v-4L18 2z"/></svg></span></span></a></td> -->
+          </tr>
+        </for>
+      </tbody>
+    </table>
+  </if>
+
+
+  <if(object_id)>
+    <a href="/admin-members"><button id="" class="button button__action button__wide button__xl button__centered">Return to Member Database</button></a>
+    <h2>Member Details</h2>
+
+
+    <form method="post" action="/admin-members">
+
+      <div>
+        <input type="text" id="name" name="name" required pattern=`${schema_name.pattern}` value=`${record.name}` placeholder=" ">
+        <label for="name">Name (Last, First)</label>
+        <div class="requirements">
+          ${schema_name.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="dob" name="dob" required pattern=`${schema_dob.pattern}` value=`${record.dob}` placeholder=" ">
+        <label for="dob">Date Of Birth</label>
+        <div class="requirements">
+          ${schema_dob.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="sex" name="sex" required pattern=`${schema_sex.pattern}` value=`${record.sex}` placeholder=" ">
+        <label for="sex">Sex</label>
+        <div class="requirements">
+          ${schema_sex.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="phone" name="phone" required pattern=`${schema_phone.pattern}` value=`${record.phone}` placeholder=" ">
+        <label for="phone">Phone</label>
+        <div class="requirements">
+          ${schema_phone.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="email" id="email" name="email" required pattern=`${schema_email.pattern}` value=`${record.email}` placeholder=" ">
+        <label for="email">eMail</label>
+        <div class="requirements">
+          ${schema_email.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="address" name="address" required pattern=`${schema_address.pattern}` value=`${record.address}` placeholder=" ">
+        <label for="address">Address</label>
+        <div class="requirements">
+          ${schema_address.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="city" name="city" required pattern=`${schema_city.pattern}` value=`${record.city}` placeholder=" ">
+        <label for="city">City</label>
+        <div class="requirements">
+          ${schema_city.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="province" name="province" required pattern=`${schema_province.pattern}` value=`${record.province}` placeholder=" ">
+        <label for="province">Province</label>
+        <div class="requirements">
+          ${schema_province.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="postal_code" name="postal_code" required pattern=`${schema_postal_code.pattern}` value=`${record.postal_code}` placeholder=" ">
+        <label for="postal_code">Postal Code</label>
+        <div class="requirements">
+          ${schema_postal_code.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="country" name="country" required pattern=`${schema_country.pattern}` value=`${record.country}` placeholder=" ">
+        <label for="country">Country</label>
+        <div class="requirements">
+          ${schema_country.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="fideid" name="fideid" pattern=`${schema_fide_id.pattern}` value=`${record.fideid}` placeholder=" ">
+        <label for="fideid">FIDE ID</label>
+        <div class="requirements">
+          ${schema_fide_id.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="cfcid" name="cfcid" pattern=`${schema_cfc_id.pattern}` value=`${record.cfcid}` placeholder=" ">
+        <label for="cfcid">CFC ID</label>
+        <div class="requirements">
+          ${schema_cfc_id.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="cfcexpiry" name="cfcexpiry" pattern=`${schema_cfc_expiry.pattern}` value=`${record.cfcexpiry}` placeholder=" ">
+        <label for="cfcexpiry">CFC Expiry</label>
+        <div class="requirements">
+          ${schema_cfc_expiry.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="cccexpiry" name="cccexpiry" pattern=`${schema_ccc_expiry.pattern}` value=`${record.cccexpiry}` placeholder=" ">
+        <label for="cccexpiry">CCC Expiry</label>
+        <div class="requirements">
+          ${schema_ccc_expiry.error}
+        </div>
+      </div>
+
+      <div>
+        <input type="text" id="events" name="events" pattern=`${schema_events.pattern}` value=`${record.events}` placeholder=" ">
+        <label for="events">Events</label>
+        <div class="requirements">
+          ${schema_events.error}
+        </div>
+
+        <select>
+          <option value="">Event IDs</option>
+          <for|key, event| in=events>
+            <option value=`${event.id}`>(${event.id}) ${event.name}</option>
+          </for>
+        </select>
+      </div>
+
+      <div>
+        <input id="object_id" name="object_id" type="hidden" value=`${object_id}`>
+      </div>
+
+      <button type="submit" id="submit" class="button button__action button__wide button__xl button__centered">Update</button>
+
+    </form>
+  </if>
+</if>
+
+
+<if(method === 'post')>
+  POST
+</if>
+
+
+  </@body>
+</layout>

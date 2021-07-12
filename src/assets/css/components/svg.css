@@ -1,0 +1,186 @@
+
+/* SVG.CSS */
+
+
+/* https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4#.sff1aza1n */
+.svg-icon {
+  display: inline-flex;
+  align-self: center;
+  position: relative;
+  height: 1em;
+  width: 1em;
+}
+
+.svg-icon svg {
+  height: 1em;
+  width: 1em;
+  fill: transparent;
+  stroke: var(--icon-color);
+}
+
+.svg-icon.svg-baseline svg {
+  bottom: -.125em;
+  position: absolute;
+}
+
+
+
+
+.watermark svg {
+  height: 2em;
+  width: 2em;
+  background-color: rgba(255, 255, 255, 0);
+  fill: rgba(255, 255, 255, .5);
+  transform-origin: 50% 50%;
+  transform: perspective(10em) rotate3d(1, 1, 0, 45deg);
+}
+
+.qrcode svg {
+  height: 8em;
+  width: 8em;
+  background-color: rgba(255, 255, 255, 0);
+  fill: var(--secondary-color);
+  transform-origin: 50% 50%;
+  transform: perspective(10em) rotate3d(1, 1, 0, 45deg);
+}
+
+
+
+
+.staunton {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  /*display: inline;
+  background-position: 50% 100%;
+  background-repeat: no-repeat;*/
+
+  &__piece {
+  /*display: inline-block;*/
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 120px;
+
+    &--wk {
+    background-image: url("../svg/staunton/wk.svg");
+    background-size: auto 100%;
+    }
+
+    &--bk {
+    background-image: url("../svg/staunton/bk.svg");
+    background-size: auto 100%;
+    }
+
+    &--wq {
+    background-image: url("../svg/staunton/wq.svg");
+    background-size: auto 90%;
+    }
+
+    &--bq {
+    background-image: url("../svg/staunton/bq.svg");
+    background-size: auto 90%;
+    }
+
+    &--wr {
+    background-image: url("../svg/staunton/wr.svg");
+    background-size: auto 62%;
+    }
+
+    &--br {
+    background-image: url("../svg/staunton/br.svg");
+    background-size: auto 62%;
+    }
+
+    &--wb {
+    background-image: url("../svg/staunton/wb.svg");
+    background-size: auto 82%;
+    }
+
+    &--bb {
+    background-image: url("../svg/staunton/bb.svg");
+    background-size: auto 82%;
+    }
+
+    &--wn {
+    background-image: url("../svg/staunton/wn.svg");
+    background-size: auto 67%;
+    }
+
+    &--bn {
+    background-image: url("../svg/staunton/bn.svg");
+    background-size: auto 67%;
+    }
+
+    &--wp {
+    background-image: url("../svg/staunton/wp.svg");
+    background-size: auto 60%;
+    }
+
+    &--bp {
+    background-image: url("../svg/staunton/bp.svg");
+    background-size: auto 60%;
+    }
+  }
+
+  &__piece-sm {
+  width: 30px;
+  height: 60px;
+  }
+
+  &__piece-lg {
+  width: 120px;
+  height: 240px;
+  }
+}
+
+
+/*.staunton {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.staunton svg {
+  width: 60px;
+  height: 120px;
+  transform-origin: 50% 100%;
+}
+
+.wk svg,
+.bk svg {
+  transform: scale(1, 1);
+  height: 120px;
+}
+
+.wq svg,
+.bq svg {
+  transform: scale(1, 1);
+  height: 108px;
+}
+
+.wr svg,
+.br svg {
+  transform: scale(1, 1);
+  height: 78px;
+}
+
+.wb svg,
+.bb svg {
+  transform: scale(1, 1);
+  height: 96px;
+}
+
+.wn svg,
+.bn svg {
+  transform: scale(1, 1);
+  height: 84px;
+}
+
+.wp svg,
+.bp svg {
+  transform: scale(1, 1);
+  height: 72px;
+}*/

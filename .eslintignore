@@ -1,0 +1,5 @@
+/node_modules/**
+/configs/**
+/dist/**
+#/src/chess-kit/**
+#/src/hapi/**

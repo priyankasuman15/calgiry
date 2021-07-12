@@ -1,0 +1,160 @@
+<layout>
+  <@body>
+
+
+$ {
+
+  const error = out.global.error;
+  const addresses = out.global.context.addresses;
+
+  const schemas = require('../configs/schemas');
+
+  const schema_password = schemas.getSchema('password');
+  const schema_name = schemas.getSchema('name');
+  const schema_dob = schemas.getSchema('date');
+  const schema_sex = schemas.getSchema('sex');
+  const schema_phone = schemas.getSchema('phone');
+  const schema_email = schemas.getSchema('email');
+  const schema_address = schemas.getSchema('address');
+  const schema_city = schemas.getSchema('city');
+  const schema_province = schemas.getSchema('province');
+  const schema_postal_code = schemas.getSchema('postal_code');
+  const schema_country = schemas.getSchema('country');
+  const schema_cfc = schemas.getSchema('cfc');
+
+  const name = out.global.name || '';
+  const dob = out.global.dob || '';
+  const sex = out.global.sex || '';
+  const phone = out.global.phone || '';
+  const email = out.global.email || '';
+  const address = out.global.address || '';
+  const city = out.global.city || '';
+  const province = out.global.province || '';
+  const postal_code = out.global.postal_code || '';
+  const country = out.global.country || '';
+  const cfc = out.global.cfc || '';
+
+}
+
+
+
+
+<if(error)>
+  <div class="message message__error">
+    ${error.output.payload.statusCode} ${error.output.payload.error}<br>
+    ${error.output.payload.message}
+  </div>
+</if>
+
+
+<h1>Calgary Chess Club<br>Membership Registration</h1>
+
+<div class="message message__warning">
+  <p>If you believe that your eMail address is already on file with us, try <a href="/reset">Reset Password</a> before registering a new account! Any questions about the registration process can be directed to <a href=`mailto:${addresses.admin}`>${addresses.admin}</a></p>
+</div>
+
+<form method="post" action="/register">
+
+  <div>
+    <input type="email" id="email" name="email" required pattern=`${schema_email.pattern}` value=`${email}` placeholder=" ">
+    <label for="email">eMail</label>
+    <div class="requirements">
+      ${schema_email.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="password" id="password" name="password" required pattern=`${schema_password.pattern}` placeholder=" ">
+    <label for="password">PassWord</label>
+    <div class="requirements">
+      ${schema_password.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="name" name="name" required pattern=`${schema_name.pattern}` value=`${name}` placeholder=" ">
+    <label for="name">Name (Last, First)</label>
+    <div class="requirements">
+      ${schema_name.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="dob" name="dob" required pattern=`${schema_dob.pattern}` value=`${dob}` placeholder=" ">
+    <label for="dob">Date Of Birth</label>
+    <div class="requirements">
+      ${schema_dob.error}
+    </div>
+  </div>
+
+    <div>
+      <input type="text" id="sex" name="sex" required pattern=`${schema_sex.pattern}` value=`${sex}` placeholder=" ">
+      <label for="sex">Sex</label>
+      <div class="requirements">
+        ${schema_sex.error}
+      </div>
+    </div>
+
+  <div>
+    <input type="text" id="phone" name="phone" required pattern=`${schema_phone.pattern}` value=`${phone}` placeholder=" ">
+    <label for="phone">Phone</label>
+    <div class="requirements">
+      ${schema_phone.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="cfc" name="cfc" pattern=`${schema_cfc.pattern}` value=`${cfc}` placeholder=" ">
+    <label for="cfc">CFC ID</label>
+    <div class="requirements">
+      ${schema_cfc.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="address" name="address" required pattern=`${schema_address.pattern}` value=`${address}` placeholder=" ">
+    <label for="address">Address</label>
+    <div class="requirements">
+      ${schema_address.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="city" name="city" required pattern=`${schema_city.pattern}` value=`${city}` placeholder=" ">
+    <label for="city">City</label>
+    <div class="requirements">
+      ${schema_city.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="province" name="province" required pattern=`${schema_province.pattern}` value=`${province}` placeholder=" ">
+    <label for="province">Province</label>
+    <div class="requirements">
+      ${schema_province.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="postalschema_code" name="postal_code" required pattern=`${schema_postal_code.pattern}` value=`${postal_code}` placeholder=" ">
+    <label for="postal_code">Postal Code</label>
+    <div class="requirements">
+      ${schema_postal_code.error}
+    </div>
+  </div>
+
+  <div>
+    <input type="text" id="country" name="country" required pattern=`${schema_country.pattern}` value=`${country}` placeholder=" ">
+    <label for="country">Country</label>
+    <div class="requirements">
+      ${schema_country.error}
+    </div>
+  </div>
+
+  <button type="submit" id="submit" class="button button__action button__wide button__xl button__centered">Register</button>
+
+</form>
+
+
+  </@body>
+</layout>

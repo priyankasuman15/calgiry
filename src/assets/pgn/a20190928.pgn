@@ -1,0 +1,82 @@
+[Event "Junior Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.09.28"]
+[Round "1"]
+[White "Wang, Elon"]
+[Black "Wang, Paul"]
+[Result "0-1"]
+[ECO "C69"]
+[WhiteElo "1794"]
+[BlackElo "1960"]
+[Annotator "Wang,P"]
+[PlyCount "94"]
+[EventDate "2019.09.28"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.10.12"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.10.12"]
+[SourceQuality "1"]
+[WhiteTeam "North"]
+[BlackTeam "South"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Be3 $11 ({Usually White plays} 9. Rd3) 9... Bd6 10. Nbd2 Nf6 11.
+h3 Bh5 12. Re1 O-O 13. Nh2 Rad8 14. f3 Bf7 15. Ng4 Be6 16. a3 (16. Nxf6+ gxf6 (
+16... Rxf6 $2 17. Bg5 $16) 17. g4 Rf7 $11) 16... a5 17. c4 Nxg4 18. hxg4 b6 19.
+Rac1 Rfe8 20. Nf1 Be7 21. c5 b5 22. Red1 Bb3 23. Rd2 a4 24. Kf2 Kf7 25. Rxd8
+Rxd8 26. Nd2 Be6 27. Ke2 Kg6 28. Rf1 Bg5 29. Bxg5 Kxg5 $11 30. Ke3 {The
+position is too drawish, and I decided to do something with} h5 31. gxh5 Kxh5
+32. Rh1+ Kg5 33. Re1 $11 Bc4 $5 34. Nxc4 bxc4 35. Ke2 $2 {Black's threat was
+obvious, but White loses a pawn regardless} Rb8 36. Rb1 c3 37. Kd3 Rxb2 38.
+Rxb2 $4 $19 cxb2 39. Kc2 Kf4 40. Kxb2 g5 41. Kc3 Kg3 42. Kd2 Kxg2 43. Ke2 Kg3
+44. Ke3 g4 45. fxg4 Kxg4 46. Ke2 Kf4 47. Kd3 Kf3 0-1
+
+[Event "Junior Battle Of Alberta"]
+[Site "Red Deer"]
+[Date "2019.09.28"]
+[Round "2"]
+[White "Wang, Paul"]
+[Black "Wang, Elon"]
+[Result "1-0"]
+[ECO "B70"]
+[WhiteElo "1960"]
+[BlackElo "1794"]
+[Annotator "Wang,P"]
+[PlyCount "61"]
+[EventDate "2019.09.28"]
+[EventType "team-match"]
+[EventRounds "2"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.10.12"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.10.12"]
+[SourceQuality "1"]
+[WhiteTeam "South"]
+[BlackTeam "North"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 c5 7. h3 cxd4 {
+Now the position transforms into a weird Sicillian structure} 8. Nxd4 Bd7 9.
+O-O Nc6 10. Be3 Rc8 11. Qd2 Ne5 12. b3 $11 Qc7 $6 {White's N/c3 gets into some
+trouble here} 13. Nd5 Nxd5 14. exd5 f5 $6 (14... e6 $5 15. dxe6 (15. f4 exd5
+16. fxe5 dxe5 17. Nf3 e4 18. Nd4 Qxg3 $11) 15... fxe6 16. c4 $14) 15. c4 a6 16.
+Rac1 Qb8 17. f4 Nf7 18. Ne6 $5 {Giving up the e6 square for a new advantage;
+the bishop pair and domination} Bxe6 19. dxe6 Nd8 20. Bb6 Nc6 (20... Nxe6 $2
+21. Bd5) 21. g4 $6 {White attacks immediately, but now his opponent has an
+interesting series of moves} Rce8 $6 (21... a5 $1 22. a3 Qa8 23. g5 Qa6 {
+frees Black's position a little}) 22. a4 $6 Na7 $6 ({Black should play} 22...
+a5 {when square b4 also falls under his control}) 23. gxf5 $6 {The capture
+frees Black's position} Rxf5 24. Be4 Rff8 $6 ({Black has some chances after}
+24... Rh5 25. Kg2 Nc6 26. Bf3 Rf5 27. Bg4 Rf6 $14) 25. f5 gxf5 26. Bxf5 Nc8 $4
+$18 27. Be3 $4 {White returns the favour at once} ({Black is doomed after} 27.
+Bd4 $1 Rf6 (27... Bxd4+ 28. Qxd4 Rf6 29. Qh4 h6 30. Kh1 $18) 28. Qg5 d5 29.
+Bxf6 exf6 30. Bxh7+ Kxh7 31. Qh5+ $18) 27... d5 28. Qg2 Nd6 $4 ({Instead} 28...
+Qe5 $1 {activates the queen and stops White's threats after} 29. Bh6 Nd6 30.
+Bd3 Kh8 31. Qxg7+ Qxg7+ 32. Bxg7+ Kxg7 33. cxd5 $14) 29. Bh6 Qa7+ 30. c5 Nxf5
+31. Rxf5 1-0
+

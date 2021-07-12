@@ -1,0 +1,50 @@
+
+/* STICKY.CSS */
+
+
+.sponsor {
+  width: 200px;
+  height: 80px;
+  margin: 20px 10px;
+  overflow: hidden;
+  border-radius: 4px;
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: var(--white-90);
+  box-shadow: 4px 4px 8px rgba(0,0,0,.5);
+}
+
+.sponsor span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.sponsor span:first-child {
+  width: 120px;
+}
+
+.sponsor span:nth-child(2) {
+  width: 60px;
+  margin: 10px;
+}
+
+.sponsor h3,
+.sponsor p {
+  width: 120px;
+  margin: 0;
+  line-height: 1;
+  text-align: right;
+}
+
+.sponsor h3 {
+  font-size: 1.4rem;
+}
+
+.sponsor p {
+  font-size: 1rem;
+  text-transform: lowercase;
+}
+
+.sponsor a {
+  text-decoration: none;
+  border: none;
+}

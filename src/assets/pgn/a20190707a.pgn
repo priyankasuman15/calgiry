@@ -1,0 +1,44 @@
+[Event "Canadian Youth Championship U16"]
+[Site "Regina"]
+[Date "2019.07.10"]
+[Round "7"]
+[White "Vasic, Maxim"]
+[Black "Li, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "1964"]
+[BlackElo "1841"]
+[Annotator "Vasic,M"]
+[PlyCount "105"]
+[EventDate "2019.07.07"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+[SourceVersionDate "2019.06.26"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. Nf3 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bg7 $2 {A rare and dull move!} 10. e5 Nd5 11. h4 ({I learned after the
+game that} 11. a4 {is even stronger}) 11... Qa5 $2 {Aggressive, and suicidal}
+12. hxg5 Nxc3 13. Qd2 b4 14. bxc3 bxc3 15. Qc2 $2 {There's no need to believe
+in Black's counterplay by blockading the intruding pawn. White only invites
+his opponent to land the knight on b4 after} Na6 16. Rc1 Bf8 {A sad-looking
+move} 17. Kf1 ({While the side-step with the king is fine, objectively
+castling with} 17. O-O {is better since White avoids any and all random
+tactical tricks}) 17... Rb8 18. g6 $1 Rb2 19. Qe4 $2 {Far too cautious!} ({
+Curiously White does not prefer} 19. gxf7+ {forcing} Kd7 {when Black's
+kingside disintegrates without significant counterplay on the queenside}) 19...
+Nb4 20. Qf4 $4 {Good grief. Another losing move!} ({Naturally} 20. gxf7+ {
+is much better once again}) 20... fxg6 21. Qf6 Rg8 22. Ng5 {The excursion of
+the knight does not actually work, but it probably is White's best try} hxg5
+23. Rh7 Rg7 24. Rh8 $2 Rf7 25. Qxg6 Rxe2 26. Rh7 Qc7 27. Kxe2 Nd5 28. Rb1 c2
+29. Rb8 $4 Nb6 $2 ({Both of us missed the simple} 29... c1=Q 30. Rxc8+ Kd7 $1 {
+when Black is easily winning}) 30. Qxe6+ Re7 31. Qg6+ $2 (31. Rxe7+ {wins
+without fuss}) 31... Kd8 32. Rh8 Nd7 33. Rxc8+ Qxc8 34. Qxc2 Qa6 35. Kf3 Qa3+
+36. Kg4 Qd3 {Here Black offered a draw, for the third time in the game I think,
+which I declined on grounds that my opponent seemed scared. Objectively
+however, Benjamin should be trying to win here} 37. Qxd3 cxd3 38. Kf3 Ke8 (
+38... c5 $142 $138) 39. Ke3 c5 40. Kxd3 cxd4 41. Kxd4 Kf7 42. Rh1 Bg7 43. Re1
+Ke6 44. f4 gxf4 45. Bxf4 Kf5 46. Rf1 Kg4 47. Kd5 Nxe5 48. Be3 Ng6 49. Bc5 Rd7+
+50. Ke6 Rc7 51. Bd6 Rc6 52. Kd5 Rc2 53. Rf7 {This time I took the draw offer.
+But Black should be trying to win} 1/2-1/2
+

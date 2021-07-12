@@ -1,0 +1,26 @@
+$ {
+
+  'use strict';
+
+
+  const needle = out.global.page;
+  const metas = out.global.context.meta;
+
+
+  function getTags() {
+
+    for (let i = 0; i < metas.length; i++) {
+      if (metas[i].page === needle) {
+        return metas[i].tags;
+      }
+    }
+
+    return '';
+  }
+
+  const output = getTags();
+
+}
+
+
+<span>${output}</span>

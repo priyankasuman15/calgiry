@@ -1,0 +1,266 @@
+[Event "Canadian Seniors Championship"]
+[Site "Kitchener"]
+[Date "2019.08.02"]
+[Round "1"]
+[White "Findlay, Ian"]
+[Black "Marghetis, Aris"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2335"]
+[BlackElo "1886"]
+[Annotator "Findlay,I"]
+[PlyCount "114"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 Nbd7 (5... c6 {is the most
+popular option here, but the text is fine}) 6. Nf3 c6 7. Bh6 O-O 8. O-O-O Qa5 (
+{The Q/a5 can be exposed to a possible tactic with Nd5 later on, which is why
+the engine prefers} 8... Qc7) 9. Kb1 Bxh6 $6 {Probably better is just to
+continue developing and ignore this bishop. Black now has to waste time
+extricating the queen from h6} 10. Qxh6 Qh5 11. Qd2 Kg7 12. Bd3 b5 13. Ne2 {
+A multi purpose move! White stops ...b4, has Ng3 ready to attack the
+opponent's queen, and frees up square/c3 for his own queen. The latter idea
+happens in the game} e5 14. Ng3 Qg4 15. Qc3 Bb7 16. dxe5 dxe5 17. Nxe5 Nxe5 18.
+Qxe5 Rfe8 19. Qc5 Nd7 20. Qd4+ Ne5 21. h4 a5 22. h5 Qf4 23. Ne2 Qf6 24. f4 Ng4
+25. e5 Qd8 26. Qg1 $1 {White needs to keep queens on the board for his attack
+to work, and the retreat played stops ...Nf2. Black will have to let the
+opposing queen back in the game soon anyway, since a discovered attack along
+the d/file forces his own queen to sidestep immediately} Qe7 27. Be4 {White
+opens the d/file, puts pressure on the pawn/c6 and with Bf3 coming next also
+quizzes Black's N/g4 as to his intentions} Rad8 28. Qb6 f5 29. Bf3 Rb8 30. hxg6
+hxg6 31. Rd6 Red8 32. Rhd1 Rxd6 33. exd6 Qd7 34. Bxg4 fxg4 35. Qd4+ Kg8 36. Ng3
+$2 {This allows Black to activate his bishop for the price of a pawn and
+prolong the game needlessly} ({The quickest route to victory is} 36. Rh1 Qg7
+37. Qe3 Rf8 38. Nd4 Qd7 39. Qe5 Qg7 40. Qxg7+ Kxg7 41. Ne6+) 36... c5 $1 37.
+Qxc5 Bxg2 38. Qc7 Rd8 39. Qxa5 Bf3 40. Rd4 Rc8 41. Qd2 Rd8 42. f5 Kf7 43. Qg5
+Rg8 44. Rf4 $2 ({More accurate is} 44. fxg6+ Rxg6 45. Rf4+) 44... Qxd6 45.
+fxg6+ Ke8 46. Qxb5+ Bc6 47. Qe2+ Kd8 48. Rxg4 Re8 49. g7 Rxe2 50. g8=Q+ Re8 51.
+Qg5+ Kc7 52. b3 Re1+ 53. Kb2 Qd1 54. Rc4 Qa1+ 55. Ka3 Qh8 56. Qf4+ Re5 57. Rc5
+Qd8 1-0
+
+[Event "Canadian Seniors Championship"]
+[Site "Kitchener"]
+[Date "2019.08.03"]
+[Round "2"]
+[White "Regis, Isaias"]
+[Black "Findlay, Ian"]
+[Result "0-1"]
+[ECO "B77"]
+[WhiteElo "2090"]
+[BlackElo "2335"]
+[Annotator "Findlay,I"]
+[PlyCount "88"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Be3 O-O 8. f3
+Nc6 9. Qd2 Bd7 10. g4 Ne5 11. Bb3 Rc8 12. Bh6 {Maybe premature as Black gets
+some initiative on the queenside} ({Here} 12. O-O-O {or}) (12. h4 {are
+reasonable alternatives}) 12... Bxh6 13. Qxh6 Rxc3 $5 {Probably it is better
+not to sacrifice the exchange right away} ({The engine likes} 13... a5 14. a4
+Qb6 15. O-O-O Rxc3 16. bxc3 Qc5 {better}) 14. bxc3 Qa5 15. Qd2 Rc8 16. O-O Rxc3
+17. Rad1 Qc7 $2 (17... Qc5 $142 18. Kg2 b5 {with good play on the queenside})
+18. a4 Rc5 19. h3 a5 20. Qg2 Nc4 21. Qf2 h5 {The idea here is to stop White
+from expanding with f4, since the g4 pawn then becomes vulnerable} 22. Rfe1 Kg7
+23. Rd3 {I am not sure if this was an oversight or a planned sacrifice, but I
+rather unwisely took the bait} Nb2 24. Rde3 Nxa4 $2 ({It is necessary to play}
+24... e5 {first, since the text allows White to take over the initiative}) 25.
+Qd2 $2 $17 ({Much stronger is} 25. f4 $1 Nc3 26. e5 Nfd5 27. e6 Nxe3 28. Qxe3
+Nd5 29. Bxd5 Rxd5 30. c4 Rc5 31. Qc3 Kg8 32. exd7 Qxd7 $16) 25... Nb6 26. c3 a4
+27. Ba2 Nc4 28. Bxc4 Rxc4 29. g5 Nh7 30. h4 Nf8 31. f4 Ne6 {White's attack is
+stopped just in time, leaving his loose position ready for the opponent to
+pick apart} 32. Nxe6+ Bxe6 33. Qf2 Qc5 34. Kg2 b5 35. f5 gxf5 36. exf5 Bxf5 37.
+Rxe7 Rg4+ 38. Kf1 Bd3+ 39. R1e2 Qxf2+ 40. Kxf2 Bxe2 41. Kxe2 a3 42. Kd3 a2 43.
+Re1 Rxh4 44. Kc2 Ra4 0-1
+
+[Event "Canadian Seniors Championship"]
+[Site "Kitchener"]
+[Date "2019.08.03"]
+[Round "3"]
+[White "Findlay, Ian"]
+[Black "Cummings, David"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2335"]
+[BlackElo "2415"]
+[Annotator "Findlay,I"]
+[PlyCount "44"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+
+{Despite us both living in Toronto together for about 20 years, I believe,
+this was the first tournament game that we have played! We both took hiatuses
+from chess in that period,so less likely that we played than it sounds.} 1. e4
+e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Be3 Bxf3
+9. Qxf3 Qxf3 10. gxf3 Ne7 {Although frequently played, I cannot believe this
+is good. White is allowed to advance with the f/pawn} ({Most popular here is}
+10... Bd6) 11. f4 exf4 12. Bxf4 Kd7 $146 {This would appear to be a novelty,
+but it makes perfect sense to keep the king in the center} (12... O-O-O {
+looks slightly worse, since the king is offside on c8 and the queen's rook
+probably does not belong on d8}) 13. Nd2 ({The move played looks natural
+enough, but} 13. Kh2 {stops Black's kingside expansion ...g5-g4 and ...f5
+which would give the second player a comfortable space advantage. During the
+game I wasn't sure if such play on the kingside was actually to Black's
+advantage. White probably wants to play f4 again himself and open that sector
+of the board}) 13... g5 14. Be3 Bg7 15. f4 $1 {It is important not to allow
+Black to complete his expansion with ...g4 and ...f5} gxf4 ({After} 15... Bxb2
+16. Rab1 {Black drops a pawns on b7 or f7}) 16. Rxf4 Rhg8 17. Kf2 {The king is
+best placed in the center} (17. Kh1 {leaves the king cut off and subject to a
+kingside attack}) 17... f5 18. c3 Raf8 19. Rg1 $6 (19. Rf3 $14 {prevents the
+coming exchanges beginning with ...Bh6 and leaves White slightly better}) 19...
+b6 $6 ({Better is} 19... Bh6 {immediately}) 20. Ke2 $6 ({Once again} 20. Rf3 {
+should be considered}) 20... Bh6 21. Rff1 Bxe3 22. Kxe3 fxe4 {The engines
+agree that the position is dead level} 1/2-1/2
+
+[Event "Canadian Seniors Championship"]
+[Site "Kitchener"]
+[Date "2019.08.04"]
+[Round "4"]
+[White "Findlay, Ian"]
+[Black "Plotkin, Victor"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2335"]
+[BlackElo "2381"]
+[Annotator "Findlay,I"]
+[PlyCount "65"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 Nc6 8.
+O-O-O Nxd4 9. Qxd4 a6 10. f3 Be6 11. g4 b5 12. Kb1 Nd7 13. h4 $5 Bxh4 {Black
+accepts the pawn sacrifice, but now the bishop ends up out of play for a long
+time} 14. Qd2 {Played instantly, and not at all bad} ({The engine likes} 14.
+Qg1 g5 15. Bc1 f6 16. Ne2 {[%cal Ge2d4,Gd4f5] even better, when the knight
+cycles to the excellent square/f5}) 14... g5 15. Be3 f6 $6 {Now White
+maneuvers his knight to f5} ({Better is} 15... Ne5 {forcing} 16. Be2) 16. Ne2
+$1 {[%cal Ge2d4,Gd4f5]} Ne5 17. Nd4 Qe7 18. Be2 Rf7 19. Nf5 Bxf5 20. gxf5 Kh8
+21. b3 $1 {White has a plan of bringing his bishop to d4, followed by playing
+f4. When the opponent tries to stop this, White's play shifts to the queenside}
+Rff8 22. Rdg1 Rg8 23. Rg2 Rg7 24. Bd4 c5 25. Bb2 Rag8 26. Rd1 Rd8 27. Qa5 Rgg8
+28. Qxa6 b4 29. Rd5 $6 ({Better is the elimination of the pawn/b4 with} 29. a3)
+29... h6 30. Rg1 $6 ({Much better for White is} 30. Rh2 Kh7 31. f4 Nf7 32. Qd3)
+30... Kh7 31. Rgd1 $2 {A bad idea that lets Black achieve his fortress and
+return the wayward bishop back into the game} Nf7 32. Qd3 Bg3 33. f4 $6 {
+After this tricky move I offered a draw, frustrated that my position has gone
+from much better to a little worse. Victor, with just under two minutes left
+on his clock and a 1/2 point lead in the tournament, accepted happily. He
+added, very practically, "too difficult to calculate"} 1/2-1/2
+
+[Event "Canadian Seniors Championship"]
+[Site "Kitchener"]
+[Date "2019.08.04"]
+[Round "5"]
+[White "Rek, Viatcheslav"]
+[Black "Findlay, Ian"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2342"]
+[BlackElo "2335"]
+[Annotator "Findlay,I"]
+[PlyCount "83"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 Be6 10. O-O-O Nxd4 11. Bxd4 Qa5 12. Kb1 Rfc8 13. Nd5 $2 {A
+transposition error} ({First} 13. h4 {is much better}) 13... Qxd2 14. Rxd2 $6 (
+14. Nxf6+ {avoids material loss}) 14... Nxd5 15. Bxg7 Nb4 16. a3 Ba2+ 17. Ka1
+Nxc2+ 18. Kxa2 Kxg7 19. Rd3 Rc6 20. e5 dxe5 21. Rd7 e6 22. Rxb7 Rb6 23. Rxb6
+axb6 24. Kb3 Nd4+ 25. Kb4 Rc8 26. Bd3 Nxf3 27. Kb5 Nd4+ 28. Kxb6 Rb8+ 29. Kc5
+Rxb2 30. a4 Ra2 31. Kb4 f5 32. Bc4 Rb2+ 33. Kc5 Kf6 34. a5 Nb3+ $2 {For some
+reason I thought incorrectly that I had to trade my knight for his bishop} ({
+Easier is the variation} 34... Rb8 35. a6 Rc8+ 36. Kb4 e4 37. gxf5 gxf5 38. Kc3
+Nb5+ 39. Kb3 Nd6 40. Be2 f4) 35. Bxb3 Rxb3 36. gxf5 Ra3 $2 {I thought that
+White ends up dominating my king if he puts his rook behind the pawn,
+eventually winning decisive material. But Plotkin explained afterwards that
+surely three pawns dominate a rook!} ({The pawns prevail after the more natural
+} 36... exf5 37. Ra1 Rb8 38. a6 f4 39. Kd5 Kf5 40. a7 Ra8 41. Ra3 g5 $19) 37.
+Kb4 Ra2 38. fxg6 hxg6 39. Rf1+ Kg5 40. Rg1+ Kf5 41. Rf1+ Kg5 42. Rg1+ 1/2-1/2
+
+[Event "Canadian Seniors Championship"]
+[Site "Kitchener"]
+[Date "2019.08.05"]
+[Round "6"]
+[White "Barron, Michael"]
+[Black "Findlay, Ian"]
+[Result "0-1"]
+[ECO "A36"]
+[WhiteElo "2319"]
+[BlackElo "2335"]
+[Annotator "Findlay,I"]
+[PlyCount "80"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+
+1. e4 c5 2. c4 $1 {I told Michael last year that he should avoid my opening
+preparation, after he played into my Dragon and lost without leaving my
+homework} Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 e6 6. Nge2 Nge7 7. O-O O-O 8. d3 d6 9.
+Bf4 $5 Nd4 ({It seems unnatural to put the bishop where Black can attack it
+with} 9... e5 {However, that continuation looked too symmetrical for me and so
+I tried to mix it up with}) 10. Nxd4 cxd4 11. Nb5 e5 12. Bd2 a6 13. Na3 Bd7 ({
+Probably the bishop is better on e6} 13... Be6) 14. b4 b5 15. Qb3 Rc8 16. Rac1
+Kh8 17. Rc2 f5 $5 {Black gets compensation, but at the time I did not realize
+this advance amounts to a pawn sacrifice} 18. exf5 gxf5 19. Bb7 Rb8 20. Bxa6 $2
+bxc4 $4 ({After} 20... f4 $40 {Black has a winning attack}) 21. dxc4 e4 22. c5
+dxc5 23. Rxc5 Qb6 $2 {A waste of time. Now my opponent can try to exchange the
+light squared bishops} (23... Ng6 $17) 24. Bb5 Be6 25. Bc4 Bd7 26. Nb5 $2 (26.
+Bf4 $142) 26... Ng6 27. a4 $2 ({We both missed} 27. Nxd4 Bxd4 28. Rd5) 27... f4
+28. Bc1 Bh3 29. Re1 e3 {Black's attack is too strong} 30. fxe3 fxe3 31. Qd1 Qf6
+32. Kh1 Qf2 33. Rg1 Rbd8 34. Rh5 Bc8 $1 {Repositioning the bishop to the h1-a8
+diagonal is deadly} 35. Rg2 Bb7 36. Bd5 Bxd5 37. Rxd5 Qf1+ 38. Qxf1 Rxf1+ 39.
+Rg1 Rxg1+ 40. Kxg1 Rxd5 {Obviously we were both very tired. But the sheer
+number of mistakes on both sides proves that neither player used an engine
+during the game!} 0-1
+
+[Event "Canadian Seniors Championship"]
+[Site "Kitchener"]
+[Date "2019.08.05"]
+[Round "7"]
+[White "Findlay, Ian"]
+[Black "Loadman, Ian"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "2335"]
+[BlackElo "2083"]
+[Annotator "Findlay,I"]
+[PlyCount "73"]
+[EventDate "2019.08.02"]
+[EventType "swiss"]
+[EventRounds "7"]
+[EventCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Be3
+Bxf3 9. Qxf3 Qxf3 10. gxf3 Bd6 11. Nd2 Ne7 12. Rfb1 {A move played by Shirov
+and Anand that really does not give White very much} Ng6 ({After the immediate
+} 12... f5 13. Bg5 f4 {Black has a playable position}) 13. Kf1 {One of the
+main ideas behind 12.Rfb1 is to free f1 so the king can go to the center.
+Advancing on the queenside with b4 and b5 can wait until later} f5 14. exf5 Nh4
+15. Ke2 Nxf5 16. Rg1 {White moves on to plan B: play on the newly opened
+kingside by building pressure against g7 and e5. White doesn't have much, yet,
+but his opponent needs to stay alert} Kd7 {Probably the king belongs on f7,
+but proximity to the queenside affords Black the opportunity for playing
+actively with ...c5, ...b6 and ...Kc6 later on} 17. Rg5 Raf8 18. Rag1 Rf7 19.
+Ne4 h4 $2 {Black is worried about Ng3, straightening out White's pawns, but
+the pawn on h4 is harder to defend} 20. Rg6 Rb8 21. c3 b6 22. R1g4 Re8 23. b4
+Be7 24. Rg1 Ra8 25. Nd2 Bd6 26. Nc4 Rb8 27. R1g4 Rf6 28. R6g5 Re8 29. Rh5 Rf7
+30. Re4 b5 31. Nd2 Be7 32. Rh7 Bd6 33. Bg5 Be7 34. Rg4 Bxg5 35. Rxg5 Kc8 36.
+Rg6 Kb7 37. Nb3 {Black can fight on with 37...Ne7 but with his king in a box
+such a defense is devoid of any pleasure or prospects as White gradually
+increases his advantage. Although the engines only evaluate this as +1.14 for
+White, Black gracefully resigned. I was happy with my best Magnus impersonation
+} 1-0
+

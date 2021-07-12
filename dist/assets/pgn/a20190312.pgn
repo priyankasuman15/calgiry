@@ -1,0 +1,96 @@
+[Event "Tournament Of Legends blitz"]
+[Site "Calgary"]
+[Date "2019.03.14"]
+[Round "?"]
+[White "Wilson, Ted"]
+[Black "Lapides, Andrew"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2205"]
+[BlackElo "2226"]
+[Annotator "Lapides,A"]
+[PlyCount "77"]
+[EventDate "2019.03.12"]
+[EventType "tourn (blitz)"]
+[EventRounds "22"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Qb6 7. dxc5 Bxc5 8. O-O
+a5 9. b3 Nge7 10. Bf4 Ng6 11. Bg3 O-O 12. Nbd2 f6 13. exf6 Rxf6 14. c4 Raf8 15.
+cxd5 exd5 16. Rc1 Bf5 17. Nb1 Be4 18. Kh1 Kh8 19. a3 Nf4 20. Nc3 Nxe2 21. Nxe2
+Bxa3 22. Ra1 Bb4 23. Rc1 Ba3 24. Ra1 Bc5 25. Rc1 Bxf3 26. gxf3 Rxf3 27. Qxd5
+Bxf2 28. Kg2 R3f5 29. Qd6 Qe3 30. Nf4 Qe4+ ({
+For some reason I thought the bishop on f2 was protected. The right way is}
+30... Rxf4 31. Bxf4 Rxf4 {[%csl Yb8,Yd8,Yf8] when there is no back rank mate,
+and Black himself threatens with several moves that will give mate and after}
+32. Qxf4 Qxf4 33. Rxf2 Qg4+ {is a check and Black has time for 34...h6}) 31.
+Kxf2 g5 ({Black should stop here and think, since he can still win with} 31...
+Rxf4+ 32. Bxf4 Rxf4+ 33. Kg3 (33. Kg1 Rg4+ 34. Kf2 Rg2#) 33... Qe3+ 34. Kg2
+Rg4+ 35. Kh1 Qe4+) 32. Rce1 Qd4+ 33. Qxd4+ Nxd4 34. Re7 gxf4 35. Bh4 Nxb3 36.
+Rb1 Nd4 37. Rbxb7 Rh5 38. Bf6+ Rxf6 39. Rb8+ 1-0
+
+[Event "Tournament Of Legends blitz"]
+[Site "Calgary"]
+[Date "2019.03.12"]
+[Round "?"]
+[White "Huber, Gregory"]
+[Black "Lapides, Andrew"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "2350"]
+[BlackElo "2226"]
+[PlyCount "63"]
+[EventDate "2019.03.12"]
+[EventType "tourn (blitz)"]
+[EventRounds "22"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 c4 8. Bc2
+b5 9. O-O Qb6 10. a4 b4 11. cxb4 Nxb4 12. Bb1 a5 13. Re1 Ba6 14. h4 h6 15. b3
+Rc8 16. bxc4 dxc4 17. Re3 Be7 18. Ne4 Nd5 19. Qc2 f5 20. exf6 N7xf6 21. Nxf6+
+Nxf6 22. Ba3 Bb4 23. Bxb4 axb4 24. Re5 O-O 25. a5 Qd6 26. Ng5 Qxd4 27. Ra4 hxg5
+28. hxg5 Qxe5 29. gxf6 b3 30. Qh7+ Kf7 31. Qxg7+ Ke8 32. Qe7# 1-0
+
+[Event "Tournament Of Legends blitz"]
+[Site "Calgary"]
+[Date "2019.03.14"]
+[Round "22"]
+[White "Lapides, Andrew"]
+[Black "Neven, Knut"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2226"]
+[BlackElo "2258"]
+[Annotator "Neven,K"]
+[PlyCount "78"]
+[EventDate "2019.03.12"]
+[EventType "tourn (blitz)"]
+[EventRounds "22"]
+[EventCountry "CAN"]
+[SourceTitle "Calgary Chess Club"]
+[Source "CCC"]
+[SourceDate "2019.06.19"]
+[SourceVersion "1"]
+[SourceVersionDate "2019.06.19"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nge7 6. Bg2 g6 7. O-O Bg7 8. Qe2
+dxe4 9. dxe4 Nd4 10. Nxd4 cxd4 11. e5 Nc6 12. Nc4 O-O 13. f4 Qc7 14. Bd2 b6 15.
+Nd6 Rd8 16. c4 Bf8 17. Ne4 Bg7 18. Rad1 Bb7 19. Nd6 Rxd6 20. exd6 Qxd6 21. a3
+Rd8 22. Qf2 d3 23. Be3 Ba6 24. c5 bxc5 25. Bxc5 Qc7 26. Rd2 Na5 27. Bxa7 Nc4
+28. Rfd1 Nxd2 29. Bb6 Qc2 30. Rxd2 Qc1+ 31. Bf1 Rc8 32. Be3 Rc2 33. Rxc2 Qxc2
+34. Qxc2 dxc2 35. Bxa6 (35. Bc1 Bd4+ 36. Kg2 Bb7+ 37. Kh3 Be4) 35... Bxb2 (
+35... Bd4 $19) 36. a4 c1=Q+ 37. Bxc1 Bxc1 38. Kf1 Be3 39. Ke2 Bb6 1/2-1/2
+

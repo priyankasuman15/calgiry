@@ -1,0 +1,89 @@
+$ {
+
+  'use strict';
+
+
+  const needle = out.global.page;
+  // const events = require('../../data/events').sort(sortArrayByProperties('asc', 'start'));
+  // const events = require('../../../assets/json/events.json').sort(sortArrayByProperties('asc', 'start'));
+  const events = out.global.eventlist.sort(sortArrayByProperties('asc', 'start'));
+  const startlist = out.global.startlist;
+
+
+  function sortArrayByProperty(order = 'asc', property) {
+
+    return function (a, b) {
+
+      const comparison = (a[property] === b[property]) ? 0 : (a[property] < b[property]) ? -1 : 1;
+      return (order === 'desc') ? comparison * -1 : comparison;
+    };
+  }
+
+
+  function sortArrayByProperties(order = 'asc', ...properties) {
+
+    return function (a, b) {
+
+      let i = 0;
+      let comparison = 0;
+
+      // while there are properties to compare, try to get a different result from 0
+      while (comparison === 0 && i < properties.length) {
+        comparison = sortArrayByProperty(order, properties[i])(a, b);
+        i++;
+      }
+
+      return comparison;
+    };
+  }
+
+
+  function getSchedule() {
+
+    return needle;
+  }
+
+  const output = getSchedule();
+
+}
+
+
+<div class="calendar grid grid--1of2" id=`calendar-${output}`>
+  <div class="grid__cell">
+    <div id="flatpickr-events"></div>
+    <!-- <div class="flatpickr-calendar"></div> -->
+    <!-- <div id="flatpickr-list" class="flatpickr-list"></div> -->
+    <div id="flatpickr-list" class="flatpickr-list">
+
+      <!-- see flatpickr.js -->
+      <for|event, i| of=events>
+        <if(event.active !== 'n')>
+          <div class="event-list" aria-label=`${event.start}`>
+            <div>
+              <span><strong>${event.name}</strong></span>
+              &nbsp;&nbsp;&nbsp;<span class="icon svg-icon svg-baseline"><a href=`./ics/${event.id}.ics`><svg xmlns="http://www.w3.org/2000/svg" class="i-calendar" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"><rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></a></span>
+              <br><span>${event.start} to ${event.end}</span>
+            </div>
+
+            <if(startlist[event.id].length > 0)>
+              <div class="grid-table toggle">
+                <span class="icon svg-icon svg-baseline"><svg xmlns="http://www.w3.org/2000/svg" class="i-users" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg></span><span></span><span></span>
+                <span>##</span><span>Name</span><span class="fide-logo"></span>
+                <for|player, i| of=startlist[event.id]>
+                  <span>${i + 1}.</span>
+                  <span>${player.personal.name.last}, ${player.personal.name.first}</span>
+                  <span><strong>${player.data.cfc.elo.classical}</strong><if(player.data.fide.elo.classical)> (${player.data.fide.elo.classical})</if></span>
+                </for>
+              </div>
+            </if>
+          </div>
+        </if>
+      </for>
+
+    </div>
+  </div>
+
+  <div class="grid__cell">
+    <div class="flatpickr-output" id="flatpickr-events-details"></div>
+  </div>
+</div>

@@ -1,0 +1,75 @@
+{
+  "id": "",
+  "active": "",
+  "name": "",
+  "start": "",
+  "end": "",
+  "location": {
+    "venue": "Calgary Chess Club",
+    "address": "#274 - 3359 27th Street NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postal_code": "T1Y 5E4",
+    "country": "CAN",
+    "phone": "",
+    "email": "info@calgarychess.com"
+  },
+  "organizer": [{
+    "name": {
+      "last": "",
+      "first": ""
+    },
+    "email": ""
+  }],
+  "tournament_director": [{
+    "name": {
+      "last": "",
+      "first": ""
+    },
+    "email": ""
+  }],
+  "format": {
+    "type": "",
+    "sections": "",
+    "players": "",
+    "time_control": "",
+    "rated": {
+      "fide": "",
+      "cfc": ""
+    }
+  },
+  "schedule": [
+    {
+      "date": "",
+      "time": ""
+    }
+  ],
+  "registration": {
+    "deadline": "",
+    "refund": "",
+    "on_site": "",
+    "memberships": {
+      "cfc": "",
+      "ccc": ""
+    },
+    "entry_fee": {
+      "adult": "",
+      "junior": "",
+      "senior": "",
+      "titled": {
+        "gm": "",
+        "wgm": "",
+        "im": "",
+        "wim": "",
+        "fm": "",
+        "cm": "",
+        "nm": ""
+      }
+    }
+  },
+  "prize_fund": {
+    "entries": "",
+    "expenses": ""
+  },
+  "notes": ""
+}

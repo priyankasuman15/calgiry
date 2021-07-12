@@ -1,0 +1,15 @@
+[
+  { "figurine": "K", "unicode": "U+E800", "javascript": "\uE800", "hexadecimal": "&#xE800;", "decimal": "&#59392;" },
+  { "figurine": "Q", "unicode": "U+E801", "javascript": "\uE801", "hexadecimal": "&#xE801;", "decimal": "&#59393;" },
+  { "figurine": "R", "unicode": "U+E802", "javascript": "\uE802", "hexadecimal": "&#xE802;", "decimal": "&#59394;" },
+  { "figurine": "B", "unicode": "U+E803", "javascript": "\uE803", "hexadecimal": "&#xE803;", "decimal": "&#59395;" },
+  { "figurine": "N", "unicode": "U+E804", "javascript": "\uE804", "hexadecimal": "&#xE804;", "decimal": "&#59396;" },
+  { "figurine": "P", "unicode": "U+E805", "javascript": "\uE805", "hexadecimal": "&#xE805;", "decimal": "&#59397;" },
+  { "figurine": "k", "unicode": "U+E806", "javascript": "\uE806", "hexadecimal": "&#xE806;", "decimal": "&#59398;" },
+  { "figurine": "q", "unicode": "U+E807", "javascript": "\uE807", "hexadecimal": "&#xE807;", "decimal": "&#59399;" },
+  { "figurine": "r", "unicode": "U+E808", "javascript": "\uE808", "hexadecimal": "&#xE808;", "decimal": "&#59400;" },
+  { "figurine": "b", "unicode": "U+E809", "javascript": "\uE809", "hexadecimal": "&#xE809;", "decimal": "&#59401;" },
+  { "figurine": "n", "unicode": "U+E80U", "javascript": "\uE80A", "hexadecimal": "&#xE80A;", "decimal": "&#59402;" },
+  { "figurine": "p", "unicode": "U+E80U", "javascript": "\uE80B", "hexadecimal": "&#xE80B;", "decimal": "&#59403;" }
+]
+

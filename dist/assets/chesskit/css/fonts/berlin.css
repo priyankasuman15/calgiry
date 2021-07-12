@@ -1,0 +1,19 @@
+
+
+/* FIGURINE FONT FACE */
+
+@font-face {
+  font-family: 'berlin';
+  src: url('../../../chesskit/fonts/berlin.eot');
+  src: url('../../../chesskit/fonts/berlin.eot?#iefix') format('embedded-opentype'),
+       url('../../../chesskit/fonts/berlin.woff') format('woff'),
+       url('../../../chesskit/fonts/berlin.ttf') format('truetype'),
+       url('../../../chesskit/fonts/berlin.svg#berlin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.berlin {
+  font-family: 'berlin';
+}
+

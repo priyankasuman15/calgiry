@@ -1,0 +1,127 @@
+
+
+Hello Asif,
+
+Please read and execute the following instructions and notes carefully and in order. The archive you received contains everything you need to prepare your development machine, setup and configure the required tools etc, and build the web application ready for uploading to a production server of your choice. My own preference is a custom server over which I have complete control - it hosts dozens of sites - but you might not want to bother with that and default to 3rd party hosting. For a basic set of recommendations r.e. the custom server you might configure, see below...
+
+That said, you have already expressed familiarity with NodeJS. Great, you will have your own setup and preferences!
+
+Where possible I have included important notes, see the last section, that otherwise might get you in trouble. The reference to patching request.js is particularly important. If you follow the recipes below, you should have zero problems.
+
+In fact, the archive you received is an exact copy, byte for byte, of the same project folder on my own development machine, save for you having to fill in placeholders for several configuration details in a pair of environment files.
+
+
+
+
+
+
+
+
+DEVELOPMENT SERVER
+
+
+*** Prerequisites ***
+
+1) install MongoDB
+    * properly secure MongoDB
+    * create member db
+    * create user with correct access privileges
+2) install NodeJS (latest LTS version please)
+3) globally install gulp-cli if you want an automated project build
+
+
+
+*** Configuration ***
+
+1) unzip the provided archive into a new folder such as "/calgarychess.com"
+2) update .env and ecosystem.config.js files (located in project root folder) by updating empty config values
+    * this is where the application reads values for various sensitive application data, such as database configuration and email credentials
+    * without providing correct info in these files the server cannot start
+
+
+
+*** Build the project ***
+
+1) execute "npm install" from the project root folder
+    *** SEE NOTE ABOUT request.js NEAR THE END OF THIS DOCUMENT ***
+2) run from the command line:
+    gulp assets
+    gulp postcss
+    gulp babel
+    gulp hapi
+3) run "npm run hapidotenv" (reads matching "script" key in package.json) from the command line to start the server located at ./dist/hapi/server.js
+4) by default the server starts on 192.168.1.64:8888 in development mode, and localhost:3001 in production mode. These values must be changed in ./src/hapi/configs/manifest.js to match your machine's LAN address etc
+5) adjust the NODE_ENV key in .env and ecosystem.config.js files to start the server in the environment mode you want
+
+
+
+*** Utilities ***
+
+1) the ./cli folder contains several handy node command line utilities for importing and exporting member data, as well as parsing server log files
+2) you will very likely want to use ./cli/import.js to quickly and easily populate the member database with the contents of ./mongodb_exports/export_2020-03-25.json
+3) if we time this right, I could have an up-to-the-minute version of the member database for you just before my version of the site goes dark
+
+
+
+
+
+
+
+
+PRODUCTION SERVER
+
+
+*** Prerequisites ***
+
+1) same MongoDB requirement
+2) same NodeJS requirement
+3) do not need gulp-cli
+4) only need npm modules from the "dependencies" key in the project package.json file. "devDependencies" aren't needed on the production server
+
+
+
+*** Configuration ***
+
+    * same as 2) in the previous section, i.e. DEVELOPMENT SERVER
+
+
+
+*** Upload Project to Production Server ***
+
+    * upload the contents of the ./dist folder from your development server to your production server's root folder
+    * you very likely need to adjust a couple of server configuration settings in ./hapi/configs/manifest.js which will differ from those of your development server
+    * additionally, don't forget to include .env and/or ecosystem.config.js in your web root folder, also, possibly, with adjusted configs to account for any differences between dev and prod
+    * I highly recommend using PM2 (see below) to handle server starts and restarts automatically. As a bonus, together with Nginx, you get a proxy and load balancing for free...
+
+
+
+*** Production Web Server ***
+
+I have no idea if you will utilize a web hosting service that meets NodeJS requirements or if you intend to build a custom server. 3rd party NodeJS hosting can be expensive and the club's budget is limited. Setting up your own custom server for self-hosting is however outside the scope of running the web application itself. If you are interested:
+
+Recommended Setup:
+    * Linux distro such as Manjaro
+    * Nginx + PM2
+    * don't forget Nginx SSL certs
+    * don't forget Nginx logging
+    * don't forget Nginx "secure headers"
+    * PM2 startup script for automatic application re-start
+
+
+
+
+
+
+
+
+*** IMPORTANT NOTES ***
+
+
+Operating Systems
+    * my dev machine runs macOS, while the production server runs Manjaro Linux. All bets are off on Windows?
+
+Updating Dependencies with "npm update"
+    * currently the latest version of "rotating-file-stream" has unresolved breaking changes. Careful, do not update at this time!
+    * currently "@hapi/hapi" requires a tiny patch in the file ./node_modules/@hapi/hapi/lib/request.js to handle a call from our code in ./src/hapi/plugins/proxy.js (remoteAddress needs to be writeable)
+    * a sample of the patch is included in the _request.js file, located in the project root folder. The patch needs to be applied after the initial "npm install" and after each "npm update @hapi/hapi. Without the patch, the server errors out and won't start. Look for the function near the "// NEVEN" block comment around lines 647-656 or thereabouts
+    * zero problems anywhwere else with dependency updates

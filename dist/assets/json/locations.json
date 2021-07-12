@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "venue": "Calgary Chess Club",
+      "alts": [],
+      "address": "274 - 3359 27th Street NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postal_code": "T1Y 5E4",
+      "phone": "403.851.2552"
+    },
+    "geometry": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "type": "Point",
+        "coordinates": [-113.995535, 51.083067]
+      }]
+    }
+  }]
+}
